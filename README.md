@@ -5,7 +5,7 @@
 
 Hi, welcome to TicKTick! 
 
-This book is divided into six parts containing magical features of TickTick. 
+This book is divided into six parts containing magical features of TickTick!
 
 | Chapter | Content |
 | -- | -- |
