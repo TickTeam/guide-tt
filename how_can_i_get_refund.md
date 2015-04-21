@@ -7,5 +7,3 @@
 **Monthly Subscription**
 <br /> Normally refund is unavailable. Instead you can cancel the subscription from the platform where you purchased. 
 
-
-
