@@ -1,8 +1,8 @@
-###What is TickTick Pro?
-TickTick Pro offers monthly ($1.99) and yearly ($19.99) subscription and you can pay via Paypal, Google Wallet or iTunes.
+###What is TickTick Premium?
+TickTick Premium updates your TickTick experience to stay productive for $1.99 per month or $19.99 per year.
 
 
-**&nbsp; -PRO account has full access to features like:**
+**&nbsp; PRO account has full access to features like:**
 
 | | Item | Number |
 |-- || -- | -- |
@@ -15,7 +15,7 @@ TickTick Pro offers monthly ($1.99) and yearly ($19.99) subscription and you can
 <br />
 
 
-**&nbsp;-In web app, Pro users can also enjoy the following features in “Lab”:**
+**&nbsp;In web app, Pro users can also enjoy the following features in “Lab”:**
 
 | | Name | Function |
 |-- || -- | -- |
@@ -25,7 +25,7 @@ TickTick Pro offers monthly ($1.99) and yearly ($19.99) subscription and you can
 <br />
 
 
-**&nbsp;-Most of TickTick key features are free, but free account has the following limits:**
+**&nbsp;Most of TickTick key features are free, but free account has the following limits:**
 
 | | Item | Number |
 |-- || -- | -- |
