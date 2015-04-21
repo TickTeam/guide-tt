@@ -3,7 +3,7 @@
 
 ###**What can I find here?**
 
-Hi, welcome to TicKTick! This book contains most of the features of TickTick. It is divided into six parts to help you find your target feature directly:
+Hi, welcome to TicKTick! This book contains most of the features of TickTick. It is divided into six parts in order to help you find your target feature directly:
 
 | Chapter | Content |
 | -- | -- |
@@ -14,7 +14,7 @@ Hi, welcome to TicKTick! This book contains most of the features of TickTick. It
 |Chapter 4| Chrome Extension |
 |Chapter 5| Video Tutorials |
 
-Please contact us if you have any further questions. You can create a discussion thread at TickTick [Help Center](https://help.ticktick.com/forum) or email us directly [support@ticktick.com](mailto:support@ticktick.com).
+Please contact us if you have any further questions which are not mnetioned here. You can create a discussion thread at TickTick [Help Center](https://help.ticktick.com/forum) or email us directly [support@ticktick.com](mailto:support@ticktick.com).
 
 
 <br />
