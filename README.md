@@ -3,7 +3,7 @@
 
 ###**What can I find here?**
 
-Hi, welcome to TicKTick! In order to help you better understand TickTick’s functions under different platforms, we divide our User Guide into five parts. You can have a quick view:
+Hi, welcome to TicKTick! This book contains most of the features of TickTick. In order to help you found your target feature directly, User Guide was divided into six parts:
 
 | Chapter | Content |
 | -- | -- |
@@ -14,15 +14,15 @@ Hi, welcome to TicKTick! In order to help you better understand TickTick’s fun
 |Chapter 4| Chrome Extension |
 |Chapter 5| Video Tutorials |
 
-You can search for your problems from the left panel by entering key words after pressing Ctrl+F. If your problems are not mentioned here or you have some requiremnets and suggestions, you can post a thread in TickTick [forum](https://help.ticktick.com/forum) or email us directly [support@ticktick.com](mailto:support@ticktick.com).
+Please contact us if you have any further questions. You can create a discussion thread at TickTick [Help Center](https://help.ticktick.com/forum) or email us directly [support@ticktick.com](mailto:support@ticktick.com).
 
 
 <br />
 
 ###Would you like to help us with translation?
-We are determined to make TickTick a multi-language app. If you are willing to contribute for the translation, please contact us via email. At present, TickTick is available in 14 languages:
+We are determined to make TickTick a multi-language app. If you are willing to contribute for the translation, please contact us via email. At present, TickTick is available in 17 languages:
 
-<mark>English, Russian, Korean, Hebrew, French, Germany, Italian, Simplified Chinese, Traditional Chinese, Slovak, Ukrainian, Spanish, Hungarian, Portuguese</mark>
+<mark>English, Russian, Korean, Hebrew, French, Germany, Italian, Simplified Chinese, Traditional Chinese, Slovak, Ukrainian, Spanish, Hungarian, Portuguese, Dutch, Czech, Japanese</mark>
 
 We are looking forward to your help!
 
