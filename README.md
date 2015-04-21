@@ -3,7 +3,7 @@
 
 ###**What can I find here?**
 
-Hi, welcome to TicKTick! This book contains most of the features of TickTick. User Guide was divided into six parts to help you find your target feature directly:
+Hi, welcome to TicKTick! This book contains most of the features of TickTick. It is divided into six parts to help you find your target feature directly:
 
 | Chapter | Content |
 | -- | -- |
