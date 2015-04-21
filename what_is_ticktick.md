@@ -5,7 +5,7 @@ TickTick is a cross-platform to-do list app & task manager, helping you to get a
 
 <img src="images/1.png" alt="" style="width: 350px;">
 
-####*Check items one by one!*
+####*Check tasks one by one!*
 
 <img src="images/3.png" alt="" style="width: 350px;">
 
@@ -13,11 +13,11 @@ TickTick is a cross-platform to-do list app & task manager, helping you to get a
 
 <img src="images/4.png" alt="" style="width: 350px;">
 
-####*Be remindered when arrive or leave a specific place!*
+####*Get remindered based on your location!*
 
 <img src="images/2.png" alt="" style="width: 350px;">
 
-####*Discover many powerful features by yourself!*
+####*Discover more powerful features by yourself!*
 
 <img src="images/5.png" alt="" style="width: 350px;">
 
