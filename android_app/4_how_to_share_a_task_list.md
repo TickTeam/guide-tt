@@ -1,9 +1,9 @@
 ### How to share task lists with others?
-If you want to check a shopping list with your parents or discuss a meeting agenda with your colleagues, you can share your lists with them.
+With a shared list, it is easy to check a shopping list with your parents or discuss a meeting agenda with your colleagues.
 
 <br />
 
-**-Option 1: Add recipients from the list detailed page.**
+**-Option 1: Add recipients**
 
 1.Select a task list first and click “Share List” from the option menu on the top right.
 
@@ -15,7 +15,8 @@ You can watch the video below from 00:00 to 00:22.
 
 <br />
 
-**-Option 2: Add recipients from the list setting page.**
+
+Another place to add recipients is list setting page.
 
 1.You can slide the screen to the right from margin or click the bulleted list icon on the top left of the toolbar.
 
@@ -24,6 +25,9 @@ You can watch the video below from 00:00 to 00:22.
 3.Choose a list and click the “+” under the item of “SHARE FRIENDS” to add recipients.
 
 ![](../images/image2.3.5W.png)
+
+**-Option 2: Share via link**
+
 
 
 
