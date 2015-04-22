@@ -1,5 +1,5 @@
 #### How to share a task list?
-If you want to check a shopping list with your parents or discuss a meeting agenda with your colleagues, you can share your lists with them.
+With a shared list, it is easy to check a shopping list with your parents or discuss a meeting agenda with your colleagues.
 
 **-Option 1: Add recipients**
 
