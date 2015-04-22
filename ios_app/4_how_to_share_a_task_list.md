@@ -14,7 +14,7 @@ Anotehr place to add recipients is list setting page. You can slide the screen t
 
 **-Option 2: Share via link**
 
-Link is an easy way to share lists, becasue you don't need to inquire about others’ email address. Instead you only need to share the link with your friends via social media. 
+Link is an easy way to share lists. You don't need to enter email address, and instead you only need to share the link via social media. Then recipients can sign in TickTick to accept the list.
 
 
 
