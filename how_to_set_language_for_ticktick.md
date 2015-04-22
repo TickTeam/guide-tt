@@ -1,2 +1,2 @@
-# How to set language for TickTick?
+###How to set language for TickTick?
 
