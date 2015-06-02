@@ -2,5 +2,10 @@
 
 TickTick now supports multiple languages within web app.
 
-1. 
+1.Click the avatar on top right corner.
 
+2.Enter “Settings” and click “Preferences”.
+
+3.Then you will see “Language”.
+
+PS: If your language is not here, you can click “Your language is not available?”, and then click “Help us translate”. Then you will be led to complete a form.
