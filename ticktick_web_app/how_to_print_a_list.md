@@ -3,4 +3,4 @@
 
 2.Choose “Print”.
 
-Before printing, you will have a print preview where you can set paper size, margins, etc.
+Before printing, you can set paper size, margins, etc.
