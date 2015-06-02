@@ -1,7 +1,11 @@
 ###How to add a recurring task?
-1.Click the due date in the right panel.
+1.Select a task.
 
-2.Click the “No Repeat” bar. You can choose such as Daily/Weekly/Monthly/Yearly/ or click “Advanced” to customize the repeating interval and repeating type (repeat from completion date or repeat from due date).
+2.Click its due date on the top of the right panel.
+
+2.Click the “No Repeat”. 
+
+Then you can choose repeating mode such as Daily/Weekly/Monthly/Yearly. Or you can choose “Advanced” to set repeating interval and repeating type.
 
 
 <br />
