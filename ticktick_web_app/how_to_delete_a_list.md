@@ -1,5 +1,5 @@
 ###How to delete a list?
-1.Click the downward arrow of a list.
+1.Click the downward arrow at the end of a list title.
 
 2.Choose “Delete” and click “OK” for confirmation.
 
