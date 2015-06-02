@@ -4,7 +4,7 @@ There are two ways to share lists.
 
 Option 1: 
 
-1.Click the downward arrow of a list to choose “share”.
+1.Click the downward at the end of a list title to choose “share”.
 
 2.Enter the email address of recipient directly. Then recipients will be notified by email to accept your sharing invitaion.
 
@@ -16,7 +16,7 @@ Option 1:
 
 Option 2:
 
-1.Click the downward arrow of a list to choose “share”.
+1.Click the downward arrow at the end of a list title to choose “share”.
 
 2.Click “Generate Link” and then you can copy the link to your friends. 
 
