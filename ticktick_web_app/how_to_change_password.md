@@ -1,6 +1,6 @@
 ###How to change password?
 1.Click the avatar on top right corner.
 
-2.Enter “Settings”> “Account”.
+2.Click “Settings” and then choose “Account”.
 
-3.Click “change password” and you are able to enter your new password.
+3.Click “Change Password” and then you need to input your current password and new password.
