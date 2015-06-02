@@ -29,7 +29,7 @@
        * [How to close an inactive list temporarily?](ticktick_web_app/how_to_close_a_list.md)
        * [How to delete a list?](ticktick_web_app/how_to_delete_a_list.md)
        * [What is “Inbox”?](ticktick_web_app/what_is_inbox.md)
-       * How to create a list folder?
+       * [How to create a list folder?](how_to_create_a_list_folder.md)
    * [Task management]
        * [How to add a new task?](ticktick_web_app/how_to_add_a_new_task.md)
        * [How to add a recurring task?](ticktick_web_app/how_to_add_a_recurring_task.md)
