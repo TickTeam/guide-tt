@@ -23,11 +23,11 @@ Please contact us if you have any further questions which are not mentioned here
 <br />
 
 ###Would you like to help us with translation?
-We are determined to make TickTick a multi-language app. If you are willing to contribute for the translation, please contact us via email. At present, TickTick is available in 17 languages:
+We are determined to make TickTick a multi-language app. If you are willing to contribute for the translation, please contact us via email. At present, TickTick supports multiple languages:
 
-<mark>English, Russian, Korean, Hebrew, French, Germany, Italian, Simplified Chinese, Traditional Chinese, Slovak, Ukrainian, Spanish, Hungarian, Portuguese, Dutch, Czech, Japanese</mark>
+<mark>English, Russian, Korean, Hebrew, French, Germany, Italian, Simplified Chinese, Traditional Chinese, Slovak, Ukrainian, Spanish, Hungarian, Portuguese, Dutch, Czech, Japanese, Polish </mark>
 
-We are looking forward to your help!
+Some of them are only available on specific platforms, so we are always looking forward to your help!
 
 
 
