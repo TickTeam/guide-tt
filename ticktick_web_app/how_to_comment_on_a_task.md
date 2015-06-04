@@ -6,6 +6,6 @@
 
 3.Select “Comment” to add your remarks.
 
-“Comment” is always used to add extra remarks to a task. Within a shared list, all shared members can comment on any task of this list to realize real chat & communication.
+“Comment” is always used to add extra remarks to a task. Within a shared list, all shared members can comment on any tasks to realize real chat & communication.
 
 ![](../images/comment.png)
