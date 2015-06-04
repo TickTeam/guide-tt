@@ -8,4 +8,4 @@
 
 “Comment” is always used to add extra remarks to a task. Within a shared list, all shared members can comment on any tasks to realize real chat & communication.
 
-![](../images/comment.png)
+![](../images/webcomment.png)
