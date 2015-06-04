@@ -6,3 +6,4 @@ You can assign tasks in shared list.
 2.Click the assignment icon in task detail page to choose a assignee.
 
 ![](../images/webassign.png)
+
