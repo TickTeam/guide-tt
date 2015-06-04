@@ -1,5 +1,5 @@
-### How to move a task in another list ?
-**Option 1: Choose a list for a task**
+### How to move a task to another list ?
+**Option 1**
 <br />
 
 1.Select a task.
@@ -10,9 +10,9 @@
 
 ![](../images/image1.4.13X.png)
 
-**Option 2: Drag a task directly to another list**
+**Option 2**
 <br />
 
-You can move a task to another list dirctly by manual drag.
+You can just drag a task to a list directly:-)
 
 
