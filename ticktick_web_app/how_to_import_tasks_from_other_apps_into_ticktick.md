@@ -5,6 +5,6 @@
 
 2.Click “More” > “Import”.
 
-TickTick allows you to import tasks from other to-do apps like Astrid, Wunderlist and so on.
+TickTick allows you to import tasks from other to-do apps such as Astrid, Wunderlist, etc.
 
 ![](../images/image1.12W.png)
