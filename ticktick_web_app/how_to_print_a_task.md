@@ -3,6 +3,6 @@
 
 2.Click the upward arrow on bottom right corner in task detail page.
 
-3.Choose “Print” to print your selected tasks.
+3.Choose “Print”.
 
-Before printing, you can have a print preview where you can change paper size, margins and ect.
+Before printing, print preview allows you to view what a printed version of the document would look like on the screen. And you can change paper size, margins ect.
