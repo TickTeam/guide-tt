@@ -5,6 +5,3 @@
 1.Click the downward arrow at the end of a list title. 
 
 2.Choose “Activities”.
-
-
-
