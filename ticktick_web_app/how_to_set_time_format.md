@@ -4,3 +4,7 @@
 2.In the “Time Format” section, select “12 Hour” or “24 Hour”.
 
 
+-**Where is it used?**
+
+1.Due date
+
