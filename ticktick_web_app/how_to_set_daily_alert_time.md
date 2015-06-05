@@ -10,6 +10,6 @@ Daily Alert is a daily sum-up, reminding you of all your overdue and today’s t
 
 2.Select “Settings”.
 
-3.Set time in the section “Daily Alert Time”.
+3.Set time in the “Daily Alert Time” section.
 
 After setting “Daily Alert Time”, you will receive a reminder at a fixed time everyday with a sumup of all your overdue & today's tasks.
