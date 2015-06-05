@@ -1,4 +1,4 @@
-###What is “Daily Alert Time” ?
+###What is “Daily Alert” ?
 Daily Alert is a daily sum-up, reminding you of all your overdue and today’s tasks at a specific time each day.
 
 <br />
