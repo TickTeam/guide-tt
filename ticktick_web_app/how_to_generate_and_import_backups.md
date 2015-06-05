@@ -1,9 +1,11 @@
 ###How to export or import backup?
-1.Click the avatar on top right corner.
+1.Click the avatar in the upper-right hand corner of the screen.
 
 2.Click “Settings” and then choose “Account”.
 
-3.You will find “Import Backup” & “Generate Backup”. Click “Generate Backup” and click  “download”, then you can export backup in a .json file.
+3.Click “Generate Backup”.
+
+4.Click “download” to export backup to save as a JSON file.
 
 
 
