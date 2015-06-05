@@ -1,6 +1,8 @@
 ###Can I delete my account?
 
-Are you sure you want to delete your account? I feel sorry to hear that:-( You can contact us if you have any issues when using TickTick.
+Are you sure you want to delete your account? I feel sorry to hear that:-( 
+
+You can contact us if you have any issues when using TickTick.
 
 
 <br />
