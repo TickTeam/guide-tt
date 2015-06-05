@@ -2,11 +2,11 @@
 
 1.Click the avatar in the upper-right hand corner of the screen.
 
-2.Click “Settings” and then choose “Account”.
+2.Select “Settings” > “Account”.
 
-3.Click “Upgrade to Pro”.
+3.Click “Upgrade to Pro” below your nickname.
 
-4.Choose subscription period (monthly or yearly) to complete purchase via Paypal.
+4.Select period (monthly or yearly) to complete subscription via Paypal.
 
 You can also subscribe TickTick Pro on your mobile app via “Google Wallet” or “iTunes” according to your device.
 
