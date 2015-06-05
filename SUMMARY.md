@@ -9,7 +9,7 @@
 * [TickTick web app]
    * [Preference Settings]
        * [What should I do when due dates are different among different platforms?](ticktick_web_app/how_to_set_timezone.md)
-       * [Where is “Start Day of Week” used?](ticktick_web_app/how_to_set_the_start_of_week.md)
+       * [How to set the start day of the week?](ticktick_web_app/how_to_set_the_start_of_week.md)
        * [How to set Time Format?](ticktick_web_app/how_to_set_time_format.md)
        * [What is Daily Alert Time?](ticktick_web_app/how_to_set_daily_alert_time.md)
    * [Account Settings]
