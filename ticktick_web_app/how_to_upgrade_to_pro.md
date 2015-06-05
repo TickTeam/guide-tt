@@ -17,4 +17,4 @@ Yes, you can cancel anytime.
 
 If you cancel the subscription within 14 days, you can get refund (turn to 0.5 for details), and your account will be downgraded immediately. 
 
-If you cancel the subscription after 14 days, you can't get refund. The subscription will last until the end of the month or year depending on what you initially chose, and once Pro expires, you will become a TickTick Free user again. But your lists and tasks will not be lost.
+If you cancel the subscription after 14 days, you can't get refund. The subscription will last until the end of the month or year depending on what you initially chose, and once PRO expires, you will become a TickTick Free user again. But your lists and tasks will not be lost.
