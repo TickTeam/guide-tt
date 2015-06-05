@@ -8,5 +8,7 @@
 
 4.Click “download” to export backup as a JSON file.
 
+As for import, you can import tasks wihch are generated from TickTick. If you want to import tasks from other apps, please turn to 1.4.14 for more details. 
+
 
 
