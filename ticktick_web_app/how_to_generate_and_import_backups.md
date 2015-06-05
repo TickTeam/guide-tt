@@ -4,7 +4,7 @@
 
 2.Select “Settings” > “Account”.
 
-3.Click “Generate Backup”.
+3.Click “Generate Backup” in the “Backup” section.
 
 4.Click “download” to export backup and save as a JSON file.
 
