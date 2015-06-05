@@ -6,7 +6,7 @@
 
 <br />
 
--**Where is “Start Day of Week” used?**
+-**Where is it used?**
 
 1.Due date calendar  
 
