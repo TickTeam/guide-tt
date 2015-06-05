@@ -27,7 +27,7 @@ We are determined to make TickTick a multi-language app. If you are willing to c
 
 <mark>English, Russian, Korean, Hebrew, French, Germany, Italian, Simplified Chinese, Traditional Chinese, Slovak, Ukrainian, Spanish, Hungarian, Portuguese, Dutch, Czech, Japanese, Polish </mark>
 
-Some of them are only available on specific platforms, so we are always looking forward to your help!
+Some languages above are available only on specific platforms, so we are always looking forward to your help!
 
 
 
