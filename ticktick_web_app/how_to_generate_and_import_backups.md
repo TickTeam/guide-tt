@@ -6,7 +6,7 @@
 
 3.Click “Generate Backup”.
 
-4.Click “download” to export backup as a JSON file.
+4.Click “download” to export backup and save as a JSON file.
 
 In the “Backup” section, you can import backup wihch are generated from TickTick. If you want to import backup from other apps, please turn to 1.4.14 for more details. 
 
