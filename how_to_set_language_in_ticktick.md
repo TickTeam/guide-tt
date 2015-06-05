@@ -3,7 +3,7 @@ TickTick is available in many languages.
 
 1.Click the avatar in the upper-right hand corner of the screen.
 
-2.Click “Settings” and then choose “Preferences”.
+2.Click “Settings” > “Preferences”.
 
 3.Then you will see “Language”.
 
