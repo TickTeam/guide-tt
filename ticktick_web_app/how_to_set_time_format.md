@@ -6,5 +6,8 @@
 
 -**Where is it used?**
 
-1.Due date
+Due date
+
+![](../images/web_time_format.png)
+
 
