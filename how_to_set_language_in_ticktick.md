@@ -1,8 +1,7 @@
 ### How to set language in TickTick?
+TickTick is available in many languages. 
 
-TickTick now supports multiple languages within web app.
-
-1.Click the avatar on top right corner.
+1.Click the avatar in the upper-right hand corner of the screen.
 
 2.Click “Settings” and then choose “Preferences”.
 
