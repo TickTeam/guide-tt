@@ -1,10 +1,13 @@
 ### Where can I redeem a TickTick gift card?
-If you have a TickTick Pro gift code, you can redeem it via web app:
 
-1.Click the avatar on top right corner.
+If you have a TickTick Pro gift code, please redeem it on web:
 
-2.Enter “More” > “Redeem” to enter your gift code to upgrade your account.
+1.Click the avatar in the upper-right hand corner of the screen.
 
-PS: If you are PRO, please redeem a gift code after your account downgrade to free account. 
+2.Click “More”, and then click “Redeem”.
+
+3.Enter gift code.
+
+PS: If you are PRO, please redeem the gift code after your account downgrade to free account. 
 
 ![](../images/image1.13W.png)
