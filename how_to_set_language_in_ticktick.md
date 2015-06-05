@@ -5,4 +5,4 @@ TickTick is available in many languages.
 
 3.Select a language in the “Language” section.
 
-PS: If your language is not here, you can click “Your language is not available?”, and then click “Help us translate”. Then you will be led to complete a form.
+PS: If your language is not here, you can click “Your language is not available?” at the bottom of the drop-down menu. Then click “Help us translate” to complete a form. After that, we will contact you over the next few days. 
