@@ -13,6 +13,7 @@ You can also subscribe TickTick Pro on your mobile app via “Google Wallet” o
 <br />
 
 -**Can I cancel anytime?**
+
 Yes, you can cancel anytime. 
 
 If you cancel the subscription within 14 days, you can get refund (turn to 0.5 for details), and your account will be downgraded immediately. 
