@@ -2,7 +2,7 @@
 
 1.Click the avatar in the upper-right hand corner of the screen to select “Settings”.
 
-2.in the “Preferences” section select the first day of the week.
+2.In the “Preferences” section select Sunday, monday, or Saturday as the first day of the week.
 
 <br />
 
