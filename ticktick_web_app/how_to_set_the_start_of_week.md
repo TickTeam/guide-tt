@@ -1,10 +1,8 @@
 ###How to set the start day of the week?
 
-1.Click the avatar in the upper-right hand corner of the screen.
+1.Click the avatar in the upper-right hand corner of the screen to select “Settings”.
 
-2.Click “Settings” and then choose “Preferences”.
-
-3.Choose the first day of the week.
+2.in the “Preferences” section select the first day of the week.
 
 <br />
 
