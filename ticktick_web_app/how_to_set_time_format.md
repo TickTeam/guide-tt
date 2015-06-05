@@ -6,8 +6,6 @@
 
 -**Where is it used?**
 
-1.Due date
+Time format is mostly used in setting due date.
 
 ![](../images/webtimeformat.png)
-
-
