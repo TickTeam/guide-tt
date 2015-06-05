@@ -12,6 +12,7 @@
        * [How to set the start day of the week?](ticktick_web_app/how_to_set_the_start_of_week.md)
        * [How to set Time Format?](ticktick_web_app/how_to_set_time_format.md)
        * [What is Daily Alert?](ticktick_web_app/how_to_set_daily_alert_time.md)
+   * [How to set language in TickTick?](how_to_set_language_in_ticktick.md)
    * [Account Settings]
        * [How to change the email address of my account?](ticktick_web_app/how_to_change_the_email_address_of_your_account.md)
        * [How to upload profile image?](ticktick_web_app/how_to_upload_your_profile_image.md)
@@ -20,7 +21,6 @@
        * [Can I delete my account?](ticktick_web_app/how_to_delete_your_account.md)
        * [How to upgrade to Pro?](ticktick_web_app/how_to_upgrade_to_pro.md)
        * [Where can I redeem a TickTick gift card?](ticktick_web_app/where_can_i_redeem_a_ticktick_gift_certificate.md)
-       * [How to set language in TickTick?](how_to_set_language_in_ticktick.md)
    * [List Management]
        * [How to add a new list?](ticktick_web_app/how_to_add_a_new_list.md)
        * [How to edit a list?](ticktick_web_app/how_to_edit_lists.md)
