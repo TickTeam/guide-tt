@@ -1,5 +1,6 @@
 ###How to change the email address of my account?
-1.Click the avatar on top right corner.
+
+1.Click the avatar in the upper-right hand corner of the screen. 
 
 2.Click “Settings” and then choose “Account”.
 
