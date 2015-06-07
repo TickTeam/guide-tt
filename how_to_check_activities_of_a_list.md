@@ -8,4 +8,4 @@
 
 
 
-
+![](../images/webactivities.png)
