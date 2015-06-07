@@ -1,5 +1,5 @@
 ###How to print a list?
-1.Click the downward arrow located near a list name.
+1.From the Lists view click the downward arrow located near a list name.
 
 2.Select “Print”.
 
