@@ -6,3 +6,4 @@
 2.Enter a list name and select a color for all tasks in this list.
 
 
+![](../images/webaddlist.png)
