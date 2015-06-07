@@ -1,5 +1,5 @@
 ###How to edit lists?
-1.Click the downward arrow at the end of a list title.
+1.Click the downward arrow located near a list name.
 
 2.Then click “Edit”.
 
