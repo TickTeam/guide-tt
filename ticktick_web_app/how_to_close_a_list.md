@@ -1,6 +1,6 @@
 ###How to close an inactive list temporarily?
 
-1.Click the downward arrow located near a list name.
+1.From the Lists view click the downward arrow located near a list name.
 
 2.Select “Close” and click “OK” for confirmation.
 
