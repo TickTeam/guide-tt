@@ -7,4 +7,4 @@ With Folders, organizing your lists is as simple as dragging and dropping.
 
 2.Hover your selected list until a blue box appears around the second list. 
 
-3.Drop the selected list, and then you can input a name for the folder.
+3.Drop the selected list, and then you can enter a name for the folder.
