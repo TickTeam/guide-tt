@@ -5,3 +5,4 @@
 
 3.Set paper size, margins, etc. before printing.
 
+![](../images/webprint.png)
