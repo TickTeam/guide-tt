@@ -1,6 +1,6 @@
 ###How to delete a list?
-1.Click the downward arrow at the end of a list title.
+1.From the Lists view click the downward arrow located near a list name.
 
-2.Choose “Delete” and click “OK” for confirmation.
+2.Select “Delete” and click “OK” for confirmation.
 
-Please note once a list is deleted, all tasks within that list will be removed. So, be cautious when deleting a list.
+Please note once a list is deleted, all tasks within that list will be removed.
