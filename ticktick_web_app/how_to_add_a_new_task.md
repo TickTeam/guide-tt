@@ -1,5 +1,5 @@
 ##How to add a new task?
-You can add a new task in the quick add bar directly. Then click the calendar-shaped icon to assign a due date.
+To create a new task, enter a list and then click the “Add task to ...” at the top of the screen. Type the name of your items and then press Enter to add the new item to your list. 
 
 <br />
 
