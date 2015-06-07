@@ -28,6 +28,9 @@ Option 2:
 
 5.Once you accept the request, the shared list will be copied to your friends List. 
 
+![](../images/websharelink.png)
+
+
 
 <br />
 
