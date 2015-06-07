@@ -21,7 +21,7 @@ Type “^” and select a list in the drop down menu.
 
 **3.Example:**
 
-Input “Go to Party^Entertainment*Tuesday” in the quick add bar. Then you will find a new task “Go to party” added in the list “Entertainment”, which due date is Tuesday.
+Type “Go to Party^Entertainment*Tuesday” in the add bar. Then you will find a new task “Go to party” added in the list “Entertainment”, which due date is Tuesday.
 
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/RYv8Lz9t89M?list=PLbWRKVi0_aTH4wo0Z2kCuMy7RHV7t9onw" frameborder="0" allowfullscreen></iframe>
