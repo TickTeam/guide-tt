@@ -4,6 +4,8 @@
 
 1.From the Lists view click the downward arrow located near a list name. 
 
-2.Select “Activities”.
+2.Select “Activities” to view history.
+
+
 
 
