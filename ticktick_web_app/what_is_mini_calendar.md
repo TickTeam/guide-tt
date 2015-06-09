@@ -7,7 +7,7 @@
 
 4.A small calendar will be displayed at the bottom of left panel.
 
-![](../images/miniC.png)
+![](../images/webmini.png)
 
 **-What is Mini Calendar used for?**
 
