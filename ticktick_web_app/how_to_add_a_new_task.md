@@ -2,7 +2,7 @@
 To create a new task, enter a list and then click the “Add task to ...” at the top of the screen. Type the name of your items and then press Enter to add the new task to your list. 
 
 
-
+![](../images/webadd.png)
 
 
 <br />
@@ -13,10 +13,14 @@ To create a new task, enter a list and then click the “Add task to ...” at t
 
 Type “*” and select a due date in the drop-down menu. 
 
+![](../images/webaddshort1.png)
+
 
 **2.The shortcut for list:**
 
 Type “^” and select a list in the drop-down menu.
+
+![](../images/webaddshort2.png)
 
 
 **3.Example:**
