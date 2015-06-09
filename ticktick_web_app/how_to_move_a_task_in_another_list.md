@@ -4,9 +4,9 @@
 
 1.Select a task.
 
-2.Click the list name at the bottom of the right panel.
+2.Click its list at the bottom of the right panel.
 
-3.Choose one list to fulfill the movement.
+3.Select a list to fulfill the movement.
 
 ![](../images/image1.4.13X.png)
 
