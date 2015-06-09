@@ -1,5 +1,5 @@
 ###How to subscribe my calendar in TickTick? <mark>[Pro only]</mark>
-This feature allows you to add events from other calendar services to TickTick.
+This feature allows you to add events from a third-party calendar to TickTick.
 
 <br />
 ####**-How to do?**
