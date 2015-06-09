@@ -1,4 +1,7 @@
 ###How to add a new task via email?
+
+If your email inbox is full of to-dos, you can turn them into tasks using Mail Service in TickTick.
+
 1.Click your avatar in the upper-right hand of the page.
 
 2.Select “Settings”, and click “Mail Service”.
