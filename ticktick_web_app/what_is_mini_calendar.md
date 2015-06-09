@@ -1,9 +1,18 @@
 ###What is “Mini Calendar”?<mark>[Pro only]</mark>
-“Mini Calendar”, just as its name implies, is a small calendar which allows you to know  quickly at which date you have tasks. It is a premium feature available for Pro users only.
+“Mini Calendar”, just as its name implies, is a small calendar which allows you to know  quickly at which date you have tasks and to add tasks based on a calednar view.
 
-1.Click the avatar on top right corner to enter “Labs” to enable “Mini Calendar”.
+1.Click the avatar in the upper-right of the page.
 
-2.Then, a small calendar will be displayed on the bottom of left panel.
+2.Select “Labs” to enable “Mini Calendar”.
+
+4.A small calendar will be displayed at the bottom of left panel.
+
 ![](../images/miniC.png)
 
-3.The dates highlighted with yellow indicates that there are tasks for that day and clicking on that date will show all related tasks. You can also click any date to add tasks for that day directly.
+**-What is Mini Calendar used for?**
+
+Tip 1. The dates which are highlighted with yellow indicate that you have tasks on that day. 
+
+Tip 2. If you click a date on a mini calendar, tasks on that day will be displayed in the middle of the page. 
+
+Tip 3. You can click any date and enter tasks in the add bar for that day directly.
