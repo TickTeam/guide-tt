@@ -5,6 +5,6 @@
 
 Or you can just press “Ctrl+/” to find out all shortcuts.
 
-
+![](../images/webshortcut.png)
 
 
