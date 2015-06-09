@@ -1,7 +1,9 @@
 ###How to add a new task via email?
-1.Click your avatar on top right corner to enter “Settings”, and then choose “Mail Service”.
+1.Click your avatar in the upper-right hand of the page.
 
-2.There are two email address for you:
+2.Select “Settings”, and click “Mail Service”.
+
+There are two email address for you:
 
 One is **<mark>todo@mail.ticktick.com</mark>**. If you sign in TickTick with an email, then you can email your task via your regitered email to todo@mail.ticktick.com
 
