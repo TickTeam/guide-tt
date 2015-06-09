@@ -16,3 +16,4 @@
 You can just drag a task to a list directly:-)
 
 
+![](../images/webmovetask.png)
