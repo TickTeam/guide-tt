@@ -1,4 +1,4 @@
-###How to import tasks into TickTick?
+###How to import tasks from other apps into TickTick?
 
 
 1.Click the avatar on top right.
