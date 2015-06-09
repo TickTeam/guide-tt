@@ -2,7 +2,7 @@
 
 1.Select a Task.
 
-2.Click the upward arrow on bottom right corner in task detail page.
+2.Click the upward arrow on bottom right corner of the page.
 
 3.Select “Comment” to add your remarks.
 
