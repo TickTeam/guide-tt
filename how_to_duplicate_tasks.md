@@ -10,5 +10,5 @@
 
 After that you will find a copy, task B, appear below task A. Then you can edit task B and move it to another list, etc.
 
-
+![](../images/webcopy.png)
 
