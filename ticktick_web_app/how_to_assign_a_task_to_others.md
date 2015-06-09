@@ -1,9 +1,9 @@
 ###How to assign a task?
-You can assign tasks in shared list.
+You can assign tasks to members of a shared list.
 
-1.Click a task in a shared list first.
+1.Select a shared list and click a task.
 
-2.Click the assignment icon in task detail page to choose a assignee.
+2.Click the assignment icon in the upper-right page to choose an assignee.
 
 ![](../images/webassign.png)
 
