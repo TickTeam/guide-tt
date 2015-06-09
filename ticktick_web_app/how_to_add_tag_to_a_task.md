@@ -2,7 +2,7 @@
 
 Tags help you filter your to-dos across multiple lists. To tag a to-do, simply add a hashtag to a keyword. But before that you need to enable Tags in Labs. 
 
-1.Click the avatar in the upper-right hand of the page to select “Labs”.
+1.Click your avatar in the upper-right hand of the page to select “Labs”.
 
 2.Enable “Tags”.
 
