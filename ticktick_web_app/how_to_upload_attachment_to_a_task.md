@@ -3,8 +3,8 @@
 
 2.Click the upward arrow on bottom right corner of the page.
 
-3.Choose “Upload” to add attachments.
+3.Select “Upload” to add attachments.
 
-Image, record and frequently used file types such as word, excel are all supported.
+Image, record and frequently used file types such as Word, Excel are all supported. .
 
 
