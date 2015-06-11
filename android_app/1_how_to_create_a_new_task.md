@@ -39,4 +39,4 @@ Status bar is in the pull-down menu of your phone. You can click “+” on the 
 
 <br />
 
-**-Option 4: Add a task through widget(turn to 2.6.5 for details).**
+**-Option 4: Add a task from widget(turn to 2.6.5 for details).**
