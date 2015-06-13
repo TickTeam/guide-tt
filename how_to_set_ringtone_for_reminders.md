@@ -1,4 +1,4 @@
-# How to set ringtone for reminders?
+### How to set ringtone for reminders?
 
 1.Slide the screen to the right.
 
