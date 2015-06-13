@@ -120,7 +120,7 @@
        * [How to recommend TickTick?](android_app/how_to_rate_ticktick.md)
 * [TickTick iOS App]
    * [Installation & Account]
-       * [How can I get the TickTick iPhone app?](ios_app/1_how_can_i_get_the_ticktick_iphone_app.md)
+       * [How can I get the TickTick iOS app?](ios_app/1_how_can_i_get_the_ticktick_iphone_app.md)
        * [How to sign in?](ios_app/2_how_to_sign_in.md)
        * [How to sign out?](ios_app/3_how_to_sign_out.md)
        * [How should I do if I forgot my password?](ios_app/4_how_should_i_do_if_i_forgot_my_password.md)
