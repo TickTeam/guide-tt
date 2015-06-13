@@ -6,3 +6,4 @@ Daily Alert is a daily sum-up, reminding you of all your undone and today’s ta
 2.Tap the gear-shaped icon.
 
 3.Tap “Preferences” and then select “Daily Alert” to set a daily alert time.
+
