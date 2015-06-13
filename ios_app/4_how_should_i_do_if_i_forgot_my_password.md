@@ -1,5 +1,5 @@
 ### How should I do if I forgot my password?
-1.Click “Forgot Password” in the page you sign in.
+1.Click “Forgot Password” in the page you sign in TickTick.
 
 2.Enter your email address in the next page.
 
