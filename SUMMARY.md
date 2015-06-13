@@ -132,6 +132,7 @@
        * [What does the app badge count for?](ios_app/what_does_the_app_badge_count_for.md)
        * [How to set language for TickTick?](how_to_set_language_for_ticktick.md)
        * [How to set ringtone for reminders?](how_to_set_ringtone_for_reminders.md)
+       * Why voice input can't recognize my language? 
    * [Task Management]
        * [How to create a new task?](ios_app/1_how_to_create_a_new_task.md)
        * [How to edit mutiple tasks at a time?](ios_app/2_how_to_batch_edit_tasks.md)
