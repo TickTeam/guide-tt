@@ -6,7 +6,7 @@
 
 **-Option 1: Add Button**
 
-You can choose a list first, and then tap “+” icon at the bottom of the task page to enter a new task. 
+You can choose a list first, and then tap “+” at the bottom of the task page to enter a new task. 
 
 <br />
 
