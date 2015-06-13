@@ -3,7 +3,7 @@
 
 2.Tap “Comment” in the pop-up menu from the bottom.
 
-Tap the exiting comment and then long press it in the next page where allows you to edit/delete the content. If it is a shared task, all recipients can view your comments and make comments as well.
+Then you can leave a comment and if it is a shared task, all recipients can view it.
 
 You can watch the video below from 00:34 to 00:55.
 
