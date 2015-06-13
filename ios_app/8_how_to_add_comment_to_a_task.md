@@ -1,7 +1,7 @@
 ### How to add comment to a task?
-1.Select a task and click the option menu on top right corner.
+1.Select a task and tap the option menu in the upper-right hand of the screen.
 
-2.Tap the “comment” icon to add your comment directly.
+2.Tap “Comment” in the pop-up menu from the bottom.
 
 Tap the exiting comment and then long press it in the next page where allows you to edit/delete the content. If it is a shared task, all recipients can view your comments and make comments as well.
 
