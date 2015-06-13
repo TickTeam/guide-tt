@@ -3,7 +3,7 @@ In TickTick you can assign tasks in a shared list. Please note that the person y
 
 Use the following steps to assign tasks:
 
-1.Select a shared list and a task in it.
+1.Select a shared list and a task.
 
 2.Tap the option menu in the upper-right hand of the screen.
 
