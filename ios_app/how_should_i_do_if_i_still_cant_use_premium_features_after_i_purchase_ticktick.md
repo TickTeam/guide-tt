@@ -4,10 +4,10 @@ Upon completion of your payment, normally you can enjoy premium features. But if
 
 1.Slide the screen to the right.
 
-2.Click the gear-shaped icon in the upper-right hand of the screen.
+2.Tap the gear-shaped icon in the upper-right hand of the screen.
 
-3.Click “Upgrade to Pro”.
+3.Tap “Upgrade to Pro”.
 
-4.Click "Restore Purchases" at the bottom of the page.
+4.Tap "Restore Purchases" at the bottom of the page.
 
 **If the problem isn’t solved, please contact us via email: support@ticktick.com**
