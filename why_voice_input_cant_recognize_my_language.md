@@ -1,6 +1,6 @@
 ### Why voice input can't recognize my language? 
 
-If it happens, you should first check voice tpying language in TickTick.
+If it happens, you should first check voice typing language in TickTick.
 
 1.Slide the screen to the right. 
 
