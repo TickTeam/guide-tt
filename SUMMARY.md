@@ -128,7 +128,7 @@
        * [How to edit my account information?](ios_app/how_to_edit_my_account_information.md)
        * [Why I can't use premium features after purchasing TickTick?](ios_app/how_should_i_do_if_i_still_cant_use_premium_features_after_i_purchase_ticktick.md)
        * [How to lock the app? [Touch ID only]](ios_app/how_to_lock_the_app.md)
-       * [How to change language and font size in TickTick？](ios_app/how_to_change_language_and_font_size_in_ticktick.md)
+       * [How to change font size in TickTick？](ios_app/how_to_change_language_and_font_size_in_ticktick.md)
        * [What does the app badge count for?](ios_app/what_does_the_app_badge_count_for.md)
        * [How to set language for TickTick?](how_to_set_language_for_ticktick.md)
    * [Task Management]
