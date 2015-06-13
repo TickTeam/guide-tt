@@ -1,10 +1,8 @@
-### How to upload attachment？
-1.Select a task and click the option menu on top right corner.
+### How to upload photo and record?
+1.Select a task and tap the option menu in the upper-right hand of the screen.
 
-2.Tap the “attachment” icon.
+2.You can choose “Photo”，“Camera”, or “Record”.
 
-3.Select the attachment type (image, taking photo, recording).
+After you successfully upload a attachment, you can long press it to delete.
 
-After you successfully upload a attachment, you can long press the attachment to trigger deletion.
 
-![](../images/image042.png)
