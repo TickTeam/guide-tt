@@ -1,8 +1,9 @@
-### How to edit multiple tasks at a time?
-If you want to edit a batch of tasks at once, you should：
+### How to batch edit tasks?
 
-1.Long press a task.
+1.Tap the option menu in the upper-right hand of the screen.
 
-2.Select several tasks you want to edit together.
+2.Tap “Edit”
 
-3.Edit tasks with the icons popped up at the bottom.
+3.Select & edit multiple tasks. 
+
+There are four icons at the bottom of the screen. They are used to change due date, set priority, move to another list and delete. 
