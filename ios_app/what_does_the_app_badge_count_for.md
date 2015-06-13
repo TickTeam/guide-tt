@@ -1,9 +1,9 @@
 ### What does the app badge count for?
 
-The number on the app badge is included “Today & Overdue tasks” as default. And you can choose to set the task type to be counted in app badge.
+The badge in the upper-right hand of TickTick icon counts the number of “Today & Overdue” tasks by defult. And you can choose the task type to be counted in app badge by the following steps:
 
 1.Slide the screen to the right.
 
-2.Click the gear-shaped icon on the top right.
+2.Tap the gear-shaped icon in the upper-right hand of the screen.
 
-3.Click “App Badge”, then you can choose to count “Today & Overdue” task, “Today” task, or “None”.
+3.Tap “Preferences”, and then Tap “App Badge” to choose task type. 
