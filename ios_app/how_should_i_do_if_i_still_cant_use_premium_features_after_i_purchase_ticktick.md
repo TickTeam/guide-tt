@@ -1,6 +1,6 @@
 ### Why I can't use premium features after purchasing TickTick?
 
-Upon completion of your payment, normally you can enjoy premium features. But if you can’t, you should: 
+Upon completion of your payment, normally you can enjoy premium features. But if you can’t, please try the following steps: 
 
 1.Slide the screen to the right.
 
@@ -10,4 +10,4 @@ Upon completion of your payment, normally you can enjoy premium features. But if
 
 4.Click "Restore Purchases" at the bottom of the page.
 
-**If it doesn't work, please contact us via email: support@ticktick.com**
+**If the problem isn’t solved, please contact us via email: support@ticktick.com**
