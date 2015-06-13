@@ -4,4 +4,4 @@
 
 2.Tap the gear-shaped icon in the upper-right hand of the screen.
 
-3.Tap “Preferences” and then tap “Font Size”.
+3.Tap “Preferences” > “Font Size”.
