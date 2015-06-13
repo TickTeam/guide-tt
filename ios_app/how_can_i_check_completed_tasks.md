@@ -1,4 +1,4 @@
 ### Where can I check completed tasks?
-You can check all completed tasks in “Completed”. “Completed” list is hidden by default. To enable it, please turn to 3.3.1 for more details.
+You can check all completed tasks in “Completed” list. “Completed” list is hidden by default. To enable it, please turn to 3.3.1 for more details.
 
 Tasks in “Completed” are sorted by completion date. You can view all completed tasks within a specific list by clicking the icon of "funnel" in the upper-right hand of the screen.
