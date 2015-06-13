@@ -6,7 +6,7 @@ Language in TickTick is based on your system by default. Use the following steps
 
 2.Tap the gear-shaped icon in the upper-right hand of the screen. 
 
-3.Tap “Preferences” and then tap “Langusge”. 
+3.Tap “Preferences” > “Langusge”. 
 
 
 
