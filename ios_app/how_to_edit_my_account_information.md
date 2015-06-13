@@ -6,4 +6,4 @@
 
 3.Click your avatar.
 
-4.You can upload photo, set nickname and change email address.
+4.You can upload photo, set nickname, and change email address & password.
