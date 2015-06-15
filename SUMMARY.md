@@ -147,7 +147,7 @@
        * [How to add “Tags” to a task?](ios_app/9how_to_add_tags_to_a_task.md)
        * [How to assign a task to someone?](ios_app/how_to_assign_tasks_to_others.md)
        * [How to search for a task?](ios_app/how_to_search_for_a_task.md)
-       * How to move a task from one list to another?
+       * [How to move a task from one list to another?](how_to_move_a_task_from_one_list_to_another.md)
    * [List Management]
        * [How many “Smart lists” are there in TickTick?](ios_app/how_many_default_lists_are_there_in_ticktick.md)
        * [How to create a task list?](ios_app/1_how_to_create_a_task_list.md)
