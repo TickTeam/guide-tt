@@ -11,3 +11,4 @@ There are 7 default lists in TickTick: All, Today, Next 7 Days, Inbox, Calendar,
 
 4.The status of “Completed” is “Hidden”, so you can tap to enable it.
 
+![](../images/iossmartlist.png)
