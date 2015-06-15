@@ -28,7 +28,7 @@ You can choose a list first, and then tap “+” at the bottom of the task page
 
 You will find the task added with due date (tomorrow) and reminder time (13). 
 
-
+![](../images/iOSvoiceinput.png)
 
 If you find TickTick can't recognize what you speak, you should check “Voice typing langugae” first. Turn to 3.1.12 for more details.
 
