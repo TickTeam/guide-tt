@@ -12,7 +12,7 @@
 
 1.Select a task.
 
-2.Click the “checklist” icon directly.
+2.Click the icon of checklist directly.
 
 ![](../images/ioschecklist.png)
 
