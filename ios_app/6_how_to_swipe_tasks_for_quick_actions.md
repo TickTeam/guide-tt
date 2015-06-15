@@ -5,6 +5,6 @@ Swipe a task to the left until the task bar becomes blue, and four different ico
 
 Swipe a task until the task bar becomes orange. Then a pop-up window will appear, where you can set due date and reminder. 
 
-![](../images/image.ios.slide2.png)
+![](../images/iOSswipe2.png)
 
 
