@@ -133,7 +133,7 @@
        * [How to set language for TickTick?](how_to_set_language_for_ticktick.md)
        * [How to set ringtone for reminders?](how_to_set_ringtone_for_reminders.md)
        * [Why voice input can't recognize my language?](why_voice_input_cant_recognize_my_language.md)
-   * How to move a task to another list?
+   * [Task Management]
        * [How to create a new task?](ios_app/1_how_to_create_a_new_task.md)
        * [How to batch edit tasks?](ios_app/2_how_to_batch_edit_tasks.md)
        * [How to sort tasks?](ios_app/3_how_to_change_the_order_of_tasks.md)
