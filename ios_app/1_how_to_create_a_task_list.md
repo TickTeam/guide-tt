@@ -4,3 +4,5 @@
 2.Click “Add List” at the bottom of the list.
 
 3.Enter a name for the new list, and press Done.
+
+![](../images/iosaddlist.png)
