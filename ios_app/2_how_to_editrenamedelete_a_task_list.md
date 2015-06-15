@@ -6,4 +6,4 @@
 3.Clcik “Pen” to make corresponding editing on the next page, or click the “Trash” to delete the list directly.
 
 
-![](../images/edit list.png)
+![](../images/ioseditlist.png)
