@@ -14,6 +14,6 @@
 
 2.Click the “checklist” icon directly.
 
-![](../images/)
+![](../images/ioschecklist.png)
 
 Checklist is mostly used to create shopping list, packing list, etc. You can't set due date or priority for these checklist items, but instead you can drag and drop to change the order of checklist items. 
