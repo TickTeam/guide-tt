@@ -7,3 +7,5 @@ Sometimes tasks are created in smart lists, such as “Next 7 Days” and “Tod
 2.Tap the option menu in the upper-right hand of the screen.
 
 3.Tap “Move to” to choose a new list for this task.
+
+![](../images/iosmove.png)
