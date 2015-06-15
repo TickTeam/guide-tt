@@ -1,10 +1,7 @@
 ### How to create a recurring task?
 You can set different kinds of recurring tasks in TickTick. Once you check off a recurring task, the task will roll to the next recurring date according to the repeating interval. 
 
-There are totally two major repeating modes: Default and Custom. And Custom can be divided into Repeat from Due Date and Repeat from Completion Date. 
-
-
-To seperate these three repeating modes, default, Dafault, Due Date, and Completion, here comes an example.
+There are totally two major repeating modes: Default and Custom. And Custom can be divided into Repeat from Due Date and Repeat from Completion Date. To seperate these three repeating modes, here is an example:
 
 Let's say we have a recurring task which due date is Jun 15, repeating every 2 days, but you check it off on Jun 18.
 
