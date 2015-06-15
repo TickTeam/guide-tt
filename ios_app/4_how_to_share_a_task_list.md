@@ -24,7 +24,8 @@ You can watch the video below from 00:00 to 00:23.
 
 3.Tap “add” in the upper-right hand of the screen.
 
-4.Tap “Invite by Link”, and you can choose to send link via different platfroms. 
+4.Tap “Invite by Link”, and choose a platform to send the link.
+
 
 
 
