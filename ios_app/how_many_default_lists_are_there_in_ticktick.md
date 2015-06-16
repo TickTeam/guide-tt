@@ -5,7 +5,7 @@ There are 7 default lists in TickTick: All, Today, Next 7 Days, Inbox, Calendar,
 #####Take “Completed” as an example:
 1.Open TickTick on mobile and slide the screen to the right.
 
-2.Click the gear-shaped icon in the upper right hand corner of the screen.
+2.Click the gear-shaped icon in the upper right hand corner of the page.
 
 3.Tap “Smart List”.
 
