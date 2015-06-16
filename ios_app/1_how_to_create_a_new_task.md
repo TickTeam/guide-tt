@@ -24,13 +24,13 @@ You can choose a list first, and then tap “+” at the bottom of the task page
 
 1.Tap and hold “+” at the bottom of the task page.
 
-2.Start speaking. For example, “Have lunch with Jack tomorrow at 13”.
+2.Start speaking. You can say, for example, “Have lunch with Jack tomorrow at 13”.
 
-You will find the task added with due date (tomorrow) and reminder time (13). 
+A new task will be added with due date (tomorrow) and reminder time (13). 
 
 ![](../images/iOSvoiceinput.png)
 
-If you find TickTick can't recognize what you speak, you should check “Voice typing langugae” first. Turn to 3.1.12 for more details.
+If you find TickTick can’t recognize what you speak, you should check “Voice typing langugae” first. Turn to 3.1.12 for more details.
 
 
 
