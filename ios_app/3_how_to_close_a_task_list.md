@@ -8,8 +8,8 @@ Self-defined lists can be both hidden and closed. For example, if you have a lis
 
 **-How to close/hide a list?**
 
-1.Slide the screen to the left.
+1.Open TickTick on mobile and slide the screen to the right.
 
 2.Swipe a list to the left.
 
-3.Click pen-shaped icon to close or hide a task on the next page.
+3.Click pen-shaped icon to close or hide the list in the next page.
