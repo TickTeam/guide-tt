@@ -1,6 +1,7 @@
 ###  How to add calendar events in TickTick ?
-1.Slide the screen to the right and click “Calendar”.
 
-2.Click “+” on the top right of the screen.
+If you have already displayed events of your local calendar in TickTick, you can add events directly in TickTick.
 
-3.You will be guided to add a calendar event in the next page.
+1.Open TickTick on mobile and slide the screen to the right to tap “Calendar”.
+
+2.Click “+” button at the bottom of the task page to add events.
