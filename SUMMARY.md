@@ -147,6 +147,7 @@
        * [How to add “Tags” to a task?](ios_app/9how_to_add_tags_to_a_task.md)
        * [How to assign a task to someone?](ios_app/how_to_assign_tasks_to_others.md)
        * [How to search for a task?](ios_app/how_to_search_for_a_task.md)
+       * [How to move a task from one list to another?](how_to_move_a_task_from_one_list_to_another.md)
    * [List Management]
        * [How many “Smart lists” are there in TickTick?](ios_app/how_many_default_lists_are_there_in_ticktick.md)
        * [How to create a task list?](ios_app/1_how_to_create_a_task_list.md)
@@ -164,9 +165,6 @@
        * [How to clear due date & reminder settings of a task?](ios_app/3_how_to_remove_due_date_&_reminder_for_a_task.md)
        * [How to set “Daily Alert”?](ios_app/4_how_to_set_daily_alert.md)
        * [How to set “location reminder”?](ios_app/5_how_to_set_location_reminder.md)
-   * [Other]
-       * [How can I contact with TickTick Team?](ios_app/how_can_i_contact_with_ticktick_team.md)
-       * [How to recommend TickTick?](ios_app/how_to_recommend_ticktick.md)
 * [Chrome Extension]
    * [Installation & Account](chrome_extension_app/installation_&_account.md)
        * [How can I get the TickTick Chrome Extension ?](chrome_extension_app/1_how_can_i_get_the_ticktick_chrome_extension_app.md)

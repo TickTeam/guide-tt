@@ -1,7 +1,11 @@
 ### How to accept a shared list?
-If someone shares a list with you, you will get a notification inside TickTick.
+If someone shares a list with you, you will get a notification in TickTick.
 
-Slide the screen to the right, and you will find a Mail-shaped icon on the top right of the screen. The number on the Mail-shaped icon counts the number of notifications. After clicking the “Mail” to accept a shared list, it will be automatically created as a list in TickTick.
+1.Open TickTick and slide the screen to the right.
+
+2.Tap the Mail-shaped icon in the upper-right hand of the screen to accept invitation of a shared list. 
+
+The number on the Mail-shaped icon counts the number of notifications. After accepting a shared list, it will be automatically added in your TickTick.
 
 You can watch the video below from 00:23 to 00:34.
 

@@ -9,6 +9,8 @@ Use the following steps to assign tasks:
 
 3.Tap “Assign to” to choose a recipient.
 
+![](../images/iosassign.png)
+
 You can watch the video below from 00:55 to the end.
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/CTW6geOAGtw?list=PLbWRKVi0_aTEwRLCS5T4MD0wCQU_ve8xW" frameborder="0" allowfullscreen></iframe>

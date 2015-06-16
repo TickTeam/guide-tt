@@ -1,6 +1,6 @@
 ### How to sort task lists?
-You can drag lists to manually change their order according to your own preferences.
+Self-defined lists in TickTick can be sorted manually.
 
-1.Slide the screen to the right from margin.
+1.Open TickTick and slide the screen to the right.
 
-2.Drag the “Move” icon at the beginning of a list to manually change its order.
+2.Long press and drag a list to change its order.
