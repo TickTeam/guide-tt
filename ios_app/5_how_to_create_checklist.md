@@ -2,11 +2,11 @@
 
 **Option 1:**
 
-1.Select a task.
+1.Open TickTick on mobile and select a task.
 
-2.Tap the option menu in the upper-right hand of the screen.
+2.Tap the option menu in the upper-right hand corner of the page to select “Checklist”.
 
-3.Tap “Checklist” in the lower part of the screen.
+
 
 **Option 2:**
 
