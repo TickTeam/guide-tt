@@ -3,7 +3,7 @@
 
 2.Tap the option menu in the upper right hand corner of the page to select “Comment”.
 
-If it is a shared task, all recipients can view and leave comment to the task.
+If it is a shared task, all recipients can view and leave comment to this task.
 
 You can watch the video below from 00:34 to 00:55.
 
