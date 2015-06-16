@@ -4,7 +4,7 @@ With just a touch of the Home button, the Touch ID sensor will read your fingerp
 
 1.Slide the screen to the right. 
 
-2.Tap the grear-shaped icon in the upper-right hand corner of the page.
+2.Tap the gear-shaped icon in the upper-right hand corner of the page.
 
 3.Tap “Advanced Settings”.
 
