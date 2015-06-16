@@ -4,4 +4,4 @@
 
 2.Enter the address and choose to be reminded either upon arrival or leaving.
 
-To ensure proper work of location reminder, you should make sure that Location Services are enabled in your phone.
+To ensure proper work of location reminder, you should make sure that Location Services is enabled in your phone.
