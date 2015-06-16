@@ -1,4 +1,4 @@
 ###  How to display local calendar events in TickTick?
-If you’d like to migrate your events from your local calendar service to TickTick, you can choose to display local calender in TickTick's “Calendar” list.
+If you want to display events of your local calendar in TickTick, you should enable the smart list “Calendar” first. “Calendar” is hidden by default. To enable it, please turn to 3.3.1 for more details.
 
-“Calendar” is a hidden list as default, so first you should enable it (turn to 3.3.1 for details). After that you can click “Calendar Detail” to choose the local calendar you want to display.
+After enabling “Calendar”, you can select local calendar via “Settings” > “Subscribe Calendar” > “Local Calendar”. 
