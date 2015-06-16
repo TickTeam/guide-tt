@@ -3,12 +3,12 @@ There are 7 default lists in TickTick: All, Today, Next 7 Days, Inbox, Calendar,
 
 <br />
 #####Take “Completed” as an example:
-1.Open TickTick, and slide the screen to the right.
+1.Open TickTick on mobile and slide the screen to the right.
 
-2.Click gear-shaped icon in the upper-right hand of the screen.
+2.Click the gear-shaped icon in the upper right hand corner of the screen.
 
-3.Select “Smart List”.
+3.Tap “Smart List”.
 
-4.The status of “Completed” is “Hidden”, so you can tap to enable it.
+4.Tap “Completed” to enable it.
 
 ![](../images/iossmartlist.png)
