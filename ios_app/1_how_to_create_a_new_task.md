@@ -6,7 +6,7 @@
 
 **-Option 1: Add Button**
 
-You can choose a list first, and then tap “+” at the bottom of the task page to enter a new task. 
+Open TickTick on mobile and choose a list first, and then tap “+” at the bottom of the task page to enter a new task. 
 
 <br />
 
@@ -22,7 +22,7 @@ You can choose a list first, and then tap “+” at the bottom of the task page
 
 **-Option 3: Voice Input**
 
-1.Tap and hold “+” at the bottom of the task page.
+1.Open TickTick on mobile and long press “+” at the bottom of the task page.
 
 2.Start speaking. You can say, for example, “Have lunch with Jack tomorrow at 13”.
 
