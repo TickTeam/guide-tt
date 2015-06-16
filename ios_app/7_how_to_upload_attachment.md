@@ -1,8 +1,13 @@
 ### How to upload attachment?
-1.Select a task and tap the option menu in the upper-right hand of the screen.
+Uploading attachment is free for all users. You can add photos and even voice memos to a to-do. 
 
-2.You can choose “Photo”，“Camera”, or “Record”.
+1.Open TickTick on mobile and select a task.
 
-After you successfully upload a attachment, you can long press it to delete.
+2.Tap the option menu in the upper right hand corner of the page.
+
+3.Select “Photo”, “Camera”, or “Record” to upload attachment.
+
+
+
 
 
