@@ -16,7 +16,7 @@ You can choose a list first, and then tap “+” at the bottom of the task page
 
 2.In the “Today” section, tap “Add New” if you have already added TickTick in “Today”.
 
-*If TickTick is not in “Today” section, you should add it first by tapping “Edit” at the bottom. 
+*If TickTick is not in “Today” section, you should add it first by tapping “Edit” at the bottom of pull-down screen. 
 
 <br />
 
