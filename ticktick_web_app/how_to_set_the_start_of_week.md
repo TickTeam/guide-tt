@@ -1,8 +1,8 @@
 ###How to set the first day of the week?
 
-1.Click the avatar in the upper-right hand corner of the screen to select "Settings".
+1.Click the avatar in the upper-right hand corner of the screen to select “Settings”.
 
-2.In the "Start Week On" section, select Sunday, Monday, or Saturday as the first day of the week.
+2.In the “Start Week On” section, select Sunday, Monday, or Saturday as the first day of the week.
 
 <br />
 
