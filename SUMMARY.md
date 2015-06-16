@@ -161,7 +161,6 @@
        * [How to add calendar events in TickTick ?](ios_app/2_how_to_add_calendar_events_in_ticktick.md)
    * [Reminder]
        * [How to set reminder for a task?](ios_app/1_how_to_set_due_date_&_reminder_for_a_task.md)
-       * [How to clear due date & reminder of a task?](ios_app/3_how_to_remove_due_date_&_reminder_for_a_task.md)
        * [How to set “Daily Alert”?](ios_app/4_how_to_set_daily_alert.md)
        * [How to set “location reminder”?](ios_app/5_how_to_set_location_reminder.md)
 * [Chrome Extension]
