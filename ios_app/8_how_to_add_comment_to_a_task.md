@@ -1,9 +1,9 @@
 ### How to add comment to a task?
-1.Select a task and tap the option menu in the upper-right hand of the screen.
+1.Open TickTick on mobile and select a task that you want to add comment.
 
-2.Tap “Comment” in the pop-up menu from the bottom.
+2.Tap the option menu in the upper right hand corner of the page to select “Comment”.
 
-Then you can leave a comment and if it is a shared task, all recipients can view it.
+If it is a shared task, all recipients can view and leave comment to this task.
 
 You can watch the video below from 00:34 to 00:55.
 

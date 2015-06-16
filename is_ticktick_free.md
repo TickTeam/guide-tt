@@ -15,7 +15,7 @@ TickTick Premium updates your TickTick experience to stay productive for $1.99 p
 <br />
 
 
-**&nbsp;In web app, Pro users can also enjoy the following features in “Lab”:**
+**&nbsp;In web app, Pro users can also enjoy the following features in "Lab":**
 
 | | Name | Function |
 |-- || -- | -- |

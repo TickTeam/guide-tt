@@ -3,11 +3,11 @@ With a shared list, it is easy to check a shopping list with your parents or dis
 
 **-Option 1: Add recipients**
 
-1.Open TickTick and select a task list.
+1.Open TickTick on mobile and select a list.
 
-2.Tap the option menu in the upper-right hand of the screen to select “Share”.
+2.Tap the option menu in the upper right hand corner of the page to select “Share”.
 
-3.Tap “add” in the upper-right hand of the screen.
+3.Tap add icon in the upper right hand corner of the page.
 
 4.Tap “Invite by Email” to enter email address.
 
@@ -18,13 +18,13 @@ You can watch the video below from 00:00 to 00:23.
 
 **-Option 2: Share via link**
 
-1.Open TickTick and select a task list.
+1.Open TickTick on mobile and select a list.
 
-2.Tap the option menu in the upper-right hand of the screen to select “Share”.
+2.Tap the option menu in the upper right hand corner of the screen to select “Share”.
 
-3.Tap “add” in the upper-right hand of the screen.
+3.Tap add icon in the upper right hand corner of the page.
 
-4.Tap “Invite by Link”, and choose a platform to send the link.
+4.Tap “Invite by Link” and select a platform to share the link with others.
 
 
 

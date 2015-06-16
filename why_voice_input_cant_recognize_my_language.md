@@ -1,10 +1,10 @@
 ### Why voice input can't recognize my language? 
 
-If it happens, you should first check voice typing language in TickTick.
+If this issue happens, you should first check voice typing language in TickTick.
 
-1.Slide the screen to the right. 
+1.Open TickTick on mobile and slide the screen to the right. 
 
-2.Tap the grear-shaped icon in the upper-right hand of the screen.
+2.Tap the gear-shaped icon in the upper-right hand corner of the page.
 
 3.Tap “Advanced Settings” > “Voice Input”.
 
