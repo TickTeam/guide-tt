@@ -11,9 +11,9 @@ You can contact us if you have any issues when using TickTick.
 
 1.Click the avatar in the upper-right corner of the screen.
 
-2.Select "Settings" > "Account".
+2.Select “Settings” > “Account”.
 
-3.Click "Delete account" at the bottom.
+3.Click “Delete account” at the bottom.
 
-Deleting account will remove all your data from TickTick. Thus for cautious purpose, you will be asked to enter your password for confirmation. If you've forgotten your password, you are suggested to reset your password first.
+Deleting account will remove all your data from TickTick. Thus for cautious purpose, you will be asked to enter your password for confirmation. If you’ve forgotten your password, you are suggested to reset your password first.
 
