@@ -2,7 +2,7 @@
 
 Upon completion of your payment, normally you can enjoy premium features. But if you can’t, please try the following steps: 
 
-1.Slide the screen to the right.
+1.Open TickTick on mobile, slide the screen to the right.
 
 2.Tap the gear-shaped icon in the upper-right hand corner of the page.
 
