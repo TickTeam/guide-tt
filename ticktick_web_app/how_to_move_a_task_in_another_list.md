@@ -2,9 +2,9 @@
 **Option 1**
 <br />
 
-1.Select a task.
+1.Sign in TickTick on web to select a task.
 
-2.Click its list at the bottom of the right panel.
+2.Click the name of its list at the bottom of the right panel.
 
 3.Select a list to fulfill the movement.
 
