@@ -6,7 +6,7 @@ Option 1:
 
 1.Sign in TickTick on web. 
 
-2.From the Lists view click the downward arrow located near a list name to select “Share”.
+2.In the Lists view click the downward arrow located near a list name to select “Share”.
 
 3.Enter email address directly to add a recipient. Then recipients will be notified by email to accept your sharing invitaion.
 
@@ -20,13 +20,13 @@ Option 2:
 
 1.Sign in TickTick on web. 
 
-2.From the Lists view click the downward arrow located near a list name to select “Share”.
+2.In the Lists view click the downward arrow located near a list name to select “Share”.
 
-3.Click “Generate Link” to copy the link to others. 
+3.Click “Generate Link” to copy the link send it to others. 
 
-4.People who click the link will send a request to join the list.
+4.If your friends click the link, TickTick will send a notification asking you whether you would like to add he or she to the list.
 
-5.Once you accept the request, the shared list will be copied to your friends List. 
+5.If you agree, the shared list will be copied to your friends’ TickTick account automatically. 
 
 ![](../images/websharelink.png)
 
