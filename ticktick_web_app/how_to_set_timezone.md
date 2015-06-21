@@ -1,6 +1,6 @@
 ###Why due dates are different among different platforms?
 
-If you find due dates in TickTick are inconsistent among different platforms, it is because of the timezone.
+If you find due dates in TickTick are inconsistent among different platforms, you should check the timezone.
 
 <br />
 
