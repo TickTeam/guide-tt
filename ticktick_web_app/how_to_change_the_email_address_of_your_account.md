@@ -1,4 +1,5 @@
 ###How to change the email address of my account?
+1.Sign in TickTick on web. 
 
 1.Click the avatar in the upper-right hand corner of the screen. 
 
