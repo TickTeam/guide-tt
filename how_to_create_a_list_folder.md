@@ -2,7 +2,6 @@
 
 With Folders, organizing your lists is as simple as dragging and dropping. 
 
-
 1.Sign in TickTick on web.
 
 2.Drag a list on top of another that you’d like to include in the same folder.
