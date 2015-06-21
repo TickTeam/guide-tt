@@ -11,8 +11,8 @@
 
 **-What is Mini Calendar used for?**
 
-Tip 1. The dates which are highlighted with yellow indicate that you have tasks on that day. 
+Tip 1: The dates which are highlighted with yellow indicate that you have tasks on that day. 
 
-Tip 2. If you click a date on a mini calendar, tasks on that day will be displayed in the middle of the page. 
+Tip 2: If you click a date on the mini calendar, tasks on that day will be displayed in the middle of the page. 
 
-Tip 3. You can click any date and enter tasks in the add bar for that day directly.
+Tip 3: You can click a date and create tasks for that day directly.
