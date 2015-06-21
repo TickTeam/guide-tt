@@ -1,8 +1,8 @@
 ### How to add reminders ?
 
-1.Select a task.
+1.Sign in TickTick on web to select a task.
 
-2.Click its due date in the upper-right hand of the page.
+2.Click its due date in the upper-right hand corner of the page.
 
 3.Click time below the due date calendar to type a reminder time.
 
