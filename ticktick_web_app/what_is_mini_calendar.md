@@ -1,11 +1,11 @@
 ###What is “Mini Calendar”?<mark>[Pro only]</mark>
 “Mini Calendar”, just as its name implies, is a small calendar which allows you to know  quickly at which date you have tasks and to add tasks based on a calednar view.
 
-1.Click the avatar in the upper-right of the page.
+1.Click the avatar in the upper-right corner of the page.
 
 2.Select “Labs” to enable “Mini Calendar”.
 
-4.A small calendar will be displayed at the bottom of left panel.
+4.A small calendar will be displayed at the bottom of the left panel.
 
 ![](../images/webmini.png)
 
