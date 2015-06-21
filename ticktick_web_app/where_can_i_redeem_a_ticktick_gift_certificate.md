@@ -8,6 +8,6 @@ If you have a TickTick Pro gift code, please redeem it via TickTick web app:
 
 3.Select “More” > “Redeem” to enter a gift code. 
 
-PS: If you are PRO, please redeem the gift code after your Pro account is downgraded to a free account. 
+PS: If you are PRO, please redeem the gift code after your Pro account is downgraded to free account. 
 
 ![](../images/image1.13W.png)
