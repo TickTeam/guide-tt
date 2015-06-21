@@ -3,7 +3,7 @@
 
 2.From the Lists view click the “+” button located near “LIST”.
 
-3.Enter a list name in the pop-up window.
+3.Enter a list name.
 
 
 ![](../images/webaddlist.png)
