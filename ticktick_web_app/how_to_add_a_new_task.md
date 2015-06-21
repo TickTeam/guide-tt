@@ -1,5 +1,5 @@
 ##How to add a new task?
-To create a new task, enter a list and then click the “Add task to ...” at the top of the screen. Type the name of your items and then press Enter to add the new task to your list. 
+To create a new task, select a list and then click the “Add task to ...” at the top of the screen. Type the name of your items and then press Enter to add a new task to your list. 
 
 
 ![](../images/webadd.png)
