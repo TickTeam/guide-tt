@@ -10,7 +10,7 @@ This feature allows you to add events from a third-party calendar to TickTick.
 
 2.Enable “Calendar Subscription”.
 
-3.The “Calendar Subscription” tab will appear on the left panel.
+3.“Calendar Subscription” will appear in the List view.
 
 ![](../images/image023.png)
 
@@ -18,22 +18,5 @@ This feature allows you to add events from a third-party calendar to TickTick.
 
 ![](../images/image025.png)
 
--**How to get a calendar URL?**
-
-Take Google Calendar as an example:
-
-1.Select Settings of a calendar.
-
-![](../images/C5.png)
-
-2.Click the calendar you want to add to TickTick.
-
-![](../images/C6.png)
-
-3.Click ICAL in the “Private Address” section.
-
-![](../images/C7.png)
-
-4.Copy the link to TickTick. 
-
+For more details about this feature, please click [here](http://blog.ticktick.com/post/109475866579/get-familiar-with-three-calendar-related-functions).
 
