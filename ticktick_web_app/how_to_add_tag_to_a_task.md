@@ -2,11 +2,13 @@
 
 Tags help you filter your to-dos across multiple lists. To check all tasks labeled by tags, you should first enable “TAGS” list in Labs:
 
-1.Click your avatar in the upper-right hand of the page to select “Labs”.
+1.Sign in TickTick on web. 
 
-2.Enable “Tags”.
+2.Click your avatar in the upper-right hand corner of the page to select “Labs”.
 
-3.You will find "TAGS" list in the List page.
+3.Enable “Tags”.
+
+You will find "TAGS" list in the List page.
 
 ![](../images/image1.10.2W.png)
 
