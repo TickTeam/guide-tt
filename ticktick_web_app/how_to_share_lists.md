@@ -31,7 +31,6 @@ Option 2:
 ![](../images/websharelink.png)
 
 
-
 <br />
 
 **-Should recippients upgrade to Pro?**
