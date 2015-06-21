@@ -12,5 +12,5 @@ You will find "TAGS" list in the List page.
 
 ![](../images/image1.10.2W.png)
 
-To tag a to-do, simply add a hashtag to a keyword. Each task is allowed to be labeled by at most 5 tags.
+To tag a to-do, simply add a hashtag to a keyword. For example, #Holiday. Each task is allowed to be labeled by at most 5 tags.
 
