@@ -4,7 +4,7 @@ If your email inbox is full of to-dos, you can turn them into tasks using Mail S
 
 1.Sign in TickTick on web.
 
-2.Click your avatar in the upper-right hand of the page.
+2.Click your avatar in the upper right hand corner of the page.
 
 3.Select “Settings”, and click “Mail Service”.
 
