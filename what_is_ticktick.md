@@ -9,7 +9,7 @@ TickTick is a cross-platform to-do list app & task manager, helping you get all 
 
 <img src="images/3.png" alt="" style="width: 350px;">
 
-####*Enjoy real-time collaborartion in shared list!*
+####*Enjoy real-time collaborartion in shared lists!*
 
 <img src="images/4.png" alt="" style="width: 350px;">
 
