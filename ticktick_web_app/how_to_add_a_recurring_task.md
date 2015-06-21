@@ -3,7 +3,7 @@
 
 2.Click its due date in the upper-right hand of the page.
 
-2.Click “No Repeat”. 
+2.Click “No Repeat” bar. 
 
 Then you can choose a repeating mode such as Daily/Weekly/Monthly/Yearly. Or you can choose “Advanced” to set repeating interval and repeating type.
 
