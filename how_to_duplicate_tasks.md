@@ -3,9 +3,9 @@ Let’s say we want to make a copy of task “April Fool Tricks”.
 
 1.Sign in TickTick on web.
 
-2.Click avatar in the upper right hand corner of the page to select “Lab”.
+2.Click avatar in the upper right hand corner of the page to select “Labs”.
 
-3.Enable Duplication in “Lab”.
+3.Enable Duplication in “Labs”.
 
 4.Select “April Fool Tricks”.
 
