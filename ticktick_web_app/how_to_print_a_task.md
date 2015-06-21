@@ -1,7 +1,8 @@
 ###How to print a task?
-1.Select a task.
 
-2.Click the upward arrow on bottom right corner of the page.
+1.Sign in TickTick on web to select a task.
+
+2.Click the upward arrow in the bottom right corner of the page.
 
 3.Select “Print”.
 
