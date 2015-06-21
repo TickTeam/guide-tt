@@ -1,5 +1,5 @@
 ### How to subscribe TickTick in my own calendar app?
-**-TickTick allows you to display tasks in your own Calendar apps.**
+**-TickTick allows you to display tasks from TickTick in your own Calendar apps.**
 
 1.Click the avatar in the upper-right hand of the page.
 
