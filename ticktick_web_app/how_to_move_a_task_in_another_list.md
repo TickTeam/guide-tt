@@ -13,7 +13,7 @@
 **Option 2**
 <br />
 
-You can just drag a task to a list directly:-)
+You can just drag a task on top of a list in the List view directly.
 
 
 ![](../images/webmovetask.png)
