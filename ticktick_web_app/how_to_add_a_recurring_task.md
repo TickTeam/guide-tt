@@ -22,3 +22,4 @@ Then you can choose a repeating mode such as Daily/Weekly/Monthly/Yearly. Or you
 | Monthly |  Repeat every N Months<br />Repeat from **Due date/Completion date**<br />Repeat by **day of the month/day of the week**|
 | Yearly | Repeat by the **day of the year** |
 
+
