@@ -8,6 +8,6 @@
 
 ![](../images/webreminder.png)
 
-*If you want to set multiple reminders, you can click “On time” to add another reminder. Free users are allowed to add 2 more reminders, while PRO users are allowed to add at most 5 reminders. 
+*If you want to set more reminders, you can click “On time” to add another one. Free users are allowed to add 2 more reminders, while PRO users are allowed to add at most 5 reminders. 
 
 ![](../images/webreminder2.png)
