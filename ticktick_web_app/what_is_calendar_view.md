@@ -6,15 +6,13 @@
 
 **-How to enable “Calendar View”?**
 
-1.Click the avatar in the upper-right hand of the page.
+1.Sign in TickTick on web to click the avatar in the upper-right hand corner of the page.
 
 2.Select “Labs” and enable “Calendar View”.
 
-3.“Calendar” tab will appear on the left panel.
+3.Click “CALENDAR” in the List view and you are able to check your tasks in Calendar. 
 
-4.Click “Calendar” and you are able to check your tasks in a Calendar. 
-
-You are allowed to add or edit tasks directly by clicking them in calendar view.
+You can drag and drop a task from one date to another date. You can click a task to edit it or click a date to add a new task. 
 
 ![](../images/image1.10.3W.png)
 
