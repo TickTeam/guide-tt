@@ -5,4 +5,4 @@
 
 3.Select “Settings” > “Account”.
 
-4.Click “Change Password” to enter your current password and a new password.
+4.Click “Change Password” to enter your current password and a new one.
