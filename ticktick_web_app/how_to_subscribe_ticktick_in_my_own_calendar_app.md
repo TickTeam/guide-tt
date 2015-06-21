@@ -5,8 +5,11 @@
 
 2.Select “Settings” > “Calendar Subscription”.
 
-3.Click “Enable” and then you will get a URL.
+3.Click “Enable” to get a URL.
 
-4.Add the provided URL to calendar apps.
+4.Add the provided URL to your calendar apps.
 
 ![](../images/image019.png)
+
+
+For more details about this feature, please click [here](http://blog.ticktick.com/post/109475866579/get-familiar-with-three-calendar-related-functions).
