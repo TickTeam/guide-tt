@@ -8,7 +8,6 @@
    * [How can I get refund?](how_can_i_get_refund.md)
 * [TickTick web app]
    * [Preference Settings]
-       * [What should I do when due dates are different among different platforms?](ticktick_web_app/how_to_set_timezone.md)
        * [How to set language in TickTick?](how_to_set_language_in_ticktick.md)
        * [How to set the start day of the week?](ticktick_web_app/how_to_set_the_start_of_week.md)
        * [How to set Time Format?](ticktick_web_app/how_to_set_time_format.md)
