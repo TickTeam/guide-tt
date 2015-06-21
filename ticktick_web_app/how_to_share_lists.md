@@ -4,9 +4,9 @@ There are two ways to share lists.
 
 Option 1: 
 
-1.From the Lists view click the downward arrow located near a list name.
+1.Sign in TickTick on web. 
 
-2.Select “Share”.
+2.From the Lists view click the downward arrow located near a list name to select “Share”.
 
 3.Enter email address directly to add a recipient. Then recipients will be notified by email to accept your sharing invitaion.
 
