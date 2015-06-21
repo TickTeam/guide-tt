@@ -6,7 +6,7 @@ This feature allows you to add events from a third-party calendar to TickTick.
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/zCsCP4VBUX4?list=PLbWRKVi0_aTH4wo0Z2kCuMy7RHV7t9onw" frameborder="0" allowfullscreen></iframe>
 
-1.Click the avatar in the upper-right hand of the page to select “Labs”.
+1.Click the avatar in the upper-right hand corner of the page to select “Labs”.
 
 2.Enable “Calendar Subscription”.
 
