@@ -1,5 +1,5 @@
-###What is TickTick Premium?
-TickTick Premium updates your TickTick experience to stay productive for $1.99 per month or $19.99 per year.
+###What is TickTick Pro?
+TickTick Pro updates your TickTick experience to stay productive for $1.99 per month or $19.99 per year.
 
 
 **&nbsp; PRO account has full access to features like:**
