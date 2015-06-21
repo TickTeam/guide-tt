@@ -1,5 +1,5 @@
 ###How to add a recurring task?
-1.Select a task.
+1.Sign in TickTick to select a task.
 
 2.Click its due date in the upper-right hand of the page.
 
