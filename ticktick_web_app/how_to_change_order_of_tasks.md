@@ -8,7 +8,7 @@
 
 If you choose “by title”, tasks will be ordered alphabetically. If you choose “by order”, you can manually drag tasks to change their order.
 
-
+![](../images/websort.png)
 
 
 <br/>
