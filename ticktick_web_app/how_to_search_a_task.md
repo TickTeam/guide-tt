@@ -1,7 +1,9 @@
 ###How to search a task?
-1.Click the avatar in the upper-right hand of the page to select “Labs”.
+1.Sign in TickTick on web.
 
-2.Enable “Smart Search”.
+2.Click the avatar in the upper-right hand of the page to select “Labs”.
+
+3.Enable “Smart Search”.
 
 After that, “Search” will be displayed at the bottom of the left panel. 
 
