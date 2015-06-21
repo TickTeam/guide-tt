@@ -1,8 +1,8 @@
 ###How to edit a list?
-1.From the Lists view click the downward arrow located near a list name.
+1.Sign in TickTick on web.
 
-2.Click “Edit”.
+2.From the Lists view click the downward arrow located near a list name to select “Edit”.
 
-3.You are allowed to change its name, color, etc.
+3.Change list name, color, etc.
 
 ![](../images/image1.7W.png)
