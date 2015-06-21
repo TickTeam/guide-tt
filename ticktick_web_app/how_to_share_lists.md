@@ -18,9 +18,9 @@ Option 1:
 
 Option 2:
 
-1.From the Lists view click the downward arrow located near a list name.
+1.Sign in TickTick on web. 
 
-2.Select “Share”.
+2.From the Lists view click the downward arrow located near a list name to select “Share”.
 
 3.Click “Generate Link” to copy the link to others. 
 
