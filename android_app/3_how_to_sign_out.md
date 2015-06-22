@@ -1,10 +1,6 @@
 ### How to sign out?
-If you sign out TickTick, next time you open TickTick you will be asked to sign in again. 
+If you sign out TickTick, next time you will be asked to sign in again when opening TickTick. However, if you just close TickTick, your account will be remembered the next time you sign in. 
 
-If you just close TickTick, your account will be remembered the next time you sign in. 
+1.Slide the screen to the right and tap your account in the upper left hand corner of the screen.
 
-1.Slide the screen to the right from margin or click the bulleted list icon on the top left of the toolbar.
-
-2.Click your accoount name.
-
-3.Click the option menu on the top right corner and then choose “Sign Out”.
+2.Tap the option menu in the upper right hand corner to select “Sign Out”.
