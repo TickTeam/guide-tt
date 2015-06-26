@@ -5,4 +5,4 @@ In the task page, there is an add button in the bottom right corner. Actually th
 
 2.Tap the gear-shaped icon in the upper right hand corner.
 
-3.Tap “General” and select a position, bottom right or top right for the add button at the bottom. 
+3.Tap “General” and select a position, bottom right or top right, for the add button at the bottom. 
