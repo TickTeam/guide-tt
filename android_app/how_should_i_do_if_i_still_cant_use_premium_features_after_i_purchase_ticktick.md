@@ -1,8 +1,11 @@
-### What should I do if I still can't use premium features after I purchase TickTick?
-Upon completion of your payment, normally you can enjoy premium features, but if you still are not allowed to use them, you should restore TickTick.
+### Why I can’t use premium features after I purchased TickTick?
 
-1.Slide the screen to the right from margin or click the bulleted list icon on the top left of the toolbar.
+Upon completion of your payment, normally you can enjoy premium features. If not, you should restore TickTick.
 
-2.Click your account name to enter account details.
+1.Open TickTick on your android device, and slide the screen to the right.
 
-3.Next, you can click "Restore" at the bottom of the page.
+2.Tap your name in the upper left hand corner to enter account details.
+
+3.Tap "Restore" at the bottom.
+
+If it doesn't work, please do not hesitate to contact us: support@ticktick.com
