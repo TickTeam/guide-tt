@@ -64,7 +64,6 @@
        * [Why I can't use premium features after I purchased TickTick?](android_app/how_should_i_do_if_i_still_cant_use_premium_features_after_i_purchase_ticktick.md)
        * [How to lock the app?](android_app/6_how_to_lock_the_app.md)
        * [How to change the theme?](android_app/7_how_to_choose_app_theme.md)
-       * [How to change my profile picture, username, email address and password?](android_app/8_how_to_change_my_account_info.md)
        * [How to adjust font size?](android_app/how_to_change_font_size.md)
    * [Task Management]
        * [How to use different ways to create a task?](android_app/1_how_to_create_a_new_task.md)
