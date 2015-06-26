@@ -1,5 +1,5 @@
-###How to choose the position of Add button?
-In the task page, you will see an add button in the bottom right corner of the screen. There are two position for the add button in TickTick, bottom right and top right.
+###How to choose the position of the add button?
+In the task page, there is an add button in the bottom right corner. Actually there are two positions for the add button in TickTick, bottom right and top right.
 
 1.Open TickTick on your android device, and slide the screen to the right.
 
