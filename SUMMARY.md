@@ -113,9 +113,6 @@
        * [How to switch lists on widget?](android_app/4_how_to_switch_lists_on_widget.md)
        * [How to add tasks and enter TicKTick through widget?](android_app/how_to_add_tasks_and_enter_ticktick_through_widget.md)
        * [What’s the difference between TickTick Undone & TickTick shortcut?](android_app/5_whats_the_difference_between_ticktick_undone_11_&_ticktick_shortcut.md)
-   * [Other]
-       * [How can I contact with TickTick Team?](android_app/how_can_i_contact_with_ticktick_team.md)
-       * [How to recommend TickTick?](android_app/how_to_rate_ticktick.md)
 * [TickTick iOS App]
    * [Installation & Account]
        * [How can I get the TickTick iOS app?](ios_app/1_how_can_i_get_the_ticktick_iphone_app.md)
