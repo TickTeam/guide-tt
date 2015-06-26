@@ -8,4 +8,4 @@ Upon completion of your payment, normally you can enjoy premium features. If not
 
 3.Tap "Restore" at the bottom.
 
-If it doesn't work, please do not hesitate to contact us: support@ticktick.com
+If “Restore” doesn't work, please do not hesitate to contact us: support@ticktick.com
