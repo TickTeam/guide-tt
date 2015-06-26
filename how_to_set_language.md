@@ -6,5 +6,5 @@
 3.Tap “General” > “Language”.
 
 
-There are more than 20 languages in TickTick for android. Most of them are accomplished by our users. TickTick won’t be a multi-language app without their help and contribution. If you are intested in helping us with translation, please do not hesitate to let us know:-)
+There are more than 20 languages in TickTick for android. Most of them are accomplished by our users. TickTick won’t be a multi-language app without users’ continued help and contribution. If you are intested in helping us with translation, please do not hesitate to let us know:-)
 
