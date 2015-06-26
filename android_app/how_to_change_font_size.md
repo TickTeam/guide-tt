@@ -1,5 +1,5 @@
 ### How to adjust font size?
-TickTick has two font sizes, normal and large.
+TickTick has two font sizes, Normal and Large.
 
 1.Open TickTick on your android device, and slide the screen to the right. 
 
