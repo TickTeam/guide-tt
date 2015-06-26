@@ -1,5 +1,5 @@
 ###How to upgrade to/renew Pro account?
-1.Slide the screen to the right.
+1.Open TickTick on your android device, and slide the screen to the right.
 
 2.Tap your account in the upper left hand corner to enter account details.
 
