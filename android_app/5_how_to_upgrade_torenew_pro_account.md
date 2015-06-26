@@ -1,6 +1,6 @@
 ###How to upgrade to/renew Pro account?
-1.Slide the screen to the right from margin or click the bulleted list icon on the top left of the toolbar.
+1.Slide the screen to the right.
 
-2.Click your account name to enter account details.
+2.Tap your account in the upper left hand corner to enter account details.
 
-3.Click “Subscribe” and choose subscription period (monthly or annual) to complete purchase.
+3.Tap “Subscribe” and choose subscription period ($1.99 Per Month or $19.99 Per Year) to pay via Paypal. 
