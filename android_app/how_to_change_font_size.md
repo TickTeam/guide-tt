@@ -5,4 +5,4 @@ TickTick has two font sizes, Normal and Large.
 
 2.Tap the gear-shaped icon in the upper right corner.
 
-3.Tap “General” > “Font size” to select normal or large. 
+3.Tap “General” > “Font size” to select normal or large font size for TickTick. 
