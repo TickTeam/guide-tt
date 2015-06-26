@@ -1,10 +1,10 @@
 ### How to lock the app?
 In order to enhance privacy of your data in TickTick, you can secure TickTick completely with Lock.
 
-1.Slide the screen to the right from margin or click the bulleted list icon on the top left of the toolbar.
+1.Open TickTick on your android device, and slide the screen to the right.
 
-2.Click the gear-shaped icon on the top right corner.
+2.Tap the gear-shaped icon in the upper right hand corner.
 
-3.Click “More” to tick the checkbox of “Enable Lock”.
+3.Tap “Security & Data” to enable Lock.
 
-4.Draw an unlock pattern for your app to protect privacy.
+4.Draw an unlock pattern for TickTick.
