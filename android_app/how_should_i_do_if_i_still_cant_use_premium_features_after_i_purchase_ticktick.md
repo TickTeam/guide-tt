@@ -1,6 +1,6 @@
 ### Why I can’t use premium features after I purchased TickTick?
 
-Upon completion of your payment, normally you can enjoy premium features. If not, you should restore TickTick.
+Upon completion of your payment, normally you can enjoy premium features. If not, you should try to restore TickTick.
 
 1.Open TickTick on your android device, and slide the screen to the right.
 
