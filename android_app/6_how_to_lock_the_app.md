@@ -7,4 +7,4 @@ In order to enhance privacy of your data in TickTick, you can secure TickTick co
 
 3.Tap “Security & Data” to enable Lock.
 
-4.Draw an unlock pattern for TickTick.
+4.Draw an unlock pattern twice to set a lock for TickTick.
