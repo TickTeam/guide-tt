@@ -1,6 +1,8 @@
 ### How to adjust font size?
-1.Slide the screen to the right from margin or click the bulleted list icon on the top left of the toolbar.
+TickTick has two font sizes, normal and large.
 
-2.Click the gear-shaped icon on the top right corner.
+1.Open TickTick on your android device, and slide the screen to the right. 
 
-3.Click “More” > “Font size”. There are two options, “Normal & Large”, for you to adjust font size.
+2.Tap the gear-shaped icon in the upper right corner.
+
+3.Tap “General” > “Font size” to select normal or large. 
