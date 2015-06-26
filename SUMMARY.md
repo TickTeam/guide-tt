@@ -65,6 +65,7 @@
        * [How to lock the app?](android_app/6_how_to_lock_the_app.md)
        * [How to change the theme?](android_app/7_how_to_choose_app_theme.md)
        * [How to adjust font size?](android_app/how_to_change_font_size.md)
+       * How to set language in TickTick?
    * [Task Management]
        * [How to use different ways to create a task?](android_app/1_how_to_create_a_new_task.md)
        * [How to create checklists?](android_app/how_to_create_checklists_in_a_subtask.md)
