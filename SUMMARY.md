@@ -96,7 +96,7 @@
        * [How to subscribe other calendar service? [Pro only]](android_app/3_how_to_subscribe_other_calendar_service.md)
    * [Reminder]
        * [How to add reminders to a task?](android_app/1_how_to_set_due_date_&_reminder_for_a_task.md)
-       * [How to set location reminder of a task?](android_app/3_how_to_set_location_reminder.md)
+       * [How to set location-based reminder ?](android_app/3_how_to_set_location_reminder.md)
        * [How to set ringtone?](android_app/6_how_to_change_the_ringtone.md)
        * [How to add vibration to reminder?](android_app/5_how_should_i_do_if_i_dont_want_the_reminder_vibration.md)
        * [How to set reminder as pop-ups?](android_app/4_how_should_i_do_if_i_dont_want_the_reminder_pop-up.md)
