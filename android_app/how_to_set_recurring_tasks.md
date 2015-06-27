@@ -1,29 +1,31 @@
 ### How to set recurring tasks?
-You can set different recurring modes for tasks in TickTick. Once you check off a recurring task, the task will roll to the next recurring date according to the repeating interval. After you enter the setting page of due date, you can tap the “circle” icon to set repetition interval.
+You can set different kinds of recurring tasks in TickTick. Once you check off a recurring task, the task will roll to the next recurring date according to the repeating interval.
 
-If you want to select repeating dates by yourself, you can choose “N days/weeks/months”.
+<br />
 
-![](../images/recurring2.png)
+**-What’s the difference between Defulat repeating mode and Custom repeating mode?**
 
-**N days/weeks/months Repeating mode**
+There are totally two major repeat modes in TickTick: Default and Custom. And Custom can be divided into “Repeat from Due Date” and “Repeat from Completion Date”. To separate these repeat modes, here is an example:
 
-|Repeating interval | Mode |
-| -- | -- |
-|Daily | Every Day |
-| Weekly | Repeat every N Weeks<br />Repeat from Due date/Completion date<br />Repeat on S/M/T/W/T/F/S|
-| Monthly |  Repeat every N Months<br />Repeat from Due date/Completion date <br />Repeat by day of the month/day of the week|
-| Yearly | Repeat by the day of the year |
+Let's say we have a recurring task which due date is Jun 15, repeating every 2 days, but you didn't check it off until Jun 18.
 
-**-What is “Repeat from due date/completion date”?**
+***1.Default repeating mode: the next repeating date is Jun 19.***
 
-Here is an example, let's say we have a task which Due date is March 27. However, we complete it on March 28. The task is set by the following repeating mode:
-
-<br />1.Clear bedroom every month from due date.
-
-2.Clear bedroom every month from completion date.
+Normally if you check it off on Jun 15 (due date), the next task should be generated on Jun 17, and then on June 19, June 21, etc. But if you check it off some days later, the next recurring date will be generated after completion date. Thus the next recurring date will directly move to Jun 19 rather than Jun 17.
 
 
--1.The next recuring date is April 27.
 
--2.The next recuring date is April 28.
+***2.Custom repeating mode:***
+
+
+
+*1)From Due Date: the next repeating date is Jun 17.*
+
+The only difference between “Default” and “From Due Date” is that “Repeat From Due Date” won’t move to the date in the future. Instead the repeating date will be generated strictly based on your repeating mode. Thus even though Jun 17 is past, it will become the next recurring date.
+
+
+
+*2)From Completion Date: the next repeating date is Jun 20.*
+
+The next repeating date is totally based on your completion date and repeating interval, regardless of your due date.
 
