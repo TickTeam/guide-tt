@@ -1,11 +1,11 @@
 ### How to assign a task to someone?
-You can assign tasks to recipients in a shared list(turn to 2.3.5 for details).
+In TickTick you can assign tasks in a shared list. Please note that the person you want to assign a task to has to accept your invite to a shared list before you make him responsible for that task.
 
-1.Choose a shared list, and select a task.
+1.Open TickTick on your android device.
 
-2.Click the option menu on the top right, and you can click “Assign to” to choose a recipient.
+2.Select a tasks in a shared list.
 
-Then the avatar of the assignee will appear on the top of the task detailed page.
+3.Tap the option menu in the upper right hand corner to select “Assign to”.
 
 
 You can watch the video below from 01:02 to the end.
