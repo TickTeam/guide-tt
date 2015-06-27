@@ -1,7 +1,8 @@
 ###How to upload an attachment in a task?
-Select a task and click “Attachment” from the option menu. You can upload images, audios, videos or other regular files in tasks.
+1.Open TickTick on your android device, and enter a task. 
+2.Tap the option menu in the upper right hand corner to select “Attachment”.
 
-After it is uploaded, you can view it in task detail page and long pressing the attachment will trigger editing actions such as save & delete.
+You can add images, audios, videos or other regular files to a task. If it is in a shared list, all recipients in this list can view and save attachments. 
 
 
 ![](../images/image2.2.9X.png)
