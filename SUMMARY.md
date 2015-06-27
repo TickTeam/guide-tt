@@ -85,11 +85,11 @@
    * [List Management]
        * [How many predefined lists are there in TickTick?](android_app/how_many_default_lists_are_there_in_ticktick.md)
        * [How to create a task list?](android_app/1_how_to_create_a_task_list.md)
+       * [What is list folder?](how_to_create_list_folders.md)
        * [How to edit or delete a task list?](android_app/2_how_to_editrenamedelete_a_task_list.md)
        * [How to share task lists with TickTick users?](android_app/4_how_to_share_a_task_list.md)
        * [How to accept a shared list?](android_app/how_to_accept_lists_from_others.md)
        * [How to sort task lists?](android_app/5_how_to_change_the_order_of_task_lists.md)
-       * [What is list folder?](how_to_create_list_folders.md)
    * [Calendar]
        * [How to display local calendar events in TickTick?](android_app/1_how_to_display_local_calendar_events_in_ticktick.md)
        * [How to subscribe other calendar service? [Pro only]](android_app/3_how_to_subscribe_other_calendar_service.md)
