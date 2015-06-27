@@ -9,23 +9,21 @@ There are totally two major repeat modes in TickTick: Default and Custom. And Cu
 
 Let's say we have a recurring task which due date is Jun 15, repeating every 2 days, but you didn't check it off until Jun 18.
 
-***1.Default repeating mode: the next repeating date is Jun 19.***
+***1.Default repeat mode: the next recurring date is Jun 19.***
 
-Normally if you check it off on Jun 15 (due date), the next task should be generated on Jun 17, and then on June 19, June 21, etc. But if you check it off some days later, the next recurring date will be generated after completion date. Thus the next recurring date will directly move to Jun 19 rather than Jun 17.
-
-
-
-***2.Custom repeating mode:***
+Normally if you check it off on Jun 15 (due date), the next recurring date should be Jun 17, and then June 19, June 21, etc. But if you check it off on Jun 18 which is after its next recurring date Jun 17, the task will directly move to Jun 19.   
 
 
-
-*1)From Due Date: the next repeating date is Jun 17.*
-
-The only difference between “Default” and “From Due Date” is that “Repeat From Due Date” won’t move to the date in the future. Instead the repeating date will be generated strictly based on your repeating mode. Thus even though Jun 17 is past, it will become the next recurring date.
+***2.Custom repeat mode:***
 
 
 
-*2)From Completion Date: the next repeating date is Jun 20.*
+*1)Repeat from Due Date: the next recurring date is Jun 17.*
 
-The next repeating date is totally based on your completion date and repeating interval, regardless of your due date.
+No matter when you check off this task, it will roll to the next recurring date, even though the next recurring date has been past.
 
+
+
+*2)Repeat from Completion Date: the next recurring date is Jun 20.*
+
+This repeat mode is totally based on your completion date and repeating intervals, regardless of your due date. 
