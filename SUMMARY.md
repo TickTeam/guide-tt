@@ -94,7 +94,6 @@
        * [What is Calendar View?](what_is_calendar_view.md)
        * [How to display local calendar events in TickTick?](android_app/1_how_to_display_local_calendar_events_in_ticktick.md)
        * [How to subscribe other calendar service? [Pro only]](android_app/3_how_to_subscribe_other_calendar_service.md)
-       * [How to add calendar events in TickTick?](android_app/2_how_to_add_calendar_events_in_ticktick.md)
    * [Reminder]
        * [How to set reminder of a task?](android_app/1_how_to_set_due_date_&_reminder_for_a_task.md)
        * [How to remove due date & reminder of a task?](android_app/2_how_to_remove_due_date_&_reminder_for_a_task.md)
