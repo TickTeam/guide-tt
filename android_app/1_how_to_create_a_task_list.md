@@ -3,7 +3,7 @@
 
 2.Slide the screen to the right to tap “Edit List” at the bottom.
 
-3.Click “+” in the upper right hand corner to create a new task list with name, color and status.
+3.Click “+” in the upper right hand corner to create a new task list with name, color, etc.
 
 
 ![](../images/image2.3.1W5.png)
