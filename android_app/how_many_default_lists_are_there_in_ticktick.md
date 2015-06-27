@@ -5,15 +5,15 @@ There are 8 predefined lists in TickTick: All, Today, Next 7 Days, Inbox, Calend
 
 **-Take “Completed” list as an example:**
 
-1.Slide the screen to the right from margin or click the bulleted list icon on the top left of the toolbar.
+1.Open TickTick on your android device.
 
-2.Click “Edit List” at the bottom of the page.
+2.Slide the screen to the right.
 
-3.Choose “Completed”.
+3.Tap “Edit List” at the bottom.
 
-4.Close the “Hide” button to make it visible.
+4.Enable “Completed” in the next page.
 
-Except “All” and “Inbox”, any other lists can be hidden in task list.
+Except “Inbox”, any other lists can be hidden from task list.
 
 ![](../images/image2.2.11W3.png)
 
