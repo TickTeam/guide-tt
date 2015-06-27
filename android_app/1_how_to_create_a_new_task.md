@@ -46,3 +46,5 @@ Status bar is in the pull-down menu of your phone. You can click “+” on the 
 
 Press and hold the add button to speak. For example, you can say pick up Jack at 10 PM tomorrow. Then a task “pick up Jack at 10 PM tomorrow” will be generated with due date (tomorrow) and reminder time (10 PM).
 
+
+
