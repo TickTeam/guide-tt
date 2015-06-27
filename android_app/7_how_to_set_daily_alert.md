@@ -1,10 +1,12 @@
 ## How to set “Daily Alert”?
-Daily Alert is a daily sum-up, reminding you of all your undone and today’s tasks at a specific time each day. You can:
+Daily Alert is a daily sum-up, reminding you of all your undone and today tasks at a specific time each day.
 
-1.Slide the screen to the right from margin or click the bulleted list icon on the top left of the toolbar.
+1.Open TickTick on your android device.
 
-2.Click the gear-shaped icon.
+2.Slide the screen to the right and tap the gear-shaped icon in the upper right hand corner.
 
-3.Choose “Reminder” and set time for “Daily Alert”.
+3.Tap “Reminder” > “Daily Alert” to select a time.
+
+
 
 
