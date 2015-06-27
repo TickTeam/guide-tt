@@ -1,5 +1,9 @@
 ### How to add comment on a task?
-Select a task and choose “comment” from the option menu to add your comment. You can long press your comment content to copy, edit or delete. If it is a shared task, all recipients can view your comments and make comments on this task as well.
+1.Open TickTick on your android device.
+
+2.Enter a task detail page to tap the option menu in the upper right hand corner.
+
+If it is in a shared list, all members can view your comments and make comments as well.
 
 
 You can watch the video below from 00:43 to 01:01.
