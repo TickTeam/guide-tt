@@ -40,3 +40,9 @@ Status bar is in the pull-down menu of your phone. You can click “+” on the 
 <br />
 
 **-Option 4: Add a task from widget(turn to 2.6.5 for details).**
+
+
+**-Option 5: Add a task by voice input.**
+
+Press and hold the add button to speak. For example, you can say pick up Jack at 10 PM tomorrow. Then a task “pick up Jack at 10 PM tomorrow” will be generated with due date (tomorrow) and reminder time (10 PM).
+
