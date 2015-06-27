@@ -80,7 +80,6 @@
        * [How to upload an attachment in a task?](android_app/10_how_to_upload_attachment.md)
        * [How to add “Tags” to a task?](android_app/12_how_to_add_tags_to_a_task.md)
        * [How to add comment on a task?](android_app/13how_to_add_comment_on_a_task.md)
-       * [How to make a phone call directly through a task detail page?](android_app/can_i_make_a_phone_call_directly_through_a_task.md)
        * [How to assign a task to someone?](android_app/how_to_assign_a_task_list.md)
        * [How to search a task?](android_app/how_to_search_a_task.md)
    * [List Management]
