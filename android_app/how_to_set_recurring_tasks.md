@@ -17,7 +17,6 @@ Normally if you check it off on Jun 15 (due date), the next recurring date shoul
 ***2.Custom repeat mode:***
 
 
-
 *1)Repeat from Due Date: the next recurring date is Jun 17.*
 
 No matter when you check off this task, it will roll to the next recurring date, even though the next recurring date has been past.
