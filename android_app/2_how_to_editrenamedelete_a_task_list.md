@@ -1,7 +1,8 @@
-### How to edit or delete a task list?
-1.Slide the screen to the right from margin or click the bulleted list icon on the top left of the toolbar.
+### How to edit task lists and folders?
 
-2.Then, click “Edit List” and choose the task list to make corresponding editing on the next page.
+1.Open TickTick on your android device.
 
-You can change list name and color or delte it directly.
+2.Slide the screen to the right to tap “Edit List” at  the bottom. 
+
+3.Tap a list or folder to make corresponding editing in the next page.
 
