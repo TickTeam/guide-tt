@@ -74,7 +74,7 @@
        * [How to change the order of tasks?](android_app/3_how_to_change_the_order_of_tasks.md)
        * [How to set recurring tasks?](android_app/how_to_set_recurring_tasks.md)
        * [How to hide or show completed tasks?](android_app/4_how_to_archive_tasks.md)
-       * [Where can I check completed tasks?](android_app/11_how_to_check_completed_tasks.md)
+       * [Where can I check all of completed tasks?](android_app/11_how_to_check_completed_tasks.md)
        * [How to voice input tasks?](android_app/5_how_to_voice_input_tasks.md)
        * [How to set default attributes of a new task ?](android_app/7_how_to_set_default_due_date_for_new_task.md)
        * [How to swipe tasks for quick actions?](android_app/8_how_to_swipe_tasks_for_quick_actions.md)
