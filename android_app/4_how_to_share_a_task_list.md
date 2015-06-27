@@ -1,13 +1,15 @@
-### How to share task lists with others?
-With a shared list, it is easy to check a shopping list with your parents or discuss a meeting agenda with your colleagues.
+### How to share task lists with TickTick users?
+Sharing lists is a great way to collaborate with friends, family, and colleagues to achieve more in TickTick.
 
 <br />
 
 **-Option 1: Add recipients**
 
-1.Select a task list first and click “Share List” from the option menu on the top right.
+1.Open TickTick on your andorid device and select a task list.
 
-2.Click the “add” icon on the top right to choose recipients from contacts or enter email address directly.
+2.Tap “Share” from the option menu in the upper right hand corner.
+
+3.Tap the add icon in the upper right hand corner to add members.
 
 You can watch the video below from 00:00 to 00:22.
 
@@ -16,19 +18,12 @@ You can watch the video below from 00:00 to 00:22.
 <br />
 
 
-Another place to add recipients is list setting page.
-
-1.You can slide the screen to the right from margin or click the bulleted list icon on the top left of the toolbar.
-
-2.Click “Edit List”.
-
-3.Choose a list and click the “+” under the item of “SHARE FRIENDS” to add recipients.
-
-![](../images/image2.3.5W.png)
-
 **-Option 2: Share via link**
 
-Link is an easy way to share lists. You don't need to enter email address, and instead you only need to share the link via social media. Then recipients can sign in TickTick to accept the list.
+Link is an easier way to share lists. You only need to send the link via social platform. Anyone who click the link will be asked to join the list. 
+
+
+
 
 
 
