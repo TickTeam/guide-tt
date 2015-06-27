@@ -6,11 +6,13 @@ List folders can help to group related lists together. When you came to TickTick
 
 1.Open TickTick on your android device.
 
-2.Slide the screen to the right, and tap “Edit List” at the bottom.
+2.Slide the screen to the right, and then tap “Edit List” at the bottom.
 
 3.Select a list that you want to add to a folder. 
 
 4.Tap “New Folder” or select a existing folder for this list.
+
+
 
 
 
