@@ -47,4 +47,14 @@ Status bar is in the pull-down menu of your phone. You can click “+” on the 
 Press and hold the add button to speak. For example, you can say pick up Jack at 10 PM tomorrow. Then a task “pick up Jack at 10 PM tomorrow” will be generated with due date (tomorrow) and reminder time (10 PM).
 
 
+**-Option 6: Add a task by 'note to self' voice command with Google Now.**
+
+1.Make sure that your phone is equipped with Google Now.
+
+2.Hit the microphone icon on the search widget to initiate a voice-based search.
+
+3.Start by saying “note to self”. For example, you can say “note to self, have lunch with Jack tomorrow at 13.”  
+
+4.Select TickTick to save the task.
+
 
