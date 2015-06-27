@@ -1,4 +1,4 @@
-### How to remove completed tasks in each task list?
-When you check off tasks, they will move to the end of their task lists as completed tasks. You can click the option menu in the top-right corner to choose “Hide completed” to remove completed tasks.
+### How to hide or show completed tasks?
+Completed tasks are displayed at the bottom of each list. To hide or show completed tasks, you can tap the option menu in the upper right hand corner to select “Hide completed” or “Show Completed”.
 
 
