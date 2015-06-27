@@ -1,11 +1,12 @@
 ### How to subscribe other calendar service? <mark>[Pro only]</mark>
-If you want to display events from other calendar apps, you can subscribe them in TickTick.
+You are allowed to subscribe one third party calendar to display its events in TickTick.
 
+1.Open TickTick on your android device. 
 
-1.Slide the screen to the right from margin or click the bulleted list icon on the top left of the toolbar.
+2.Slide the screen to the right, and tap the gear-shaped icon in the upper right hand corner.
 
-2.Click “Edit” and choose “Calendar”.
+3.Tap “Security & Data” > “Subscribe Calendar”.
 
-3.Click “Subscribe Calendar” to input the Calendar URL on the pop-up dialogue box.
+4.Tap “Subscribe Calendar” in the “SUBSCRIBE THIRD-PARTY CALENDAR” to enter a Calendar URL. 
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/-wKLzzvLMsU?list=PLbWRKVi0_aTFbQcYoQHar2TR88yoO190U" frameborder="0" allowfullscreen></iframe>
