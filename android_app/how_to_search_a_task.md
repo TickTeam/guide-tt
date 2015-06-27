@@ -1,8 +1,4 @@
 ### How to search a task?
-If you want to find a task immediately in TickTick, you can search it by entering key words or voice inputing tasks in the search bar.
 
-1.Choose a list, then click the option menu on the top right of the screen.
+Open TickTick on you andorid and slide the screen to the right. You will find the search field in the upper right hand corner. Tasks in “Closed lists” can't be found in search results.
 
-2.Click “Search”.You can enter the search terms or click the icon of “Microphone” to voice input tasks.
-
-The tasks in “Closed lists” can't be found in search result.
