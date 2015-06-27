@@ -1,11 +1,13 @@
-## How to set reminder of a task?
-A reminder time can be set within a specific due date. You can:
+## How to add reminders to a task?
+1.Open TickTick in your android device.
 
-1.Click the due date in the task detail page first.
+2.Enter a task detail page to tap its due date.
 
-2.Click the upward an downward arrow near the clock-shaped icon to adjust reminder time.
+3.Set a reminder time below the calendar.
 
-Moreover, you can click the the clock-shpaed icon to set default reminder such as 1 day before the exact reminder time.
+If you want to add more reminders, you can click “Reminder” bar. Free users are allowed to add two more reminders, while Pro users can add five more reminders. 
+
+
 
 
 
