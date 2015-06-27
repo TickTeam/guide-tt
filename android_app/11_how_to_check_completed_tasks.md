@@ -1,5 +1,5 @@
-### Where can I check all of my completed tasks?
-You can check all completed tasks in “Completed”. “Completed” list is hidden by default, you can enable it by “Edit List” (turn to 2.3.1 for details).
+### Where can I check all completed tasks?
+You can check all completed tasks in “Completed” list which is hidden by default. Please turn to 2.3.1 to learn how to enable “Completed” list in TickTick.
 
-Tasks in “Completed” has been sorted by completion date, and you can choose to view all completed tasks in a specific list by clicking the icon of "funnel" on the top right of the page.
+Tasks in “Completed” list are sorted by completion date. If you want to view completed tasks in a specific list, you can tap the funnel-shaped icon in the upper right hand corner to seelct a list.
 
