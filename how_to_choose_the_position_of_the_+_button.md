@@ -1,5 +1,5 @@
 ###How to choose the position of the add button?
-There are two positions for Add button in TickTick, bottom right and top right. 
+There are two positions for the add button in TickTick, bottom right and top right. 
 
 1.Open TickTick on your android device, and slide the screen to the right.
 
