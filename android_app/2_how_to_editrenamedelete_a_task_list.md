@@ -1,4 +1,4 @@
-### How to edit task lists and folders?
+### How to edit lists and folders?
 
 1.Open TickTick on your android device.
 
