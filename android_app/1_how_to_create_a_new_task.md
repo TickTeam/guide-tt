@@ -11,7 +11,7 @@ You can tap “+” icon in the upper-right hand of the screen to create a new t
 
 <br />
 
-**-Option 2: Use “Quick add bar” to add a task with due date and priority directly.**
+**-Option 2: Add a task to Quick Add Bar with due date and priority.**
 
 If you have enabled “Quick add bar”, you can create a task directly at the bottom of the task page. To enable “Quick add bar”, You should:
 
