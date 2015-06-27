@@ -96,7 +96,6 @@
        * [How to subscribe other calendar service? [Pro only]](android_app/3_how_to_subscribe_other_calendar_service.md)
    * [Reminder]
        * [How to add reminders to a task?](android_app/1_how_to_set_due_date_&_reminder_for_a_task.md)
-       * [How to remove due date & reminder of a task?](android_app/2_how_to_remove_due_date_&_reminder_for_a_task.md)
        * [How to clear due date and reminder?](android_app/how_to_discard_changes_of_due_date_and_reminder.md)
        * [How to set location reminder of a task?](android_app/3_how_to_set_location_reminder.md)
        * [How to set ringtone?](android_app/6_how_to_change_the_ringtone.md)
