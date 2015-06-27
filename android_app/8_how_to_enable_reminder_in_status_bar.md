@@ -7,5 +7,3 @@ Stutus bar is in the pull-down screen of your phone, where you can view today ta
 
 4.Tap “Reminder” > “Status Bar”.
 
-
-![](../images/image2.5.10W4.png)
