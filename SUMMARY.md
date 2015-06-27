@@ -100,7 +100,6 @@
        * [How to set ringtone?](android_app/6_how_to_change_the_ringtone.md)
        * [How to set reminder pop-ups?](android_app/4_how_should_i_do_if_i_dont_want_the_reminder_pop-up.md)
        * [How to set “Daily Alert”?](android_app/7_how_to_set_daily_alert.md)
-       * [How to make notifications persistent?](android_app/9_how_to_make_notifications_persistent.md)
        * [What is "Status Bar"?](android_app/8_how_to_enable_reminder_in_status_bar.md)
    * [Widget]
        * [Why I can’t find TickTick widget?](android_app/1_why_i_cant_find_ticktick_widget.md)
