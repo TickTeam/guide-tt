@@ -141,7 +141,6 @@
        * [How many “Smart lists” are there in TickTick?](ios_app/how_many_default_lists_are_there_in_ticktick.md)
        * [How to create a task list?](ios_app/1_how_to_create_a_task_list.md)
        * [How to edit or delete a task list?](ios_app/2_how_to_editrenamedelete_a_task_list.md)
-       * [What's the difference between closed lists and hidden lists?](ios_app/3_how_to_close_a_task_list.md)
        * [How to share a task list?](ios_app/4_how_to_share_a_task_list.md)
        * [How to accept a shared list?](ios_app/how_to_accept_a_shared_list.md)
    * [Calendar]
