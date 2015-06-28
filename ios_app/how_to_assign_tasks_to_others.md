@@ -3,7 +3,7 @@ Please note that the person you want to assign a task to has to accept your invi
 
 Use the following steps to assign tasks:
 
-1.Open TickTick on mobile to select a shared list and a task.
+1.Open TickTick on your iOS device to select a shared list and a task.
 
 2.Tap the option menu in the upper right hand corner of the page.
 
