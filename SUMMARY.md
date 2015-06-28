@@ -134,7 +134,7 @@
        * [How to upload attachments?](ios_app/7_how_to_upload_attachment.md)
        * [How to add comment to a task?](ios_app/8_how_to_add_comment_to_a_task.md)
        * [How to add tags to a task?](ios_app/9how_to_add_tags_to_a_task.md)
-       * [How to assign a task to someone?](ios_app/how_to_assign_tasks_to_others.md)
+       * [How to assign a task?](ios_app/how_to_assign_tasks_to_others.md)
        * [How to search for a task?](ios_app/how_to_search_for_a_task.md)
        * [How to move a task from one list to another?](how_to_move_a_task_from_one_list_to_another.md)
    * [List Management]
