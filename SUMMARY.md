@@ -48,7 +48,7 @@
        * [How many shortcuts are there in TickTick?](ticktick_web_app/how_many_shortcuts_are_there_in_ticktick.md)
        * [How to duplicate tasks?](how_to_duplicate_tasks.md)
        * [How to add reminders ?](how_to_add_reminders.md)
-       * [How to set snooze time?](-how_to_set_snooze_time.md)
+       * [How to set snooze time?](how_to_set_snooze_time.md)
    * [Calendar Subscription]
        * [How to subscribe TickTick in my own calendar app?](ticktick_web_app/how_to_subscribe_ticktick_in_my_own_calendar_app.md)
        * [How to subscribe my calendar in TickTick? [Pro only]](ticktick_web_app/how_to_subscribe_my_calendar_in_ticktick.md)
