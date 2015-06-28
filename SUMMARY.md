@@ -78,7 +78,7 @@
        * [How to set default attributes of a new task ?](android_app/7_how_to_set_default_due_date_for_new_task.md)
        * [How to swipe tasks for quick actions?](android_app/8_how_to_swipe_tasks_for_quick_actions.md)
        * [How to upload an attachment in a task?](android_app/10_how_to_upload_attachment.md)
-       * [How to add “Tags” to a task?](android_app/12_how_to_add_tags_to_a_task.md)
+       * [How to add tags to a task?](android_app/12_how_to_add_tags_to_a_task.md)
        * [How to add comment on a task?](android_app/13how_to_add_comment_on_a_task.md)
        * [How to assign a task to someone?](android_app/how_to_assign_a_task_list.md)
        * [How to search a task?](android_app/how_to_search_a_task.md)
