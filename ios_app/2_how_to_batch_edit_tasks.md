@@ -1,6 +1,6 @@
 ### How to batch edit tasks?
 
-1.Open TickTick on mobile and tap the option menu in the upper-right hand of the screen.
+1.Open TickTick on your iOS device and tap the option menu in the upper-right hand of the screen.
 
 2.Tap “Edit”
 
