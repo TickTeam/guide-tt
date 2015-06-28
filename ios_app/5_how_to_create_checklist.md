@@ -9,7 +9,7 @@
 
 **Option 2:**
 
-1.Open TickTick on mobile and select a task.
+1.Open TickTick on your iOS device and select a task.
 
 2.Click the icon of checklist above keyboard.
 
