@@ -6,4 +6,4 @@
 3.Click “+” in the upper right hand corner to create a new task list with name, color, etc.
 
 
-![](../images/image2.3.1W5.png)
+![](../images/andraddlist.png)
