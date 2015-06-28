@@ -1,6 +1,6 @@
 ###What is Calendar View?
 
-Calendar View allows you view your tasks with due date in a calendar, which is more intuitive and clear to manage your tasks. Tap “Calendar” in the List view. The main page is divided into two parts: calendar & tasks. 
+Tap “Calendar” in the List view. Calendar View allows you view your tasks with due date in a calendar, which is more intuitive and clear to manage your tasks. 
 
 ![](../images/andcalendarview1.png)
 
