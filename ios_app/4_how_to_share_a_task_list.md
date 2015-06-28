@@ -3,7 +3,7 @@ With a shared list, it is easy to check a shopping list with your parents or dis
 
 **-Option 1: Add recipients**
 
-1.Open TickTick on mobile and select a list.
+1.Open TickTick on your iOS device and select a list.
 
 2.Tap the option menu in the upper right hand corner of the page to select “Share”.
 
