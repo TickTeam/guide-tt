@@ -1,4 +1,4 @@
-### How to upload attachment?
+### How to upload attachments?
 Uploading attachment is free for all users. You can add photos and even voice memos to a to-do. 
 
 1.Open TickTick on mobile and select a task.
