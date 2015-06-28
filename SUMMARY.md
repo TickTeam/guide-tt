@@ -44,7 +44,7 @@
        * [How to search a task?](ticktick_web_app/how_to_search_a_task.md)
        * [How to move a task to another list ?](ticktick_web_app/how_to_move_a_task_in_another_list.md)
        * [How to import tasks from other apps into TickTick?](ticktick_web_app/how_to_import_tasks_from_other_apps_into_ticktick.md)
-       * [How to change order of tasks within a list?](ticktick_web_app/how_to_change_order_of_tasks.md)
+       * [How to change order of the tasks ?](ticktick_web_app/how_to_change_order_of_tasks.md)
        * [How many shortcuts are there in TickTick?](ticktick_web_app/how_many_shortcuts_are_there_in_ticktick.md)
        * [How to duplicate tasks?](how_to_duplicate_tasks.md)
        * [How to add reminders ?](how_to_add_reminders.md)
