@@ -1,6 +1,6 @@
 ### How to create a list folder?
 
-With Folders, organizing your lists is as simple as dragging and dropping. 
+With Folders, organizing your lists is as simple as drag-and-drop. 
 
 1.Sign in TickTick on web.
 
