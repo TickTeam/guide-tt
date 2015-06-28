@@ -23,7 +23,7 @@ You can watch the video below from 00:00 to 00:22.
 Link is an easier way to share lists. You only need to send the link via social platform. If someone clicks the link, TickTick will send a notification asking you whether you would like to add he or she to the list. If you agree, the shared list will be copied to your friends’ TickTick account automatically. 
 
 
-
+![](../images/androidsharelink.png)
 
 
 
