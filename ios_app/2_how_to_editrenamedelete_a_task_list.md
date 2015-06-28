@@ -1,9 +1,10 @@
-#### How to edit or delete a task list?
-1.Open TickTick on mobile and slide the screen to the right.
+#### How to edit lists and folders?
 
-2.Swipe a specific list to the left.
+1.Open TickTick on your iOS device and slide the screen to the right.
 
-3.Clcik “Pen” to edit list in the next page or click the “Trash” to delete the list.
+2.Swipe a list/folder to the left.
+
+3.Clcik “Pen” to edit list/folder in the next page.
 
 
 ![](../images/ioseditlist.png)
