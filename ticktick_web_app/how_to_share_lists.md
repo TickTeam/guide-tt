@@ -1,4 +1,4 @@
-###How to share a list with others ?
+###How to share lists with TickTick users?
 
 There are two ways to share lists.
 
@@ -20,11 +20,11 @@ Option 2:
 
 1.Sign in TickTick on web. 
 
-2.In the Lists view click the downward arrow located near a list name to select “Share”.
+2.Click the downward arrow of a list to select “Share”.
 
-3.Click “Generate Link” to copy the link send it to others. 
+3.Click “Generate Link” to copy the link and send it to other TickTick users. 
 
-4.If your friends click the link, TickTick will send a notification asking you whether you would like to add he or she to the list.
+4.If someone clicks the link, TickTick will send a notification asking you whether you would like to add he or she to the list.
 
 5.If you agree, the shared list will be copied to your friends’ TickTick account automatically. 
 
@@ -33,7 +33,7 @@ Option 2:
 
 <br />
 
-**-Should recippients upgrade to Pro?**
+**-Should I upgrade to Pro to join shared lists?**
 
 No! Recipients are always free to accept shared lists. 
 
