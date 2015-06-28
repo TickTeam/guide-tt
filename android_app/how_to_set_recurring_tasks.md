@@ -11,7 +11,9 @@ Let's say we have a recurring task which due date is Jun 15, repeating every 2 d
 
 ***1.Default repeat mode: the next recurring date is Jun 19.***
 
-Normally if you check it off on Jun 15 (due date), the next recurring date should be Jun 17, and then June 19, June 21, etc. But if you check it off on Jun 18 which is after its next recurring date Jun 17, the task will directly move to Jun 19.   
+Normally if you check it off on Jun 15 (due date), the next recurring date should be Jun 17, and then June 19, June 21, etc. But if you check it off on Jun 18 which is after its next recurring date Jun 17, the task will directly move to Jun 19. 
+
+![](../images/iOSrepeatdefault.png)
 
 
 ***2.Custom repeat mode:***
