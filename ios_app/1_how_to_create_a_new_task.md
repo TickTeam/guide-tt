@@ -30,7 +30,7 @@ A new task will be added with due date (tomorrow) and reminder time (13).
 
 ![](../images/iOSvoiceinput.png)
 
-If you find TickTick can’t recognize your language, you should check “Voice typing langugae” first. Turn to 3.1.12 for more details.
+If TickTick can’t recognize your language, please check “Voice typing langugae” first. Turn to 3.1.12 for more details.
 
 
 
