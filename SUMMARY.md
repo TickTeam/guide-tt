@@ -140,7 +140,7 @@
        * [How to search for a task?](ios_app/how_to_search_for_a_task.md)
        * [How to move a task from one list to another?](how_to_move_a_task_from_one_list_to_another.md)
    * [List Management]
-       * [How many “Smart lists” are there in TickTick?](ios_app/how_many_default_lists_are_there_in_ticktick.md)
+       * [How many Smart Lists are there in TickTick?](ios_app/how_many_default_lists_are_there_in_ticktick.md)
        * [How to create task lists?](ios_app/1_how_to_create_a_task_list.md)
        * [How to create list folders?](how_to_create_list_folder.md)
        * [How to edit lists and folders?](ios_app/2_how_to_editrenamedelete_a_task_list.md)
