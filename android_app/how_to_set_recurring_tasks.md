@@ -3,7 +3,7 @@ You can set different kinds of recurring tasks in TickTick. Once you check off a
 
 <br />
 
-**-What’s the difference between Defulat repeating mode and Custom repeating mode?**
+**-What’s the difference between Defulat repeat mode and Custom repeat mode?**
 
 There are totally two major repeat modes in TickTick: Default and Custom. And Custom can be divided into “Repeat from Due Date” and “Repeat from Completion Date”. To separate these repeat modes, here is an example:
 
