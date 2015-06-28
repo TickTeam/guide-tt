@@ -4,8 +4,8 @@ TickTick has offered different kinds of widgets for different users including Ti
 
 **-What is special to TickTick (Week) widget?**
 
-The interface of TickTick (week) widget is like Calendar View. The upper part of widget is a calendar in week view. When you tap a date, tasks will be displayed in the lower part of the widget. You can tap left or right arrow to move to the last week or next week, and tap the dot in the upper right hand corner to move back to this week. 
+The interface of TickTick (week) widget is like Calendar View. The upper side of widget is a calendar in week view. Just tap a date, and tasks will be displayed in the lower side of the widget. You can tap left/right arrow to move to the last/next week, and tap the dot in the upper right hand corner of the widget to move back to this week. 
 
 
-
+![](../images/androidwidgetweek.png)
 
