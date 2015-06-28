@@ -21,7 +21,7 @@ If you have enabled “Quick add bar”, you can create a task directly at the b
 
 3.Tap “More” to enable “Quick add”, and the quick add bar will appear at the bottom of the task page.
 
-![](../images/image.2.2.1W.png)
+![](../images/androidquickadd.png)
 
 <br />
 
