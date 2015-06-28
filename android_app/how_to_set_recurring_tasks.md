@@ -28,3 +28,6 @@ No matter when you check off this task, it will roll to the next recurring date,
 *2)Repeat from Completion Date: the next recurring date is Jun 20.*
 
 This repeat mode is totally based on your completion date and repeating intervals, regardless of your due date. 
+
+
+![](../images/androidrecur.png)
