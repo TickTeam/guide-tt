@@ -142,7 +142,7 @@
        * [How to create task lists?](ios_app/1_how_to_create_a_task_list.md)
        * [How to create list folders?](how_to_create_list_folder.md)
        * [How to edit lists and folders?](ios_app/2_how_to_editrenamedelete_a_task_list.md)
-       * [How to share a task list?](ios_app/4_how_to_share_a_task_list.md)
+       * [How to share task lists?](ios_app/4_how_to_share_a_task_list.md)
        * [How to accept a shared list?](ios_app/how_to_accept_a_shared_list.md)
    * [Calendar]
        * [How to display local calendar events in TickTick?](ios_app/1_how_to_display_local_calendar_events_in_ticktick.md)
