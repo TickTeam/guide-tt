@@ -134,7 +134,6 @@
        * [How to swipe tasks for quick actions?](ios_app/6_how_to_swipe_tasks_for_quick_actions.md)
        * [How to upload attachments?](ios_app/7_how_to_upload_attachment.md)
        * [How to add comment to a task?](ios_app/8_how_to_add_comment_to_a_task.md)
-       * [How to set ringtone for reminders?](how_to_set_ringtone_for_reminders.md)
        * [How to add tags to a task?](ios_app/9how_to_add_tags_to_a_task.md)
        * [How to assign a task?](ios_app/how_to_assign_tasks_to_others.md)
        * [How to search for a task?](ios_app/how_to_search_for_a_task.md)
@@ -148,6 +147,7 @@
        * [How to accept a shared list?](ios_app/how_to_accept_a_shared_list.md)
    * [Calendar]
        * [What is Calendar View ?](what_is_calendar_view_used_for.md)
+       * [How to set ringtone for reminders?](how_to_set_ringtone_for_reminders.md)
        * [How to display local calendar events in TickTick?](ios_app/1_how_to_display_local_calendar_events_in_ticktick.md)
        * [How to subscribe other calendar service?](ios_app/3_how_to_subscribe_other_calendar_service.md)
        * [How to add calendar events in TickTick ?](ios_app/2_how_to_add_calendar_events_in_ticktick.md)
