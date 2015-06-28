@@ -131,7 +131,7 @@
        * [How to create a checklist?](ios_app/5_how_to_create_checklist.md)
        * [How to create recurring tasks?](ios_app/how_to_create_recurring_tasks.md)
        * [How to swipe tasks for quick actions?](ios_app/6_how_to_swipe_tasks_for_quick_actions.md)
-       * [How to upload attachment?](ios_app/7_how_to_upload_attachment.md)
+       * [How to upload attachments?](ios_app/7_how_to_upload_attachment.md)
        * [How to add comment to a task?](ios_app/8_how_to_add_comment_to_a_task.md)
        * [How to add tags to a task?](ios_app/9how_to_add_tags_to_a_task.md)
        * [How to assign a task to someone?](ios_app/how_to_assign_tasks_to_others.md)
