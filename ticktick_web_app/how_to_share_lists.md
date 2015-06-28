@@ -6,7 +6,7 @@ Option 1:
 
 1.Sign in TickTick on web. 
 
-2.In the Lists view click the downward arrow located near a list name to select “Share”.
+2.Click the downward arrow of a list to select “Share”.
 
 3.Enter email address directly to add a recipient. Then recipients will be notified by email to accept your sharing invitaion.
 
