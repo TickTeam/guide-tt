@@ -1,11 +1,12 @@
-###How to change order of tasks within a list?
+###How to change order of the tasks?
 1.Sign in TickTick on web.
 
 2.Select a list first and click the “View” icon.
 
-3.Then, you can sort tasks by due dates, title, order, priority, assignee (shared lists only), or list (“All” list only).
+Tasks under self-defined lists and “Inbox” can be sorted by order, due date, title, and priority. Tasks in a shared list can be sorted by assignee, and tasks in “All” can be sorted by list.
 
-If you select “by title”, tasks will be sorted alphabetically. If you choose “by custom”, you can manually drag tasks to change their order.
+Tasks in “Today” and “Next 7 Days” can't be sorted automatically. Instead you can drag and drop tasks to change their order. 
+
 
 ![](../images/websort.png)
 
