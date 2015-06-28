@@ -6,7 +6,7 @@
 
 **-Option 1: Add Button**
 
-Open TickTick on mobile and choose a list first, and then tap “+” at the bottom of the task page to enter a new task. 
+Open TickTick on your iOS device and choose a list first. Tap “+” at the bottom of the task page to enter a new task. 
 
 <br />
 
@@ -14,7 +14,7 @@ Open TickTick on mobile and choose a list first, and then tap “+” at the bot
 
 1.Pull down the screen.
 
-2.In the “Today” section, tap “Add New” if you have already added TickTick in “Today”.
+2.In the “Today” section, tap “Add New”.
 
 *If TickTick is not in “Today” section, you should add it first by tapping “Edit” at the bottom of pull-down screen. 
 
@@ -22,15 +22,15 @@ Open TickTick on mobile and choose a list first, and then tap “+” at the bot
 
 **-Option 3: Voice Input**
 
-1.Open TickTick on mobile and long press “+” at the bottom of the task page.
+1.Open TickTick on your iOS device.
 
-2.Start speaking. You can say, for example, “Have lunch with Jack tomorrow at 13”.
+2.Press & hold “+” at the bottom of the task page to start speaking. You can say, for example, “Have lunch with Jack tomorrow at 13”.
 
 A new task will be added with due date (tomorrow) and reminder time (13). 
 
 ![](../images/iOSvoiceinput.png)
 
-If you find TickTick can’t recognize what you speak, you should check “Voice typing langugae” first. Turn to 3.1.12 for more details.
+If you find TickTick can’t recognize your language, you should check “Voice typing langugae” first. Turn to 3.1.12 for more details.
 
 
 
