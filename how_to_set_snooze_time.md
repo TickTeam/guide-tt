@@ -5,5 +5,5 @@ When you get a pop-up reminder, tap snooze. You can select a existing snooze tim
 
 
 
-![](../images/androidwidgetconfi.png)
+![](../images/androidsnooze.png)
 
