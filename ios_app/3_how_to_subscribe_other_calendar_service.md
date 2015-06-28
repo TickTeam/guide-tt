@@ -2,7 +2,7 @@
 
 To subscribe third-party calendar apps in TickTick, you should 
 
-1.Open TickTick on mobile and slide the screen to the right.
+1.Open TickTick on your iOS device and slide the screen to the right.
 
 2.Tap the gear-shaped icon in the upper right hand corner of the page.
 
