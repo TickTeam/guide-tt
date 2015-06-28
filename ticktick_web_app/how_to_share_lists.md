@@ -26,8 +26,6 @@ Option 2:
 
 If someone clicks the link, TickTick will send a notification asking you whether you would like to add he or she to the list. If you agree, the shared list will be copied to your friends’ TickTick account automatically. 
 
-![](../images/websharelink.png)
-
 
 <br />
 
