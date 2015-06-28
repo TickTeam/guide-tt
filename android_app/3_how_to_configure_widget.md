@@ -3,4 +3,4 @@ Before a widget is displayed in your screen, you will be asked to configure it f
 
 
 
-![](../images/image2.6.3.3X.png)
+![](../images/androidwidgetconfi.png)
