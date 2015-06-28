@@ -123,7 +123,6 @@
        * [What does the app badge count for?](ios_app/what_does_the_app_badge_count_for.md)
        * [How to set language for TickTick?](how_to_set_language_for_ticktick.md)
        * [Why voice input can't recognize my language?](why_voice_input_cant_recognize_my_language.md)
-   * [How to set ringtone for reminders?](how_to_set_ringtone_for_reminders.md)
    * [Task Management]
        * [How to create a new task?](ios_app/1_how_to_create_a_new_task.md)
        * [How to batch edit tasks?](ios_app/2_how_to_batch_edit_tasks.md)
@@ -135,6 +134,7 @@
        * [How to swipe tasks for quick actions?](ios_app/6_how_to_swipe_tasks_for_quick_actions.md)
        * [How to upload attachments?](ios_app/7_how_to_upload_attachment.md)
        * [How to add comment to a task?](ios_app/8_how_to_add_comment_to_a_task.md)
+       * [How to set ringtone for reminders?](how_to_set_ringtone_for_reminders.md)
        * [How to add tags to a task?](ios_app/9how_to_add_tags_to_a_task.md)
        * [How to assign a task?](ios_app/how_to_assign_tasks_to_others.md)
        * [How to search for a task?](ios_app/how_to_search_for_a_task.md)
