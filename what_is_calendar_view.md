@@ -6,10 +6,10 @@ Calendar View allows you view your tasks with due date in a calendar, which is m
 
 **What’s special to Calendar View?**
 
-1.With Calendar View in TickTick, you can view calendar info in week or month by dragging calendar up or down. 
+1.You can view tasks in week view or in month view by dragging calendar up or down. 
 
-2.A blue dot below the date indicates that you have tasks on that day. Tap a date in calendar, and tasks on that day will be displayed below.
+2.The date with a blue dot below indicates you have tasks. Tap a date in calendar, and tasks will be displayed below.
 
-3.It is super easy to change tasks’ due dates in Calendar View. Just press and drag a task to a new date in calendar. 
+3.It is super easy to change tasks’ due dates. Just press and drag a task to a new date in calendar. 
 
 ![](../images/andcalendadrag.png)
