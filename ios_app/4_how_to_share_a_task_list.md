@@ -18,9 +18,9 @@ You can watch the video below from 00:00 to 00:23.
 
 **-Option 2: Share via link**
 
-1.Open TickTick on mobile and select a list.
+1.Open TickTick on your iOS device and select a list.
 
-2.Tap the option menu in the upper right hand corner of the screen to select “Share”.
+2.Tap the option menu in the upper right hand corner to select “Share”.
 
 3.Tap add icon in the upper right hand corner of the page.
 
