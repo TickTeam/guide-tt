@@ -15,5 +15,5 @@ There are 8 predefined lists in TickTick: All, Today, Next 7 Days, Inbox, Calend
 
 Except “Inbox”, any other lists can be hidden from task list.
 
-![](../images/image2.2.11W3.png)
+![](../images/andsmartlist.png)
 
