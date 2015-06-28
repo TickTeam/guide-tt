@@ -4,7 +4,7 @@ Calendar View allows you view your tasks with due date in a calendar, which is m
 
 Tap “Calendar” in the List view, which is divided into two parts: calendar & tasks. 
 
-![](../images/andcalendarview1.png)
+![](../images/)
 
 **What’s special to Calendar View?**
 
@@ -14,4 +14,4 @@ Tap “Calendar” in the List view, which is divided into two parts: calendar &
 
 3.It is super easy to change tasks’ due dates. Just press and drag a task to a new date in calendar. 
 
-![](../images/andcalendadrag.png)
+![](../images/)
