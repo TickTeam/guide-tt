@@ -80,7 +80,7 @@
        * [How to upload an attachment in a task?](android_app/10_how_to_upload_attachment.md)
        * [How to add tags to a task?](android_app/12_how_to_add_tags_to_a_task.md)
        * [How to add comment on a task?](android_app/13how_to_add_comment_on_a_task.md)
-       * [How to assign a task to someone?](android_app/how_to_assign_a_task_list.md)
+       * [How to assign a task?](android_app/how_to_assign_a_task_list.md)
        * [How to search a task?](android_app/how_to_search_a_task.md)
    * [List Management]
        * [How many predefined lists are there in TickTick?](android_app/how_many_default_lists_are_there_in_ticktick.md)
