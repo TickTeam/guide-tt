@@ -100,6 +100,7 @@
        * [How to set location-based reminder ?](android_app/3_how_to_set_location_reminder.md)
        * [How to set ringtone?](android_app/6_how_to_change_the_ringtone.md)
        * [How to set reminder pop-ups?](android_app/4_how_should_i_do_if_i_dont_want_the_reminder_pop-up.md)
+       * [How to set snooze time?](how_to_set_snooze_time.md)
        * [How to set “Daily Alert”?](android_app/7_how_to_set_daily_alert.md)
        * [What is "Status Bar"?](android_app/8_how_to_enable_reminder_in_status_bar.md)
    * [Widget]
@@ -154,7 +155,6 @@
        * [How to set reminder for a task?](ios_app/1_how_to_set_due_date_&_reminder_for_a_task.md)
        * [How to set “Daily Alert”?](ios_app/4_how_to_set_daily_alert.md)
        * [How to set “location reminder”?](ios_app/5_how_to_set_location_reminder.md)
-       * [How to set snooze time?](how_to_set_snooze_time.md)
 * [Chrome Extension]
    * [Installation & Account](chrome_extension_app/installation_&_account.md)
        * [How can I get the TickTick Chrome Extension ?](chrome_extension_app/1_how_can_i_get_the_ticktick_chrome_extension_app.md)
