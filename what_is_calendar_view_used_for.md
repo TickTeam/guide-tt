@@ -8,7 +8,7 @@ Tap “Calendar” in the List view. Calendar View allows you view your tasks wi
 
 1.You can view tasks in week view or in month view by dragging calendar up or down. 
 
-![](../images/iOScalendarview)
+![](../images/iOScalendarview.png)
 
 2.The date with a blue dot below indicates you have tasks on that day. Tap it, and tasks will be displayed below.
 
