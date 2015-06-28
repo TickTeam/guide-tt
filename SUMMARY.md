@@ -23,7 +23,7 @@
    * [List Management]
        * [How to add a new list?](ticktick_web_app/how_to_add_a_new_list.md)
        * [How to edit a list?](ticktick_web_app/how_to_edit_lists.md)
-       * [How to share a list with others?](ticktick_web_app/how_to_share_lists.md)
+       * [How to share lists with TickTick users?](ticktick_web_app/how_to_share_lists.md)
        * [How to print a list?](ticktick_web_app/how_to_print_a_list.md)
        * [How to close an inactive list temporarily?](ticktick_web_app/how_to_close_a_list.md)
        * [How to delete a list?](ticktick_web_app/how_to_delete_a_list.md)
