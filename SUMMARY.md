@@ -150,7 +150,7 @@
        * [How to display local calendar events in TickTick?](ios_app/1_how_to_display_local_calendar_events_in_ticktick.md)
        * [How to subscribe other calendar service?](ios_app/3_how_to_subscribe_other_calendar_service.md)
        * [How to add calendar events in TickTick ?](ios_app/2_how_to_add_calendar_events_in_ticktick.md)
-       * [What is Calendar View used for?](what_is_calendar_view_used_for.md)
+       * [What is Calendar View ?](what_is_calendar_view_used_for.md)
    * [Reminder]
        * [How to set reminder for a task?](ios_app/1_how_to_set_due_date_&_reminder_for_a_task.md)
        * [How to set “Daily Alert”?](ios_app/4_how_to_set_daily_alert.md)
