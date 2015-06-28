@@ -1,12 +1,12 @@
 ### How to change the order of tasks?
 
-1.Open TickTick on your android device, and select a list.
+1.Open TickTick on your android device and select a list.
 
 2.Tap the option menu in the upper right hand corner to tap “Sort”.
 
 Tasks under self-defined lists and “Inbox” can be sorted by order, due date, title, and priority. Tasks in a shared list can be sorted by assignee, and tasks in “All” can be sorted by their “List”.
 
-![](../images/image2.2.3.2X.png)
+![](../images/andsort.png)
 
 
 **-How to drag tasks to change their order?**
@@ -15,5 +15,5 @@ Tasks under self-defined lists and “Inbox” can be sorted by order, due date,
 
 2.Press and hold a task to drag them manually.
 
-![](../images/image2.2.3.3X.png)
+
 
