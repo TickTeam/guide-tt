@@ -7,3 +7,4 @@ There are two positions for the add button in TickTick, bottom right and top rig
 
 3.Tap “General” and select a position, bottom right or top right, for the add button.
 
+![](../images/androidaddbuttonposition.png)
