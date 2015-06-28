@@ -3,3 +3,5 @@ You can check all completed tasks in “Completed” list which is hidden by def
 
 Tasks in “Completed” list are sorted by completion date. If you want to view completed tasks in a specific list, you can tap the funnel-shaped icon in the upper right hand corner to select a list.
 
+
+![](../images/iOSrepeatdefault.png)
