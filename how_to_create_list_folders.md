@@ -12,7 +12,7 @@ List folders can help to group related lists together. When you came to TickTick
 
 4.Tap “New Folder” or select a existing folder for this list.
 
-
+Another easy way to create is 
 
 ![](../images/androidlistfolder.png)
 
