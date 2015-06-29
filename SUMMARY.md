@@ -154,7 +154,7 @@
        * [How to set ringtone for reminders?](how_to_set_ringtone_for_reminders.md)
        * [How to set “Daily Alert”?](ios_app/4_how_to_set_daily_alert.md)
        * [How to set “location reminder”?](ios_app/5_how_to_set_location_reminder.md)
-       * [How to set custom snooze time?](how_to_set_custom_snooze_time.md)
+       * [How to set snooze time?](how_to_set_custom_snooze_time.md)
 * [Chrome Extension]
    * [Installation & Account](chrome_extension_app/installation_&_account.md)
        * [How can I get the TickTick Chrome Extension ?](chrome_extension_app/1_how_can_i_get_the_ticktick_chrome_extension_app.md)
