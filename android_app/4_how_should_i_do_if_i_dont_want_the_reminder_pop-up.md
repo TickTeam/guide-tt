@@ -9,7 +9,7 @@
 
 **-What special to reminder pop-ups?**
 
-When you get a pop-up reminder, you can set custom snooze time. Tap snooze, and you can select a existing snooze time, or tap “Custom” to set it by yourself, or even choose another date. 
+When you get a pop-up reminder, you can set custom snooze time. Tap snooze to select an existing snooze time, or tap “Custom” to set it by yourself, or even choose another date. 
 
 
 
