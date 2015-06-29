@@ -16,7 +16,7 @@ Option 1:
 
 <br />
 
-Option 2:
+Option 2:Shared via link
 
 1.Sign in TickTick on web. 
 
@@ -24,7 +24,7 @@ Option 2:
 
 3.Click “Generate Link” to copy the link and send it to other TickTick users. 
 
-If someone clicks the link, TickTick will send a notification asking you whether you would like to add him or her to the list. If you agree, the shared list will be copied to your friends’ TickTick account automatically. 
+If someone clicks the link, TickTick will send a notification asking you whether you would like to add him or her to the list. If you agree, the list will be shared with your friend automatically. 
 
 
 <br />
