@@ -44,7 +44,7 @@ Status bar is in the pull-down menu of your phone. You can click “+” on the 
 
 **-Option 5: Add a task by voice input.**
 
-Press and hold the add button to speak. For example, you can say “pick up Jack tomorrow at 10 PM”. Then a task “pick up Jack tomorrow at 10 PM” will be generated with due date (tomorrow) and reminder time (10 PM).
+Press and hold the add button to speak. For example, you can say “pick up Jack tomorrow at 10 AM”. Then a task “pick up Jack tomorrow at 10 AM” will be generated with due date (tomorrow) and reminder time (10 AM).
 
 
 ![](../images/androidvoiceinput.png)
