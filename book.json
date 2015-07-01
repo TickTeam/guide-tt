@@ -6,7 +6,9 @@
     "styles": {
         "website": "rewrite/rewrite.css"
     },
-    "plugins": [],
+    "plugins": [
+        "style-rewrite"
+    ],
     "pluginsConfig": {},
     "links": {
         "sidebar": {
