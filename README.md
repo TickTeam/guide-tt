@@ -19,7 +19,6 @@ This book is divided into six parts containing magical features of TickTick!
 
 Please contact us if you have any further questions which are not mentioned here. You can create a discussion thread at TickTick [Help Center](https://help.ticktick.com/forum) or email us directly [support@ticktick.com](mailto:support@ticktick.com).
 
-
 <br />
 
 ###Would you like to help us with translation?
