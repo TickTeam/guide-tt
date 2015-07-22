@@ -17,4 +17,4 @@ You can watch the video below from 00:55 to the end.
 
 <br />
 
-If you want to view all of your tasks that are assigned to you, you can enable the predefined list “Assigned to me”. 
+If you want to view all of your tasks that are assigned to you, you can enable the smart list “Assigned to me”. 
