@@ -11,3 +11,7 @@ Please note that the person you want to assign a task to has to accept your invi
 You can watch the video below from 01:02 to the end.
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/0y4hkxRUOoo?list=PLbWRKVi0_aTFbQcYoQHar2TR88yoO190U" frameborder="0" allowfullscreen></iframe>
+
+<br />
+
+If you want to view all of your tasks that are assigned to you, you can enable the predefined list “Assigned to me”. 
