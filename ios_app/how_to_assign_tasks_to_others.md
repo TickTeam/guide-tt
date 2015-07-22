@@ -14,3 +14,7 @@ Use the following steps to assign tasks:
 You can watch the video below from 00:55 to the end.
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/CTW6geOAGtw?list=PLbWRKVi0_aTEwRLCS5T4MD0wCQU_ve8xW" frameborder="0" allowfullscreen></iframe>
+
+<br />
+
+If you want to view all of your tasks that are assigned to you, you can enable the predefined list “Assigned to me”. 
