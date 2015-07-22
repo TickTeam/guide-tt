@@ -10,3 +10,14 @@ You can watch the video below from 00:34 to 00:55.
 <iframe width="700" height="400" src="https://www.youtube.com/embed/CTW6geOAGtw?list=PLbWRKVi0_aTEwRLCS5T4MD0wCQU_ve8xW" frameborder="0" allowfullscreen></iframe>
 
 
+“Comment” is always used to add extra remarks to a task. 
+
+Within a shared list, all shared members can comment on any tasks to realize real chat & communication. If you want to @ or reply a member in a shared list, you can type “@” to select a member or click the icon to reply someone directly. 
+
+
+![](../images/androidcomment.png)
+
+
+The member you reply or you @ will get notification in TickTick immediately. 
+
+![](../images/androidaomment2.png)
