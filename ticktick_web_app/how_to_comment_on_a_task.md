@@ -6,6 +6,15 @@
 
 3.Select “Comment”.
 
-“Comment” is always used to add extra remarks to a task. Within a shared list, all shared members can comment on any tasks to realize real chat & communication.
+“Comment” is always used to add extra remarks to a task. 
 
-![](../images/webcomment.png)
+Within a shared list, all shared members can comment on any tasks to realize real chat & communication. If you want to @ or reply a member in a shared list, you can type “@” to select a member or click the icon to reply someone directly. 
+
+
+![](../images/webcomment1.png)
+
+
+The member you reply or you @ will get notification in TickTick immediately. 
+
+![](../images/webcomment2.png)
+
