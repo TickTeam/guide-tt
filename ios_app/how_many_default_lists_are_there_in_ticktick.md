@@ -1,6 +1,6 @@
 ### How many Smart Lists are there in TickTick?
 
-There are 7 default lists in TickTick: All, Today, Next 7 Days, Inbox, Calendar, Completed, and Tags. Some of them are hidden by default, and you can enable them by the following steps:
+There are 9 default lists in TickTick: All, Today, Next 7 Days, Inbox, Calendar, Completed, Tags, Assigned to me, and Trash. Some of them are hidden by default, and you can enable them by the following steps:
 
 <br />
 #####Take “Completed” as an example:
