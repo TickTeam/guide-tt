@@ -12,7 +12,8 @@ You can watch the video below from 00:34 to 00:55.
 
 “Comment” is always used to add extra remarks to a task. 
 
-Within a shared list, all shared members can comment on any tasks to realize real chat & communication. If you want to @ or reply a member in a shared list, you can type “@” to select a member or click the icon to reply someone directly. 
+Within a shared list, all shared members can comment on any tasks to realize real chat & communication. If you want to @reply someone in a shared list, you can enter “@” to select a member or click the icon to reply someone directly. 
+
 
 
 ![](../images/androidcomment.png)
