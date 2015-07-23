@@ -19,6 +19,6 @@ Within a shared list, all shared members can comment on any tasks to realize rea
 ![](../images/androidcomment.png)
 
 
-The member you reply or you @ will get notification in TickTick immediately. 
+The member you @reply will get notification in TickTick immediately. 
 
 ![](../images/androidaomment2.png)
