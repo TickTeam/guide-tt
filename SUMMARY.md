@@ -20,6 +20,8 @@
        * [How to export or import backup?](ticktick_web_app/how_to_generate_and_import_backups.md)
        * [How to upgrade to Pro?](ticktick_web_app/how_to_upgrade_to_pro.md)
        * [Where can I redeem a TickTick gift card?](ticktick_web_app/where_can_i_redeem_a_ticktick_gift_certificate.md)
+   * [[Backup]](backup.md)
+       * [test](test.md)
    * [List Management]
        * [How to add a new list?](ticktick_web_app/how_to_add_a_new_list.md)
        * [How to edit a list?](ticktick_web_app/how_to_edit_lists.md)
@@ -54,8 +56,6 @@
        * [How to subscribe my calendar in TickTick? [Pro only]](ticktick_web_app/how_to_subscribe_my_calendar_in_ticktick.md)
        * [What is "Calendar View"? [Pro only]](ticktick_web_app/what_is_calendar_view.md)
        * [What is "Mini Calendar"? [Pro only]](ticktick_web_app/what_is_mini_calendar.md)
-   * [[Backup]](backup.md)
-       * [test](test.md)
 * [TickTick Android App]
    * [Installation & Account]
        * [How can I get the TickTick Android app?](android_app/1_how_can_i_get_the_ticktick_android_app.md)
