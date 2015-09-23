@@ -16,6 +16,7 @@
        * [How to change the email address of my account?](ticktick_web_app/how_to_change_the_email_address_of_your_account.md)
        * [How to upload profile image?](ticktick_web_app/how_to_upload_your_profile_image.md)
        * [How to change password?](ticktick_web_app/how_to_change_password.md)
+       * [Backup]
        * [Can I delete my account?](ticktick_web_app/how_to_delete_your_account.md)
        * [How to export or import backup?](ticktick_web_app/how_to_generate_and_import_backups.md)
        * [How to upgrade to Pro?](ticktick_web_app/how_to_upgrade_to_pro.md)
@@ -54,7 +55,6 @@
        * [How to subscribe my calendar in TickTick? [Pro only]](ticktick_web_app/how_to_subscribe_my_calendar_in_ticktick.md)
        * [What is "Calendar View"? [Pro only]](ticktick_web_app/what_is_calendar_view.md)
        * [What is "Mini Calendar"? [Pro only]](ticktick_web_app/what_is_mini_calendar.md)
-   * [Backup]
 * [TickTick Android App]
    * [Installation & Account]
        * [How can I get the TickTick Android app?](android_app/1_how_can_i_get_the_ticktick_android_app.md)
