@@ -5,3 +5,7 @@
 
 3.Select “Settings” > “Backup”.
 
+4.Click “Generate Backup” to export backup as a CSV file.
+
+You can also import backup which are generated from TickTick. 
+
