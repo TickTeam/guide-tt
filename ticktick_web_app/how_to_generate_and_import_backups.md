@@ -1,7 +1,7 @@
 ###How to export or import backup?
 1.Sign in TickTick on web. 
 
-2.Click the avatar in the upper-right hand corner of the page to select “Settings” > “Account”.
+2.Click the avatar in the upper-left hand corner of the page to select “Settings” > “Account”.
 
 3.Click “Generate Backup” in the “Backup” section.
 
