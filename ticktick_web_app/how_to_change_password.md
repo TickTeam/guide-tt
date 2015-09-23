@@ -7,4 +7,4 @@
 
 4.Click “Edit” near your password
 
-5.Enter your current password and a new one.
+5.Enter your current password and then create a new one.
