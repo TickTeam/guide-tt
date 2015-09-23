@@ -54,7 +54,7 @@
        * [How to subscribe my calendar in TickTick? [Pro only]](ticktick_web_app/how_to_subscribe_my_calendar_in_ticktick.md)
        * [What is "Calendar View"? [Pro only]](ticktick_web_app/what_is_calendar_view.md)
        * [What is "Mini Calendar"? [Pro only]](ticktick_web_app/what_is_mini_calendar.md)
-   * [Backup](backup.md)
+   * [[Backup]](backup.md)
        * [test](test.md)
 * [TickTick Android App]
    * [Installation & Account]
