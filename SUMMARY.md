@@ -17,7 +17,6 @@
        * [How to upload profile image?](ticktick_web_app/how_to_upload_your_profile_image.md)
        * [How to change password?](ticktick_web_app/how_to_change_password.md)
        * [Can I delete my account?](ticktick_web_app/how_to_delete_your_account.md)
-       * [How to export or import backup?](ticktick_web_app/how_to_generate_and_import_backups.md)
        * [How to upgrade to Pro?](ticktick_web_app/how_to_upgrade_to_pro.md)
        * [Where can I redeem a TickTick gift card?](ticktick_web_app/where_can_i_redeem_a_ticktick_gift_certificate.md)
    * [[Backup]](backup.md)
