@@ -21,7 +21,7 @@
        * [How to upgrade to Pro?](ticktick_web_app/how_to_upgrade_to_pro.md)
        * [Where can I redeem a TickTick gift card?](ticktick_web_app/where_can_i_redeem_a_ticktick_gift_certificate.md)
    * [[Backup]](backup.md)
-       * How to generate & Import Backup?
+       * [How to generate & Import Backup?](how_to_generate_&_import_backup.md)
    * [List Management]
        * [How to add a new list?](ticktick_web_app/how_to_add_a_new_list.md)
        * [How to edit a list?](ticktick_web_app/how_to_edit_lists.md)
