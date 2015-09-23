@@ -16,7 +16,6 @@
        * [How to change the email address of my account?](ticktick_web_app/how_to_change_the_email_address_of_your_account.md)
        * [How to upload profile image?](ticktick_web_app/how_to_upload_your_profile_image.md)
        * [How to change password?](ticktick_web_app/how_to_change_password.md)
-       * [Backup]
        * [Can I delete my account?](ticktick_web_app/how_to_delete_your_account.md)
        * [How to export or import backup?](ticktick_web_app/how_to_generate_and_import_backups.md)
        * [How to upgrade to Pro?](ticktick_web_app/how_to_upgrade_to_pro.md)
