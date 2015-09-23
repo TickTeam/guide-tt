@@ -10,9 +10,9 @@ Anyway, you are always welcomed to contact us if you have any issues when using 
 **-How to delete TickTick account?**
 1.Sign in TickTick on web.
 
-2.Click the avatar in the upper-right corner of the screen.
+2.Click the avatar in the upper-left corner of the screen.
 
-3.Select “Settings” > “Account”.
+3.Select “Settings” > “Personal Profile”.
 
 4.Click “Delete account” at the bottom.
 
