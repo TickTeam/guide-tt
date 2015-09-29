@@ -2,7 +2,7 @@
 
 1.Sign in TickTick on web.
 
-2.Click the avatar in the upper-left hand corner of the page to select “Settings”.
+2.Click your avatar in the upper-left hand corner of the page to select “Settings”.
 
 3.Select a language in the right panel.
 
