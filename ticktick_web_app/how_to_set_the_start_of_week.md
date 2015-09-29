@@ -2,7 +2,7 @@
 
 1.Sign in TickTick on web. 
 
-2.Click the avatar in the upper-right hand corner of the screen to select “Settings”.
+2.Click the avatar in the upper-left hand corner of the screen to select “Settings”.
 
 3.In the “Start Week On” section, select Sunday, Monday, or Saturday as the first day of the week.
 
@@ -12,11 +12,11 @@
 
 1.Due date calendar  
 
-![](../images/C1.png)
+![](../images/)
 
 2.Mini calendar (turn to 1.5.4 for details) 
 
-![](../images/miniC.png)
+![](../images/)
 
 <br />
 
