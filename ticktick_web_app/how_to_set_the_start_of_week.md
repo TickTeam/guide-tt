@@ -14,6 +14,7 @@
 
 ![](../images/web2-startfrom.png)
 
+
 2.Mini calendar (turn to 1.7.4 for details)
 
 
