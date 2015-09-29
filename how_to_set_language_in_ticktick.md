@@ -1,4 +1,4 @@
-### How to set language within TickTick?
+﻿### How to set language within TickTick?
 
 1.Sign in TickTick on web.
 

@@ -1,4 +1,4 @@
-###How to set the first day of the week?
+﻿###How to set the first day of the week?
 
 1.Sign in TickTick on web.
 
@@ -15,6 +15,7 @@
 ![](../images/web2-startfrom.png)
 
 2.Mini calendar (turn to 1.5.4 for details)
+
 
 ![](../images/web2-startfrom2.png)
 
