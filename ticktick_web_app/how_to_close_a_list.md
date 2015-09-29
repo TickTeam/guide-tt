@@ -2,7 +2,7 @@
 
 1.Sign in TickTick on web.
 
-2.In the Lists view click the downward arrow located near a list name.
+2.Click the “···” which is located near a list name.
 
 3.Select “Close” and click “OK” for confirmation.
 

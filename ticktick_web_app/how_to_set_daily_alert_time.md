@@ -6,9 +6,9 @@ Daily Alert is a daily sum-up, reminding you of all your overdue and today’s t
 **-How to set daily alert time?**
 <br />
 
-1.Sign in TickTick on web. 
+1.Sign in TickTick on web.
 
-2.Click the avatar in the upper-right hand corner of the screen.
+2.Click the avatar in the upper-left hand corner of the screen.
 
 3.Select “Settings”.
 

@@ -1,17 +1,17 @@
 ### How to duplicate tasks?
-Let’s say we want to make a copy of task “April Fool Tricks”.
 
 1.Sign in TickTick on web.
 
-2.Click avatar in the upper right hand corner of the page to select “Labs”.
+2.Click avatar in the upper left hand corner of the page to select “Settings”.
 
-3.Enable Duplication in “Labs”.
+3.Enable Task Duplication in “Labs”.
 
-4.Select “April Fool Tricks”.
+![](../images/web2-taskduplication.png)
 
-5.Click the upward arrow in the bottom right corner of the page to select “Duplication”. 
+4.Select a task.
 
-After that you will find a copy, “April Fool Tricks copy”, generated in the same list. 
+5.Click “···” in the bottom right corner of the page to select “Duplicate”.
 
-![](../images/webcopy.png)
+After that a copy will be generated.
+
 

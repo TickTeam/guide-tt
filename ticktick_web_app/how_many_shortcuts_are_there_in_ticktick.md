@@ -3,10 +3,8 @@
 
 2.Click the avatar in the upper-right hand corner of the page.
 
-3.Select “More” > “Shortcuts”.
+3.Select “Settings” > Click “Shortcuts” in the left panel.
 
-Or you can just press “Ctrl+/” to find out all shortcuts.
-
-![](../images/webshortcut.png)
+![](../images/web2-shortcuts.png)
 
 

@@ -1,8 +1,10 @@
-###How to edit a list?
+###How to edit a list/folder?
 1.Sign in TickTick on web.
 
-2.From the Lists view click the downward arrow located near a list name to select “Edit”.
+2.Click the “···” which is located near a list/folder name.
 
-3.Change list name, color, etc.
+3.Select “Edit”.
 
-![](../images/image1.7W.png)
+4.Change list/folder name, etc.
+
+![](../images/web2-editlist.png)

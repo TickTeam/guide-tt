@@ -2,36 +2,34 @@
 
 There are two ways to share lists.
 
-Option 1: 
+####Option 1:
 
-1.Sign in TickTick on web. 
+1.Sign in TickTick on web.
 
-2.Click the downward arrow of a list to select “Share”.
+2.Click the “···” in the upper-right hand of the middle panel to select “Share”.
+
+![](../images/web2-share.png)
 
 3.Enter email address directly to add a recipient. Then recipients will be notified by email to accept your sharing invitaion.
 
+![](../images/web2-shareemail.png)
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/YuD9gS2DQyY?list=PLbWRKVi0_aTH4wo0Z2kCuMy7RHV7t9onw" frameborder="0" allowfullscreen></iframe>
 
+####Option 2:Shared via link
 
-<br />
+1.Sign in TickTick on web.
 
-Option 2:Shared via link
+2.Click the “···” in the upper-right hand of the middle panel to select “Share”.
 
-1.Sign in TickTick on web. 
+3.Click “Enable Link” to copy the link and send it to other TickTick users.
 
-2.Click the downward arrow of a list to select “Share”.
-
-3.Click “Generate Link” to copy the link and send it to other TickTick users. 
-
-If someone clicks the link, TickTick will send a notification asking you whether you would like to add him or her to the list. If you agree, the list will be shared with your friend automatically. 
-
+![](../images/web2-sharevialink.png)
 
 <br />
 
 **-Should I upgrade to Pro to join shared lists?**
 
-No! Recipients are always free to accept shared lists. 
+No! Recipients are always free to accept shared lists.
 
 
 

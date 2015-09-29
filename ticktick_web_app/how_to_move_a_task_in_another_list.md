@@ -8,7 +8,7 @@
 
 3.Select a list to fulfill the movement.
 
-![](../images/image1.4.13X.png)
+![](../images/web2-movelist.png)
 
 **Option 2**
 <br />
@@ -16,4 +16,3 @@
 You can just drag a task on top of a list in the List view directly.
 
 
-![](../images/webmovetask.png)

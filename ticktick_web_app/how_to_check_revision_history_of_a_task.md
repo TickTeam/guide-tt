@@ -1,12 +1,14 @@
-###How to check revision history of a task? <mark>[Pro only]</mark>
+###How to check activities of a task? <mark>[Pro only]</mark>
 1.Sign in TickTick on web.
 
-2.Click avtar in the upper-right corner of the page to select “Labs”.
+2.Click avtar in the upper-left corner of the page to select “Settings”.
 
-3.Enable “Provision History”.
+3.Select “Labs” in the left panel and then enable “Task Activities”.
 
-4.Select a task, and click the upward arrow in the bottom right corner of the page.
+![](../images/web2-labsactivities.png)
 
-5.Select “Revision History” to check all modification records.
+4.Select a task, and click the “···” in the bottom right corner of the page.
 
-![](../images/revision.png)
+5.Select “Task Activities” to check all modification records.
+
+![](../images/web2-activity.png)

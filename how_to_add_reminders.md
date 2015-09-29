@@ -6,8 +6,8 @@
 
 3.Click time below the calendar to add a reminder time.
 
-![](../images/webreminder.png)
+![](../images/web2-reminder1.png)
 
-If you want to add more reminders to a task, you can click “On time”. Then you can add reminders like “1 day before”, “ 1 week before” etc. Free users are allowed to add 2 more reminders, while PRO users are allowed to add at most 5 reminders. 
+If you want to add more reminders to a task, you can click “On time”. Then you can add reminders like “1 day before”, “ 1 week before” etc. Free users are allowed to add 2 more reminders, while PRO users are allowed to add at most 5 reminders.
 
-![](../images/webreminder2.png)
+![](../images/web2-beforeremin.png)

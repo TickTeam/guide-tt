@@ -3,7 +3,7 @@
 
 ###**What can I find here?**
 
-Hi, welcome to TicKTick! 
+Hi, welcome to TicKTick!
 
 This book is divided into six parts containing magical features of TickTick!
 

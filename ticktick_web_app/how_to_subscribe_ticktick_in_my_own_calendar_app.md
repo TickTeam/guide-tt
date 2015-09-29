@@ -1,15 +1,12 @@
 ### How to subscribe TickTick in my own calendar app?
-**-TickTick allows you to display tasks from TickTick in your own Calendar apps.**
 
-1.Sign in TickTick to click the avatar in the upper-right hand corner of the page.
+1.Sign in TickTick.
 
-2.Select “Settings” > “Calendar Subscription”.
+2.Click the avatar in the upper-left hand corner of the page.
 
-3.Click “Enable” to get a URL.
+3.Select “Settings” > “Calendar & Mail”.
 
-4.Add the provided URL to your calendar apps.
+4.Click “Enable the URL” in the section of “Subscribe TickTick in your calendar app”.
 
-![](../images/image019.png)
+5.Add the provided URL to your calendar apps.
 
-
-For more details about this feature, please click [here](http://blog.ticktick.com/post/109475866579/get-familiar-with-three-calendar-related-functions).

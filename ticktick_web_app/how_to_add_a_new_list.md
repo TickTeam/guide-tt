@@ -1,9 +1,13 @@
 ###How to add a new list?
 1.Sign in TickTick on web.
 
-2.From the Lists view click the “+” button located near “LIST”.
+2.Click “Create New List” in the left panel.
 
-3.Enter a list name.
+3.Enter a list name and select a color for the list.
 
 
-![](../images/webaddlist.png)
+![](../images/web2-createlist.png)
+
+
+
+

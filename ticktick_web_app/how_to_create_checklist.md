@@ -5,4 +5,4 @@ Checklist is always used for shopping list, and you can also use checklists to b
 <br />
 
 
-![](../images/webchecklist.png)
+![](../images/web2-checklist.png)
