@@ -6,4 +6,4 @@
 
 3.Select a language in the right panel.
 
-PS: If your language is not here, you can click “Your language is not available?” at the bottom of the drop-down menu. Then click “Help us translate” to complete a form. After that, we will contact you later to see whether you would like to help with translation or not.
+PS: If your language is not here, you can click “Your language is not available?” at the bottom of the drop-down menu. Then click “Help us translate” to complete a form. After that, we will contact you later to see whether you can help with translation or not.
