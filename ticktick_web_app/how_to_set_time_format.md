@@ -8,6 +8,6 @@
 
 -**Where is it used?**
 
-Time format is mostly used when you set due date.
+Time format is used when you set due date.
 
 ![](../images/web2-timeformat.png)
