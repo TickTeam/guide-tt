@@ -6,8 +6,5 @@
 3.Enter a list name and select a color for the list.
 
 
-![](../images/web2/createlist.png)
-
-
-
+![](createlist.png)
 
