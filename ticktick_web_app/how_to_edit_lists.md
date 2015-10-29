@@ -7,4 +7,4 @@
 
 4.Change list/folder name, etc.
 
-![](../images/web2-editlist.png)
+![](editfolder.png)
