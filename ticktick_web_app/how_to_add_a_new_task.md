@@ -1,8 +1,8 @@
 ##How to add a new task?
 To create a new task, select a list and then click the Add Bar at the top of the screen. Enter task name and then press Enter to add a new task to the list.
 
+![](add task.png)
 
-![](../images/web2-addtask.png)
 
 
 <br />
@@ -13,14 +13,14 @@ To create a new task, select a list and then click the Add Bar at the top of the
 
 Type “*” and select a due date in the drop-down menu.
 
-![](../images/web2-addtask1.png)
+![](addtask1.png)
 
 
 **2.The shortcut for list:**
 
 Type “^” and select a list in the drop-down menu.
 
-![](../images/web2-addtask2.png)
+![](addtasks2.png)
 
 
 **3.Example:**
