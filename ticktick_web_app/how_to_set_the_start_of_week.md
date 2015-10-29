@@ -14,7 +14,7 @@
 
 ![](../images/web2-startfrom.png)
 
-2.Mini calendar (turn to 1.5.4 for details)
+2.Mini calendar (turn to 1.7.4 for details)
 
 
 ![](../images/web2-startfrom2.png)
