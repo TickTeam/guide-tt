@@ -10,4 +10,4 @@ If you have a TickTick gift code, please redeem it via TickTick web app:
 
 PS: If you are already PRO, please redeem the gift code after your Pro expires.
 
-![](../images/web2-redeem.png)
+![](redeem.png)
