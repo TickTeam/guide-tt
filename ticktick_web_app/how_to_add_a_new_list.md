@@ -6,5 +6,3 @@
 3.Enter a list name and select a color for the list.
 
 
-![](createlist.png)
-
