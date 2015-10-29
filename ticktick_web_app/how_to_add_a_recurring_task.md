@@ -8,7 +8,7 @@
 Then you can choose a repeating mode such as Daily/Weekly/Monthly/Yearly. Or you can choose “Advanced” to set repeating interval and repeating type.
 
 
-![](../images/)
+![](recurring.png)
 
 
 
