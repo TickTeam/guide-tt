@@ -6,3 +6,4 @@
 3.Select “Delete” and click “OK” for confirmation.
 
 Please note once a list is deleted, all tasks within that list will be removed.
+
