@@ -6,6 +6,6 @@
 3.Select “Settings” > Click “Backup” in the left panel.
 
 
-TickTick allows you to import tasks from other to-do apps such as Astrid, Wunderlist, Toodledo, etc.
+TickTick allows you to import tasks from other to-do apps such as Wunderlist, Astrid, Toodledo, ical etc.
 
 ![](../images/web2-importother.png)
