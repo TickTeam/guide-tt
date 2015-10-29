@@ -1,4 +1,4 @@
-###How to export or import backup?
+###How to generate or import backup?
 
 1.Sign in TickTick on web.
 
