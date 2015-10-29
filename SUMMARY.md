@@ -21,10 +21,10 @@
        * [How to generate & import data?](how_to_generate_&_import_data.md)
        * [How to import data from other apps?](how_to_import_data_from_other_apps.md)
    * [[Premium Account]]([premium_account].md)
-       * [How to upgrade to Pro? ](how_to_upgrade_to_pro.md)
+       * [How to upgrade to Pro?](how_to_upgrade_to_pro.md)
        * [How to redeem a TickTick gift code?](how_to_redeem_a_ticktick_gift_code.md)
    * [List Management]
-       * [How to add a new list?](ticktick_web_app/how_to_add_a_new_list.md)
+       * [How to create a new list?](ticktick_web_app/how_to_add_a_new_list.md)
        * [How to create a list folder?](how_to_create_a_list_folder.md)
        * [How to edit a list/folder?](ticktick_web_app/how_to_edit_lists.md)
        * [How to share lists with TickTick users?](ticktick_web_app/how_to_share_lists.md)
