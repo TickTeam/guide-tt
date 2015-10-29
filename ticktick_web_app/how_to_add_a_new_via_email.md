@@ -8,7 +8,7 @@ If your email inbox is full of to-dos, you can turn them into tasks using Mail S
 
 3.Select “Settings”, and click “Calendar & Mail”.
 
-![](../images/web2-addviaemail.png)
+![](viaemail.png)
 
 There are two email address in the section of “Add tasks via email”:
 
