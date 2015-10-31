@@ -8,4 +8,4 @@
 Image, record and frequently used file types such as Word, Excel are all supported.
 
 
-![](../images/web2-upload.png)
+![](upload.png)
