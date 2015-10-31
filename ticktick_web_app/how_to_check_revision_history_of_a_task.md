@@ -5,10 +5,10 @@
 
 3.Select “Labs” in the left panel and then enable “Task Activities”.
 
-![](../images/web2-labsactivities.png)
+![](activity1.png)
 
 4.Select a task, and click the “···” in the bottom right corner of the page.
 
 5.Select “Task Activities” to check all modification records.
 
-![](../images/web2-activity.png)
+![](activity2.png)
