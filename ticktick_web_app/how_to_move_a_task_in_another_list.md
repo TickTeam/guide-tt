@@ -8,7 +8,7 @@
 
 3.Select a list to fulfill the movement.
 
-![](../images/web2-movelist.png)
+![](movetask1.png)
 
 **Option 2**
 <br />
