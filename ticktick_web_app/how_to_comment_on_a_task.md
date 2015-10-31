@@ -11,7 +11,7 @@
 Within a shared list, all shared members can comment on any tasks to realize real chat & communication. If you want to @ or reply a member in a shared list, you can type “@” to select a member or click the icon to reply someone directly.
 
 
-![](../images/web2-comment.png)
+![](comment.png)
 
 
 The member you reply or you @ will get notification in TickTick immediately.
