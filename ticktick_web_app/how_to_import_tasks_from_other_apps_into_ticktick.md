@@ -7,4 +7,4 @@
 
 TickTick allows you to import tasks from other to-do apps such as Astrid, Wunderlist, Toodledo.
 
-![](../images/web2-importother.png)
+![](import.png)
