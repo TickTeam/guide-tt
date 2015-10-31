@@ -5,8 +5,8 @@
 
 3.Enable “Smart Search”.
 
-![](../images/web2-smartsearch.png)
+![](smartsearch.png)
 
 After that, “Search” will be displayed in the upper-left hand of the page.
 
-![](../images/web2-searchicon.png)
+![](searchicon.png)
