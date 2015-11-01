@@ -10,3 +10,4 @@
 
 5.Add the provided URL to your calendar apps.
 
+![](calendarsubscription.png)
