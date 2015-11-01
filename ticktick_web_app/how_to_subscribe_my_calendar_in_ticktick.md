@@ -9,6 +9,7 @@ This feature allows you to add events from a third-party calendar to TickTick.
 2.Click “Calendar & Mail” in the left panel and then click “Add by URL”.
 
 3.Enter the calendar URL from a third-party calendar app.
+![](subscribecalendar.png)
 
 
 
