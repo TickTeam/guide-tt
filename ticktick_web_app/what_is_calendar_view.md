@@ -15,6 +15,7 @@
 4.“Calendar” list will be displayed below Next 7 Days.
 
 You can drag and drop a task from one date to another date. You can click a task to edit it or click a date to add a new task.
+![](calendarview.png)
 
 ![](../images/web2-calendarview.png)
 
