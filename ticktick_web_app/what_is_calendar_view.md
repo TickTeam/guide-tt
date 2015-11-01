@@ -17,5 +17,5 @@
 You can drag and drop a task from one date to another date. You can click a task to edit it or click a date to add a new task.
 ![](calendarview.png)
 
-![](calendarview2.png)
+![](web2-calendarview.png)
 
