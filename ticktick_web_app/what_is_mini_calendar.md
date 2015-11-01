@@ -5,7 +5,7 @@
 
 2.Select “Settings” > Click “Labs” to enable “Mini Calendar”.
 
-![](minicalendar.png)
+![](mini1.png)
 
 3.A small calendar will be displayed at the bottom of the left panel.
 
