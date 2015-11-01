@@ -5,7 +5,7 @@
 
 2.Select “Settings” > Click “Labs” to enable “Mini Calendar”.
 
-![](../images/web2-mini2.png)
+![](minicalendar.png)
 
 3.A small calendar will be displayed at the bottom of the left panel.
 
