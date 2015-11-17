@@ -7,7 +7,6 @@
    * [Does TickTick have an API?](does_ticktick_have_an_api.md)
    * [How can I get refund?](how_can_i_get_refund.md)
 * [TickTick web app]
-   * 22
    * [Preference Settings]
        * 22
        * [How to set language within TickTick?](how_to_set_language_in_ticktick.md)
