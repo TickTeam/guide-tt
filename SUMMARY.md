@@ -12,6 +12,7 @@
        * [How to set Time Format?](ticktick_web_app/how_to_set_time_format.md)
        * [How to set the start day of the week?](ticktick_web_app/how_to_set_the_start_of_week.md)
        * [What is Daily Alert?](ticktick_web_app/how_to_set_daily_alert_time.md)
+       * 22
    * [Personal Profile]
        * [How to upload profile image?](ticktick_web_app/how_to_upload_your_profile_image.md)
        * [How to change the email address of my account?](ticktick_web_app/how_to_change_the_email_address_of_your_account.md)
