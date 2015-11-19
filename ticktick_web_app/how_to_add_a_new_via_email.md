@@ -12,7 +12,7 @@ If your email inbox is full of to-dos, you can turn them into tasks using Mail S
 
 There are two email address in the section of “Add tasks via email”:
 
-**<mark>todo@mail.ticktick.com</mark>**: If you sign in TickTick with an email, you can email your task to todo@mail.ticktick.com via your regitered email.
+**<mark>todo@mail.ticktick.com</mark>**: If you sign in TickTick with an email, you can email your task to todo@mail.ticktick.com via your registered email.
 
 
 **<mark>todo+####@mail.ticktick.com<mark>**: It is generated for your TickTick account. So you can email your task to todo####@mail.ticktick.com via any email.
