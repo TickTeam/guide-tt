@@ -6,4 +6,4 @@
 
 2.Tap the gear-shaped icon in the upper-right hand corner of the page.
 
-3.Tap “Preferences” > “Theme”> Choose"Default","Pink"or"Black".
+3.Tap “Preferences” > “Theme”> Choose"Default","Pink" or "Black".
