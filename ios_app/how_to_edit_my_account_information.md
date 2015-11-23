@@ -4,6 +4,5 @@
 
 2.Tap your avatar in the upper-left hand corner of the page.
 
-3.Tap “Edit Profile” in the upper-right hand corner of the page. 
 
-4.You can upload photo, set nickname, and change email address & password.
+3.You can upload photo, set nickname, and change email address & password.
