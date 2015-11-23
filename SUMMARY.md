@@ -121,12 +121,12 @@
        * [How to upgrade to/renew PRO account?](ios_app/5_how_to_upgrade_torenew_pro_account.md)
        * [How to edit my account information?](ios_app/how_to_edit_my_account_information.md)
        * [Why I can't use premium features after purchasing TickTick?](ios_app/how_should_i_do_if_i_still_cant_use_premium_features_after_i_purchase_ticktick.md)
+       * How to change the theme in TickTick?
        * [How to lock the app?](ios_app/how_to_lock_the_app.md)
        * [How to change font size in TickTick？](ios_app/how_to_change_language_and_font_size_in_ticktick.md)
        * [What does the app badge count for?](ios_app/what_does_the_app_badge_count_for.md)
        * [How to set language for TickTick?](how_to_set_language_for_ticktick.md)
        * [Why voice input can't recognize my language?](why_voice_input_cant_recognize_my_language.md)
-       * How to change the theme in TickTick?
    * [Task Management]
        * [How to create a new task?](ios_app/1_how_to_create_a_new_task.md)
        * [How to batch edit tasks?](ios_app/2_how_to_batch_edit_tasks.md)
