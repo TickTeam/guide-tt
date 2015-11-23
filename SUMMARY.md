@@ -127,6 +127,7 @@
        * [How to set language for TickTick?](how_to_set_language_for_ticktick.md)
        * [Why voice input can't recognize my language?](why_voice_input_cant_recognize_my_language.md)
        * How to change the theme in TickTick?
+           * How to change the theme in TickTick?
    * [Task Management]
        * [How to create a new task?](ios_app/1_how_to_create_a_new_task.md)
        * [How to batch edit tasks?](ios_app/2_how_to_batch_edit_tasks.md)
