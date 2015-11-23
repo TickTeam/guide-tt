@@ -9,7 +9,7 @@ There are two options to lock TickTick for iOS, Touch ID and passcode.
 
 2.Tap the gear-shaped icon in the upper-right hand corner.
 
-3.Tap “Advanced Settings” > “Passcode & Touch ID” > “Passcode”. 
+3.Tap “Advanced Settings” >  “Passcode”. 
 
 
 **Option 2: Touch ID**
