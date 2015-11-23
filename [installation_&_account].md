@@ -1,4 +1,4 @@
-# [Installation & Account]
+
 
 ### How to change theme in TickTick？
 
