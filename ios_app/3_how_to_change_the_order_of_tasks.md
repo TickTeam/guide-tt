@@ -5,6 +5,8 @@ Tasks under self-defined lists and “Inbox” can be sorted by order, due date,
 
 Tasks in “Today” and “Next 7 Days” can't be sorted automatically. Instead you can drag and drop tasks to change their order. 
 
+![](sort.png)
+
 
 
 
