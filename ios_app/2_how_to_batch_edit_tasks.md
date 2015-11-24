@@ -7,3 +7,5 @@
 3.Select & edit multiple tasks. 
 
 There are four icons at the bottom of the screen. They are used to change due date, set priority, move the task from this list to another and delete task. 
+
+![](batchedit.png)
