@@ -24,13 +24,13 @@ Normally if you check it off on Jun 15 (due date), the next task should be gener
 
 The only difference between “Default” and “From Due Date” is that “Repeat From Due Date” won’t move to the date in the future. Instead the repeating date will be generated strictly based on your repeating mode. Thus even though Jun 17 is past, it will become the next recurring date. 
 
-![](../images/iOSduedaterepeat.png)
+
 
 *2)From Completion Date: the next repeating date is Jun 20.*
 
 This repeating mode is totally based on your completion date and repeating interval, regardless of your due date. 
 
-![](../images/iOScompletionrepeat.png)
+![](repeatingcompletion.png)
 
 
 
