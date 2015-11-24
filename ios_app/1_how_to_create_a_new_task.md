@@ -6,11 +6,17 @@
 
 **-Option 1: Add Button**
 
-Open TickTick on your iOS device and choose a list first. Tap “+” at the bottom of the task page to enter a new task. 
+Open TickTick on your iOS device and choose a list first. Tap “+” at the bottom of the list page to enter a new task. 
 
 <br />
+**-Option 2: Quick Add **
 
-**-Option 2: Pull-down Screen **
+If you enable "Quick Add" in advanced settings,quick add bar and voice input icon  will show  at the bottom of the task list page. You can type tasks into that bar or hold voice input icon to speak.
+
+
+
+
+**-Option 3: Pull-down Screen **
 
 1.Pull down the screen.
 
@@ -20,13 +26,13 @@ Open TickTick on your iOS device and choose a list first. Tap “+” at the bot
 
 <br />
 
-**-Option 3: Voice Input**
+**-Option 4: Voice Input**
 
 1.Open TickTick on your iOS device.
 
 2.Press & hold “+” at the bottom of the task page to start speaking. You can say, for example, “Have lunch with Jack tomorrow at 13”.
 
-A new task will be added with due date (tomorrow) and reminder time (13). 
+A new task will be added with du![](quickadd .png)e date (tomorrow) and reminder time (13). 
 
 ![](../images/iOSvoiceinput.png)
 
