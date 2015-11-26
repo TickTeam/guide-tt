@@ -12,7 +12,7 @@
 
 5.Click “···” in the bottom right corner of the page to select “Duplicate”.
 
-![](duplication2.png)
+![](duplicate2.png)
 
 After that a copy will be generated.
 
