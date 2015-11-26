@@ -4,7 +4,7 @@
 
 2.Swipe a list/folder to the left.
 
-3.Clcik “Pen” to edit list/folder in the next page.
+3.Clcik "edit" icon to edit list/folder in the next page.
 
 
-![](../images/ioseditlist.png)
+![](editlist.png)
