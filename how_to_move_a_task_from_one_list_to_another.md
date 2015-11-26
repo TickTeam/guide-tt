@@ -10,5 +10,13 @@ Option 1:
 
 ![](movetask15.jpg)
 
-Option 2:
+Option 2(Quick action):
 
+1.Swipe a task to the left, and then three icons with different background color will appear. They are respectively used to: move task from one list to another, delete the task, and change due date. 
+
+2.Tap the first icon with yellow background color. 
+
+3.Choose a new list to finish moving.
+
+
+![](movetask345.jpg)
