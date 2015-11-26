@@ -5,4 +5,4 @@
 
 3.Enter a name for the new list, and press Done.
 
-![](../images/iosaddlist.png)
+![](createlist12.jpg)
