@@ -1,9 +1,14 @@
 ### How to move a task from one list to another?
 
-1.Open TickTick on your iOS device and select a task.
+Option 1:
 
-2.Tap the option menu in the upper right hand corner of the page.
+1.Open TickTick on your iOS device and select a task to enter task detail screen.
 
-3.Tap “Move to” to choose a new list for the task.
+2.Tap the current list name in middle of top bar.
+
+3.Then a lists screen will show for you to choose a list you want to move the task into.Tap the new list name to finish moving.
 
 ![](movetask15.jpg)
+
+Option 2:
+
