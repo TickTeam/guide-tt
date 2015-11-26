@@ -29,7 +29,6 @@ The only difference between “Default” and “From Due Date” is that “Rep
 
 This repeating mode is totally based on your completion date and repeating interval, regardless of your due date. 
 
-![](repeatingcompletion.png)
-
+![](repeatingfromcompletion.jpg)
 
 
