@@ -3,4 +3,4 @@ To tag a to-do, simply add a hashtag to a keyword. For example, #holiday. Each t
 
 You can check all of your tasks labeled by tags in “Tags” list. “Tags” list is hidden by default. To enable it, please turn to 3.3.1 for more details. 
 
-![](../images/iostag.png)
+![](addtags.jpg)
