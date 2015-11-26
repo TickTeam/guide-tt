@@ -3,17 +3,17 @@ Please note that the person you want to assign a task to has to accept your invi
 
 Use the following steps to assign tasks:
 
-1.Open TickTick on your iOS device to select a shared list and a task.
+1.Open TickTick on your iOS device to select a shared list, then choose a task in the shared list.
 
-2.Tap the option menu in the upper right hand corner of the page.
+2.Tap the assign icon in the upper right hand corner of the page.
 
-3.Tap “Assign to” to choose a recipient.
+3.Tap the avatar of member you want to assign to, finish choosing recipients.
 
-![](../images/iosassign.png)
+![](assign.jpg)
 
-You can watch the video below from 00:55 to the end.
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/CTW6geOAGtw?list=PLbWRKVi0_aTEwRLCS5T4MD0wCQU_ve8xW" frameborder="0" allowfullscreen></iframe>
+
+
 
 <br />
 
