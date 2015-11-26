@@ -6,4 +6,4 @@
 
 3.Tap “Move to” to choose a new list for the task.
 
-![](../images/iosmove.png)
+![](movetask15.jpg)
