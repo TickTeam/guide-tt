@@ -1,16 +1,5 @@
 ### How to create a checklist?
 
-**Option 1:**
-
-1.Open TickTick on your iOS device and select a task.
-
-2.Tap the option menu in the upper right hand corner of the page to select “Checklist”.
-
-![](checklist1.png)
-
- 
-**Option 2:**
-
 1.Open TickTick on your iOS device and select a task.
 
 2.Click the icon of checklist above keyboard.
