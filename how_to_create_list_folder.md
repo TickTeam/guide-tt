@@ -10,3 +10,4 @@ With Folders, organizing your lists is as simple as drag-and-drop.
 
 4.Drop the selected list, and then you can enter a name for the folder.
 
+![](createfolder123.jpg)
