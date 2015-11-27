@@ -1,7 +1,7 @@
 #### How to share task lists?
 With a shared list, it is easy to check a shopping list with your family members or discuss a meeting agenda with your colleagues.
 
-**-Option 1: Add recipients**
+**-Option 1: Share via Email**
 
 1.Open TickTick on your iOS device and select a list.
 
@@ -9,7 +9,7 @@ With a shared list, it is easy to check a shopping list with your family members
 
 3.Tap "Invite new member".
 
-4.Enter email address.
+4.Enter Email address.
 
 ![](sharelist123.jpg)
 
