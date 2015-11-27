@@ -1,7 +1,7 @@
 ###How to check activities of a task? <mark>[Pro only]</mark>
 1.Sign in TickTick on web.
 
-2.Click avtar in the upper-left corner of the page to select “Settings”.
+2.Click avatar in the upper-left corner of the page to select “Settings”.
 
 3.Select “Labs” in the left panel and then enable “Task Activities”.
 
