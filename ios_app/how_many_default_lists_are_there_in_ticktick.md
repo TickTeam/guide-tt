@@ -1,4 +1,4 @@
-### How many Smart Lists are there in TickTick?
+### How to show/hide lists in Smart Lists ?
 
 There are 7 default lists in TickTick: All, Today, Next 7 Days, Assigned to me, Calendar, Tags, Completed. Some of them are hidden by default, and you can enable them by the following steps:
 
