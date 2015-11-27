@@ -10,6 +10,6 @@ There are 7 default lists in TickTick: All, Today, Next 7 Days, Assigned to me, 
 
 3.Tap “Smart List”.
 
-4.Enable “Completed”(choose "show")
+4.Enable “Completed”(choose "show").
 
-![](../images/iossmartlist.png)
+![](smartlist.png)
