@@ -155,7 +155,7 @@
        * [How to set “Daily Alert”?](ios_app/4_how_to_set_daily_alert.md)
        * [How to set “location reminder”?](ios_app/5_how_to_set_location_reminder.md)
        * [How to set snooze time?](how_to_set_custom_snooze_time.md)
-* [Calendar/TickTick iOS APP](TickTick iOS App)
+* [Calendar/TickTick iOS APP.md](TickTick iOS App)
    * [What is Calendar View ?](what_is_calendar_view_used_for.md)
    * [How to display local calendar events in TickTick?](ios_app/1_how_to_display_local_calendar_events_in_ticktick.md)
    * [How to subscribe other calendar service?](ios_app/3_how_to_subscribe_other_calendar_service.md)
