@@ -149,7 +149,7 @@
        * [How to edit lists and folders?](ios_app/2_how_to_editrenamedelete_a_task_list.md)
        * [How to share task lists?](ios_app/4_how_to_share_a_task_list.md)
        * [How to accept a shared list?](ios_app/how_to_accept_a_shared_list.md)
-   * [Calendar](TickTick iOS App)
+   * [[Calendar]](TickTick iOS App)
        * [What is Calendar View ?](what_is_calendar_view_used_for.md)
        * [How to display local calendar events in TickTick?](ios_app/1_how_to_display_local_calendar_events_in_ticktick.md)
        * [How to subscribe other calendar service?](ios_app/3_how_to_subscribe_other_calendar_service.md)
