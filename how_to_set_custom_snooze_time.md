@@ -5,4 +5,4 @@ When getting a reminder on your iOS device, you can set snooze time to let it ri
 
 
 
-![](../images/iOSsnooze.png)
+![](snooze123.jpg)
