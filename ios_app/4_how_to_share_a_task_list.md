@@ -19,6 +19,7 @@ With a shared list, it is easy to check a shopping list with your family members
 
 
 
+
 **-Option 2: Share via link**
 
 1.Open TickTick on your iOS device and select a list.
