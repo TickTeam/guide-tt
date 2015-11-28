@@ -1,6 +1,6 @@
 ###  How to subscribe other calendar service?<mark>[Pro only]</mark>
 
-To subscribe third-party calendar apps in TickTick, you should 
+To subscribe third-party calendar apps in TickTick, you should: 
 
 1.Open TickTick on your iOS device and slide the screen to the right.
 
