@@ -5,4 +5,4 @@ TickTick has two different themes, light and dark.
 
 2.Tap the gear-shaped icon in the upper right hand corner.
 
-3.Tap “General” > “Theme” to select light or dark. 
+3.Tap “General” > “Theme” to select a theme.
