@@ -6,4 +6,4 @@
 3.Enter a Name for your list and set color, etc.
 
 
-![](../images/andraddlist.png)
+![](addlist.jpg)
