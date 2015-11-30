@@ -72,7 +72,7 @@
        * [How to adjust font size?](android_app/how_to_change_font_size.md)
        * [How to set language?](how_to_set_language.md)
    * [List Management]
-       * [How many predefined lists are there in TickTick?](android_app/how_many_default_lists_are_there_in_ticktick.md)
+       * [How to show or hide predefined lists  in TickTick?](android_app/how_many_default_lists_are_there_in_ticktick.md)
        * [How to create a task list?](android_app/1_how_to_create_a_task_list.md)
        * [What is list folder?](how_to_create_list_folders.md)
        * [How to edit lists and folders?](android_app/2_how_to_editrenamedelete_a_task_list.md)
