@@ -71,6 +71,14 @@
        * [How to change the theme?](android_app/7_how_to_choose_app_theme.md)
        * [How to adjust font size?](android_app/how_to_change_font_size.md)
        * [How to set language?](how_to_set_language.md)
+   * [List Management]
+       * [How many predefined lists are there in TickTick?](android_app/how_many_default_lists_are_there_in_ticktick.md)
+       * [How to create a task list?](android_app/1_how_to_create_a_task_list.md)
+       * [What is list folder?](how_to_create_list_folders.md)
+       * [How to edit lists and folders?](android_app/2_how_to_editrenamedelete_a_task_list.md)
+       * [How to share task lists with TickTick users?](android_app/4_how_to_share_a_task_list.md)
+       * [How to accept a shared list?](android_app/how_to_accept_lists_from_others.md)
+       * [How to sort task lists?](android_app/5_how_to_change_the_order_of_task_lists.md)
    * [Task Management]
        * [How to use different ways to create a task?](android_app/1_how_to_create_a_new_task.md)
        * [How to create checklists?](android_app/how_to_create_checklists_in_a_subtask.md)
@@ -86,14 +94,6 @@
        * [How to add comment on a task?](android_app/13how_to_add_comment_on_a_task.md)
        * [How to assign a task?](android_app/how_to_assign_a_task_list.md)
        * [How to search a task?](android_app/how_to_search_a_task.md)
-   * [List Management]
-       * [How many predefined lists are there in TickTick?](android_app/how_many_default_lists_are_there_in_ticktick.md)
-       * [How to create a task list?](android_app/1_how_to_create_a_task_list.md)
-       * [What is list folder?](how_to_create_list_folders.md)
-       * [How to edit lists and folders?](android_app/2_how_to_editrenamedelete_a_task_list.md)
-       * [How to share task lists with TickTick users?](android_app/4_how_to_share_a_task_list.md)
-       * [How to accept a shared list?](android_app/how_to_accept_lists_from_others.md)
-       * [How to sort task lists?](android_app/5_how_to_change_the_order_of_task_lists.md)
    * [Calendar]
        * [What is Calendar View?](what_is_calendar_view.md)
        * [How to display local calendar events in TickTick?](android_app/1_how_to_display_local_calendar_events_in_ticktick.md)
