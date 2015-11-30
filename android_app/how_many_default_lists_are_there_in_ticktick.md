@@ -9,9 +9,9 @@ There are 9 predefined lists in TickTick: All, Today, Next 7 Days, Inbox, Calend
 
 2.Slide the screen to the right.
 
-3.Tap “Edit List” at the bottom.
+3.Tap “Edit List” at the top of all the lists.
 
-4.Enable “Completed” in the next page.
+4.Enable “Completed” (choose "show")in the next page.
 
 Except “Inbox”, any other lists can be hidden from task list.
 
