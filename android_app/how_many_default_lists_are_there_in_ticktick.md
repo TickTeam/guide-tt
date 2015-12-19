@@ -1,5 +1,5 @@
-### How many predefined lists are there in TickTick?
-There are 9 predefined lists in TickTick: All, Today, Next 7 Days, Inbox, Calendar, Completed, Tags, Assigned to me and Trash”. Some of them are hidden by default, but you can make them all visible in the task list.
+### How to show or hide predefined lists in TickTick?
+There are 9 predefined lists in TickTick: Inbox, All, Today, Next 7 Days, Assigned to me，Calendar, Completed, Tags,  and Trash”. Except fSome of them are hidden by default, but you can make them visible in the task list.
 
 <br />
 
