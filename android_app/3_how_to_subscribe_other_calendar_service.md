@@ -6,6 +6,6 @@
 
 3.Tap “Security & Data” > “Subscribe Calendar”.
 
-4.Tap “Subscribe Calendar” in the “SUBSCRIBE THIRD-PARTY CALENDAR” section to enter a Calendar URL. 
+4.Tap “Subscribe Calendar” in the “SUBSCRIBE Third-Party Calendar” section to enter a Calendar URL. 
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/-wKLzzvLMsU?list=PLbWRKVi0_aTFbQcYoQHar2TR88yoO190U" frameborder="0" allowfullscreen></iframe>
+
