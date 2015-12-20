@@ -9,4 +9,4 @@
 4.Tap “Subscribe Calendar” in the “Subscribe Third-Party Calendar” section to enter a Calendar URL. 
 
 
-![](thirdcalendar12.jpg)
+![](thirdcalendar012.jpg)
