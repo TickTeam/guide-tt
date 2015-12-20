@@ -8,10 +8,7 @@ Please note that the person you want to assign a task to has to accept your invi
 3.Tap the option menu in the upper right hand corner to select “Assign to”.
 
 
-You can watch the video below from 01:02 to the end.
-
-<iframe width="700" height="400" src="https://www.youtube.com/embed/0y4hkxRUOoo?list=PLbWRKVi0_aTFbQcYoQHar2TR88yoO190U" frameborder="0" allowfullscreen></iframe>
-
+![](assign.png)
 <br />
 
-If you want to view all of your tasks that are assigned to you, you can enable the predefined list “Assigned to me”. 
+If you want to view all of your tasks that are assigned to you, you can enable the predefined list “Assigned to me” (turn to 2.2.1). 
