@@ -5,10 +5,12 @@
 
 3.Set a reminder time below the calendar.
 
-If you want to add more reminders, you can click “Reminder” bar to add reminders like “1 hours before”, “3 weeks before”, etc. Free users are allowed to add two more reminders, while Pro users can add five. 
+If you want to add more reminders, you can click “Reminder” bar to add reminders like “1 hours before”, “3 weeks before”, etc. You can also choose "Custom" to set reminders you need.Free users are allowed to add two reminders, while Pro users can add five. 
+
+![](setreminder.jpg)
 
 
-![](../images/androidreminder.png)
+
 
 
 
