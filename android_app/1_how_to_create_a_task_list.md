@@ -5,5 +5,4 @@
 
 3.Enter a Name for your list and set color, etc.
 
-
-![](addlist.jpg)
+![](addlist12.jpg)
