@@ -1,30 +1,29 @@
 ### How to use different ways to create a new task?
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/-npsJ9oIasU?list=PLbWRKVi0_aTFbQcYoQHar2TR88yoO190U" frameborder="0" allowfullscreen></iframe>
+There are six ways to add a new task.
 
 
-There are four ways to add a new task.
+**-Option 1: Add a task to Quick Add Bar with due date.**
 
-**-Option 1: Click “+” to add a task.**
+ “Quick add" is enabled by default, you can create a task by typing or voice input at the bottom of the task page, and choose a due date by taping the calendar icon.
+ 
+ ![](addtask1.png)
 
-You can tap “+” icon in the upper-right hand of the screen to create a new task.
+**-Option 2: Click “+” to add a task.**
 
-<br />
+If you disenable "Quick Add",you can tap “+” icon in the lower-right hand corner of the screen to create a new task.
 
-**-Option 2: Add a task to Quick Add Bar with due date and priority.**
-
-If you have enabled “Quick add bar”, you can create a task directly at the bottom of the task page. To enable “Quick add bar”, You should:
+To disenable "Quick Add" and make "+" button back, You should:
 
 1.Slide the screen to the right.
 
 2.Tap the gear-shaped icon in the upper-right hand of the screen.
 
-3.Tap “More” to enable “Quick add”, and the quick add bar will appear at the bottom of the task page.
+3.Tap “Advanced Settings” to disenable “Quick Add”, and "+" button will appear at the lower-right hand corner of task page.
 
-![](../images/androidquickadd.png)
+![](+back.jpg)
 
 <br />
-
 **-Option 3: Add a task from “Status Bar”.**
 
 Status Bar is a persistent notification bar entry where you can add a task directly. To enable “Status Bar”, You should:
@@ -33,21 +32,20 @@ Status Bar is a persistent notification bar entry where you can add a task direc
 
 2.Tap the gear-shaped icon in the upper-right hand of the screen.
 
-2.Tap “More” to enable “Status Bar”.
+2.Tap “Advanced Settings” to enable “Status Bar”.
 
 Status bar is in the pull-down menu of your phone. You can click “+” on the Status bar to add a task without entering Ticktick.
 
 <br />
 
-**-Option 4: Add a task from widget(turn to 2.6.5 for details).**
+**-Option 4: Add a task from widget (turn to 2.6.5 for details).**
 
 
 **-Option 5: Add a task by voice input.**
 
 Press and hold the add button to speak. For example, you can say “pick up Jack tomorrow at 10 AM”. Then a task “pick up Jack tomorrow at 10 AM” will be generated with due date (tomorrow) and reminder time (10 AM).
 
-
-![](../images/androidvoiceinput.png)
+![](voiceinput.png)
 
 
 **-Option 6: Add a task by “note to self” voice command with Google Now.**
