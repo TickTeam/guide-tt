@@ -1,6 +1,11 @@
 ### How to accept a shared list?
 
-You can watch the video below from 00:22 to 00:43.
+If someone shares a list with you, you will receive an invitation to accept the shared list.
 
-<iframe width="700" height="400" src="https://www.youtube.com/embed/0y4hkxRUOoo?list=PLbWRKVi0_aTFbQcYoQHar2TR88yoO190U" frameborder="0" allowfullscreen></iframe>
+1.Open TickTick on your Android device and slide the screen to the right.
+
+2.Tap the mail-shaped icon in the upper right hand of the screen.
+Tap "√" to accept, or tap "×" to decline the invitation of a shared list. 
+
+After accepting a shared list, it will be automatically added as a list in your TickTick.
 
