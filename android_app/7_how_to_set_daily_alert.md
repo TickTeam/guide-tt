@@ -7,6 +7,6 @@ Daily Alert is a daily sum-up, reminding you of all your undone and today tasks 
 
 3.Tap “Reminder” > “Daily Alert” to select a time.
 
-
+![](dailyalert.png)
 
 
