@@ -9,11 +9,12 @@ Sharing lists is a great way to collaborate with friends, family, and colleagues
 
 2.Tap “Share” from the option menu in the upper right hand corner.
 3.Tap "Invite new member".
-![](share12.jpg)
+
+![](c.share12.jpg)
 
 3.Input Email or name to add members.
 
-![](share3.png)
+![](c.share3.png)
 
 
 <br />
@@ -23,7 +24,7 @@ Sharing lists is a great way to collaborate with friends, family, and colleagues
 
 Link is an easier way to share lists. You only need to send the link via social platform. If someone clicks the link, TickTick will send a notification asking you whether you would like to add him or her to the list. If you agree, the list will be shared with your friend automatically. 
 
-![](share4.png)
+![](c.share4.png)
 
 
 
