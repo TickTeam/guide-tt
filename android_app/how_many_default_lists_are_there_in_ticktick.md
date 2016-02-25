@@ -14,5 +14,7 @@ There are 9 predefined lists in TickTick: Inbox, All, Today, Next 7 Days, Assign
 
 Except “Inbox”(always show), the other smart lists can be chosen to show or hide from task list.
 
-![](smartlist.png)
+![](smartlist1.png)
+
+
 
