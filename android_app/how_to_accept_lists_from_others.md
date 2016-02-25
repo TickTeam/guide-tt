@@ -10,5 +10,5 @@ If someone shares a list with you, you will receive an invitation to accept the 
 
 After accepting a shared list, it will be automatically added as a list in your TickTick.
 
-![](acceptshare12.jpg)
+![](c.acceptshare12.jpg)
 
