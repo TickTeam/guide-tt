@@ -80,6 +80,7 @@
        * [How to accept a shared list?](android_app/how_to_accept_lists_from_others.md)
        * [How to sort task lists?](android_app/5_how_to_change_the_order_of_task_lists.md)
            * How to send task lists?
+       * How to send task lists?
    * [Task Management]
        * [How to use different ways to create a task?](android_app/1_how_to_create_a_new_task.md)
        * [How to create checklists?](android_app/how_to_create_checklists_in_a_subtask.md)
