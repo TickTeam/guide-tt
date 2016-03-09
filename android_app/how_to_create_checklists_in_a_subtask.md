@@ -7,3 +7,10 @@
 Checklist can be used to create a shopping list or packing list. Checklist items are affiliated to tasks and therefore they can’t be assigned due dates individually.
 
 ![](checklist123.jpg)
+
+ 
+
+###How to add description to a task with checklists?
+Enter a task with checklists and tap task title or one of the checklists to be in "edit" mode, then the "Description" field will appear. 
+Then you can add necessary description for it.
+![](checklist45.jpg)
