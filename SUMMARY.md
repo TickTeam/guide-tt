@@ -76,11 +76,11 @@
        * [How to create a task list?](android_app/1_how_to_create_a_task_list.md)
        * [What is list folder?](how_to_create_list_folders.md)
        * [How to edit lists and folders?](android_app/2_how_to_editrenamedelete_a_task_list.md)
+       * [How to send task lists?](how_to_send_task_lists.md)
        * [How to share task lists with TickTick users?](android_app/4_how_to_share_a_task_list.md)
        * [How to accept a shared list?](android_app/how_to_accept_lists_from_others.md)
        * [How to sort task lists?](android_app/5_how_to_change_the_order_of_task_lists.md)
            * How to send task lists?
-       * [How to send task lists?](how_to_send_task_lists.md)
    * [Task Management]
        * [How to use different ways to create a task?](android_app/1_how_to_create_a_new_task.md)
        * [How to create checklists?](android_app/how_to_create_checklists_in_a_subtask.md)
