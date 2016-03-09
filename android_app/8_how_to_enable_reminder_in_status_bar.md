@@ -7,7 +7,11 @@ Stutus bar is in the pull-down screen of your phone, where you can view today ta
 
 2.Slide the screen to the right and tap the gear-shaped icon in the upper right hand corner. 
 
-3.Tap "Advanced Settings">"Status Bar"
+3.Tap "Advanced Settings">"Status Bar". 
+
+You can also choose a color for status bar.
+
+![](status bar.png)
 
 ###How to make notifications stay on your Status Bar?
 
