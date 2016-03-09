@@ -4,7 +4,10 @@
 
 2.Tap the option menu in the upper right hand corner to tap “Sort”.
 
-Tasks under self-defined lists and “Inbox” can be sorted by due date, title, and priority. Tasks in a shared list can be sorted by assignee, and tasks in “All” can be sorted by list.
+Tasks under self-defined lists and “Inbox” can be sorted by due date, title, and priority.
+Tasks in “All” "Today" and "next 7 days"can be sorted by list, due date, title, and priority.
+Tasks in a shared list can be sorted by assignee.
+
 
 ![](sort12.jpg)
 
