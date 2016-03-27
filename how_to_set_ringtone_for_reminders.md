@@ -1,4 +1,5 @@
-### How to set ringtone for reminders?
+## How to set reminder ringtone and annoying alert?
+###How to set ringtone for reminders?
 
 1.Open TickTick on your iOS device and slide the screen to the right.
 
