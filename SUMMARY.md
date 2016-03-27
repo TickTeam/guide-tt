@@ -151,7 +151,7 @@
        * [How to assign a task?](ios_app/how_to_assign_tasks_to_others.md)
        * [How to search for a task?](ios_app/how_to_search_for_a_task.md)
        * [How to move a task from one list to another?](how_to_move_a_task_from_one_list_to_another.md)
-       * How to send s task?
+       * [How to send s task?](how_to_send_s_task.md/task management)
    * [Reminder]
        * [How to set due date and  reminders?](ios_app/1_how_to_set_due_date_&_reminder_for_a_task.md)
        * [How to set ringtone for reminders?](how_to_set_ringtone_for_reminders.md)
