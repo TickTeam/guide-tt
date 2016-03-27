@@ -153,7 +153,7 @@
        * [How to move a task from one list to another?](how_to_move_a_task_from_one_list_to_another.md)
    * [Reminder]
        * [How to set due date and  reminders?](ios_app/1_how_to_set_due_date_&_reminder_for_a_task.md)
-       * [How to set ringtone for reminders?](how_to_set_ringtone_for_reminders.md)
+       * [How to set reminder ringtone and annoying alert?](how_to_set_ringtone_for_reminders.md)
        * [How to set “Daily Alert”?](ios_app/4_how_to_set_daily_alert.md)
        * [How to set “location reminder”?](ios_app/5_how_to_set_location_reminder.md)
        * [How to set snooze time?](how_to_set_custom_snooze_time.md)
