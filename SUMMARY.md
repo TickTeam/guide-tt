@@ -96,6 +96,7 @@
        * [How to search a task?](android_app/how_to_search_a_task.md)
        * [How to add comment on a task?](android_app/13how_to_add_comment_on_a_task.md)
        * [How to assign a task?](android_app/how_to_assign_a_task_list.md)
+       * How to send a task?
    * [Calendar]
        * [What is Calendar View?](what_is_calendar_view.md)
        * [How to display local calendar events in TickTick?](android_app/1_how_to_display_local_calendar_events_in_ticktick.md)
