@@ -17,6 +17,10 @@ Tasks in a shared list can be sorted by assignee.
 
 2.Press and hold a task to drag them manually.
 
+**-How to resume the original sort after you drag tasks?
+
+When you dragged tasks under due date sort, the order will be resumed if sorted by due date again.
+
 
 
 
