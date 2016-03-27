@@ -137,7 +137,7 @@
        * [How to share task lists?](ios_app/4_how_to_share_a_task_list.md)
        * [How to accept a shared list?](ios_app/how_to_accept_a_shared_list.md)
    * [Task Management]
-       * [How to create a new task?](ios_app/1_how_to_create_a_new_task.md)
+       * [How to create a new task?](ios_app/1how_to_create_a_new_task_md.md)
        * [How to batch edit tasks?](ios_app/2_how_to_batch_edit_tasks.md)
        * [How to change the order of the tasks?](ios_app/3_how_to_change_the_order_of_tasks.md)
        * [How to hide/show completed tasks in each list?](ios_app/4_how_to_archive_tasks.md)
