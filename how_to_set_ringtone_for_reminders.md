@@ -17,6 +17,8 @@ If "annoying alert" enabled, the alert will not go off in 30 seconds and will be
 
 3.Tap “Preferences” > “Ringtone"> "annoying alert".
 
+![](annoying alert.png)
+
 
 
 
