@@ -95,7 +95,6 @@
        * [How to send a task?](how_to_send_a_task.md)
        * [How to search a task?](android_app/how_to_search_a_task.md)
        * [How to add comment on a task?](android_app/13how_to_add_comment_on_a_task.md)
-       * How to send a task?
        * [How to assign a task?](android_app/how_to_assign_a_task_list.md)
    * [Calendar]
        * [What is Calendar View?](what_is_calendar_view.md)
