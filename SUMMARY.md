@@ -92,10 +92,10 @@
        * [How to swipe tasks for quick actions?](android_app/8_how_to_swipe_tasks_for_quick_actions.md)
        * [How to upload an attachment in a task?](android_app/10_how_to_upload_attachment.md)
        * [How to add tags to a task?](android_app/12_how_to_add_tags_to_a_task.md)
+       * [How to send a task?](how_to_send_a_task.md)
        * [How to add comment on a task?](android_app/13how_to_add_comment_on_a_task.md)
        * [How to assign a task?](android_app/how_to_assign_a_task_list.md)
        * [How to search a task?](android_app/how_to_search_a_task.md)
-       * [How to send a task?](how_to_send_a_task.md)
    * [Calendar]
        * [What is Calendar View?](what_is_calendar_view.md)
        * [How to display local calendar events in TickTick?](android_app/1_how_to_display_local_calendar_events_in_ticktick.md)
