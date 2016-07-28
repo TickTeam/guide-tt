@@ -34,7 +34,7 @@
        * [How to delete a list?](ticktick_web_app/how_to_delete_a_list.md)
        * [What is “Inbox”?](ticktick_web_app/what_is_inbox.md)
    * [Task management]
-       * [How to add a new task?](ticktick_web_app/how_to_add_a_new_task.md)
+       * [How to add a new task?](ticktick_web_app/)
            * [How to use Smart Date Parsing when adding tasks?](ticktick_web_app/how_to_use_smart_date_parsing_when_adding_tasks.md)
        * [How to add reminders ?](how_to_add_reminders.md)
        * [How to add a recurring task?](ticktick_web_app/how_to_add_a_recurring_task.md)
