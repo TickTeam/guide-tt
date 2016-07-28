@@ -43,6 +43,7 @@
        * [How to upload attachment to a task?](ticktick_web_app/how_to_upload_attachment_to_a_task.md)
        * [How to print a task?](ticktick_web_app/how_to_print_a_task.md)
        * [How to assign a task to others?](ticktick_web_app/how_to_assign_a_task_to_others.md)
+       * [How to use Smart Date Parsing when adding tasks?](how_to_use_smart_date_parsing_when_adding_tasks.md)
        * [How to comment on a task?](ticktick_web_app/how_to_comment_on_a_task.md)
        * [How to check activities of a task? [Pro only]](ticktick_web_app/how_to_check_revision_history_of_a_task.md)
        * [How to add tag to a task?](ticktick_web_app/how_to_add_tag_to_a_task.md)
@@ -53,7 +54,6 @@
        * [How many shortcuts are there in TickTick?](ticktick_web_app/how_many_shortcuts_are_there_in_ticktick.md)
        * [How to duplicate tasks?](how_to_duplicate_tasks.md)
        * [How to set snooze time?](how_to_set_snooze_time.md)
-       * [How to use Smart Date Parsing when adding tasks?](how_to_use_smart_date_parsing_when_adding_tasks.md)
    * [Calendar Subscription]
        * [How to subscribe TickTick in my own calendar app?](ticktick_web_app/how_to_subscribe_ticktick_in_my_own_calendar_app.md)
        * [How to subscribe my calendar in TickTick? [Pro only]](ticktick_web_app/how_to_subscribe_my_calendar_in_ticktick.md)
