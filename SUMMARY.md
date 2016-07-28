@@ -35,6 +35,7 @@
        * [What is “Inbox”?](ticktick_web_app/what_is_inbox.md)
    * [Task management]
        * [How to add a new task?](ticktick_web_app/)
+       * [How to use Smart Date Parsing when adding tasks?](how_to_use_smart_date_parsing_when_adding_tasks.md)
        * [How to add reminders ?](how_to_add_reminders.md)
        * [How to add a recurring task?](ticktick_web_app/how_to_add_a_recurring_task.md)
        * [How to add a new task via email?](ticktick_web_app/how_to_add_a_new_via_email.md)
@@ -43,7 +44,6 @@
        * [How to upload attachment to a task?](ticktick_web_app/how_to_upload_attachment_to_a_task.md)
        * [How to print a task?](ticktick_web_app/how_to_print_a_task.md)
        * [How to assign a task to others?](ticktick_web_app/how_to_assign_a_task_to_others.md)
-       * [How to use Smart Date Parsing when adding tasks?](how_to_use_smart_date_parsing_when_adding_tasks.md)
        * [How to comment on a task?](ticktick_web_app/how_to_comment_on_a_task.md)
        * [How to check activities of a task? [Pro only]](ticktick_web_app/how_to_check_revision_history_of_a_task.md)
        * [How to add tag to a task?](ticktick_web_app/how_to_add_tag_to_a_task.md)
