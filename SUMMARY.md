@@ -35,6 +35,7 @@
        * [What is “Inbox”?](ticktick_web_app/what_is_inbox.md)
    * [Task management]
        * [How to add a new task?](ticktick_web_app/how_to_add_a_new_task.md)
+           * How to use Smart Date Parsing when adding tasks?
        * [How to add reminders ?](how_to_add_reminders.md)
        * [How to add a recurring task?](ticktick_web_app/how_to_add_a_recurring_task.md)
        * [How to add a new task via email?](ticktick_web_app/how_to_add_a_new_via_email.md)
