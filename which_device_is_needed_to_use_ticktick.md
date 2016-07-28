@@ -3,4 +3,4 @@ TickTick is available on web, android phone, android wear, iPhone, iPad, Mac, Ap
 
 TickTick's own [cloud](http://www.ticktick.com/) can help you backup and manage all tasks.
 
-![](images/image1.0X.png)
+![](安卓设备TICK.png)
