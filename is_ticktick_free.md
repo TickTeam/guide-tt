@@ -20,7 +20,7 @@ TickTick Pro updates your TickTick experience to stay productive for $1.99 per m
 | | Name | Function |
 |-- || -- | -- |
 |1| Calendar View | View & plan agenda more easily |
-|2| Revision History |Track revision history of every task|
+|2| Task Activities |Track revision history of every task|
 |3| Mini Calendar | View agenda in Calendar|
 <br />
 
