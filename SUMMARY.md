@@ -170,6 +170,7 @@
        * [How to display local calendar events in TickTick?](ios_app/1_how_to_display_local_calendar_events_in_ticktick.md)
        * [How to subscribe other calendar service?](ios_app/3_how_to_subscribe_other_calendar_service.md)
        * [How to add calendar events in TickTick ?](ios_app/2_how_to_add_calendar_events_in_ticktick.md)
+       * How to get grid view of calendar?
 * [Chrome Extension]
    * [Installation & Account](chrome_extension_app/installation_&_account.md)
        * [How can I get the TickTick Chrome Extension ?](chrome_extension_app/1_how_can_i_get_the_ticktick_chrome_extension_app.md)
