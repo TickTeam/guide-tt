@@ -130,6 +130,7 @@
        * [What does the app badge count for?](ios_app/what_does_the_app_badge_count_for.md)
        * [How to set language for TickTick?](how_to_set_language_for_ticktick.md)
        * [Why voice input can't recognize my language?](why_voice_input_cant_recognize_my_language.md)
+   * List Management
    * [Task Management]
        * [How to create a new task?](ios_app/1how_to_create_a_new_task_md.md)
        * [How to batch edit tasks?](ios_app/2_how_to_batch_edit_tasks.md)
@@ -180,5 +181,4 @@
    * [Web app](video_tutorials/web_app.md)
    * [Android App](video_tutorials/android_app.md)
    * [iOS app](video_tutorials/ios_app.md)
-* List Management
 
