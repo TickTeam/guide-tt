@@ -17,7 +17,8 @@ For example, if you want to go to library on next Saturday at 2 pm, you just nee
 
 ![](smartdate12.jpg)
 
--How to remove date & time info from task content when using Smart Date Parsing?
+* 
+How to remove date & time info from task content when using Smart Date Parsing?
 
 If you prefer date and time not showing in your task content after task is created, you can set it in Settings, Advanced Settings, Smart Date Parsing, Remove Text in Tasks.
 
