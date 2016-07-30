@@ -87,6 +87,7 @@
        * [How to create a task?](android_app/1_how_to_create_a_new_task.md)
        * [How to create checklists?](android_app/how_to_create_checklists_in_a_subtask.md)
        * [How to batch edit tasks?](android_app/2_how_to_batch_edit_tasks.md)
+       * How to record task progress?
        * [How to change the order of the tasks?](android_app/3_how_to_change_the_order_of_tasks.md)
        * [How to set recurring tasks?](android_app/how_to_set_recurring_tasks.md)
        * [How to hide or show completed tasks?](android_app/4_how_to_archive_tasks.md)
@@ -99,7 +100,6 @@
        * [How to search a task?](android_app/how_to_search_a_task.md)
        * [How to add comment on a task?](android_app/13how_to_add_comment_on_a_task.md)
        * [How to assign a task?](android_app/how_to_assign_a_task_list.md)
-       * How to record task progress?
    * [Calendar]
        * [What is Calendar View?](what_is_calendar_view.md)
        * [How to display local calendar events in TickTick?](android_app/1_how_to_display_local_calendar_events_in_ticktick.md)
