@@ -26,6 +26,7 @@
        * [How to redeem a TickTick gift code?](how_to_redeem_a_ticktick_gift_code.md)
    * [List Management]
        * [How to create a new list?](ticktick_web_app/how_to_add_a_new_list.md)
+       * How to create Custom Samrt List?
        * [How to create a list folder?](how_to_create_a_list_folder.md)
        * [How to edit a list/folder?](ticktick_web_app/how_to_edit_lists.md)
        * [How to share lists with TickTick users?](ticktick_web_app/how_to_share_lists.md)
@@ -33,7 +34,6 @@
        * [How to close an inactive list temporarily?](ticktick_web_app/how_to_close_a_list.md)
        * [How to delete a list?](ticktick_web_app/how_to_delete_a_list.md)
        * [What is “Inbox”?](ticktick_web_app/what_is_inbox.md)
-       * How to create Custom Samrt List?
    * [Task management]
        * [How to add a new task?](ticktick_web_app/)
        * [How to use Smart Date Parsing when adding tasks?](how_to_use_smart_date_parsing_when_adding_tasks.md)
