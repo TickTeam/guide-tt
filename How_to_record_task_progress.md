@@ -7,7 +7,9 @@
 
 2.Tap the date section (hold for 1 or 2 seconds) to record progress for the task.
 
-![](iOS task progress.gif)
+![](iOS record task progress.gif)
+
+
 
 
 
