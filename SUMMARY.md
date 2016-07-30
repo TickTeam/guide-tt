@@ -41,7 +41,7 @@
        * [How to add a recurring task?](ticktick_web_app/how_to_add_a_recurring_task.md)
        * [How to add a new task via email?](ticktick_web_app/how_to_add_a_new_via_email.md)
        * [How to create a checklist?](ticktick_web_app/how_to_create_checklist.md)
-       * How to record task progress?
+       * [How to record task progress?](web-How_to_record_task_progress.md)
        * [How to set priority of a task?](ticktick_web_app/how_to_set_priority_of_a_task.md)
        * [How to upload attachment to a task?](ticktick_web_app/how_to_upload_attachment_to_a_task.md)
        * [How to print a task?](ticktick_web_app/how_to_print_a_task.md)
