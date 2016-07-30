@@ -116,7 +116,6 @@
        * [How to add tasks and enter TicKTick through widget?](android_app/how_to_add_tasks_and_enter_ticktick_through_widget.md)
        * [What’s the difference between TickTick Undone & TickTick Shortcut?](whats_the_difference_between_ticktick_undone_&_ticktick_shortcut.md)
 * [TickTick iOS App]
-   * [List Management](list_management.md)
    * [Installation & Account]
        * [How can I get the TickTick iOS app?](ios_app/1_how_can_i_get_the_ticktick_iphone_app.md)
        * [How to sign in?](ios_app/2_how_to_sign_in.md)
