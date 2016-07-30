@@ -132,7 +132,7 @@
        * [Why voice input can't recognize my language?](why_voice_input_cant_recognize_my_language.md)
    * List Management
        * [How to show/hide Smart Lists ?](how_to_showhide_smart_lists.md)
-       * How to create Custom Smart List?
+       * [How to create Custom Smart List?](How_to_create_custom_smart_list.md)
        * [How to create task lists?](how_to_create_task_lists.md)
        * [How to create list folders?](How_to_create_list_folders.md)
        * [How to edit lists and folders?](how_to_edit_lists_and_folders.md)
