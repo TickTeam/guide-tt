@@ -116,6 +116,7 @@
        * [How to add tasks and enter TicKTick through widget?](android_app/how_to_add_tasks_and_enter_ticktick_through_widget.md)
        * [What’s the difference between TickTick Undone & TickTick Shortcut?](whats_the_difference_between_ticktick_undone_&_ticktick_shortcut.md)
 * [TickTick iOS App]
+   * List Management
    * [Installation & Account]
        * [How can I get the TickTick iOS app?](ios_app/1_how_can_i_get_the_ticktick_iphone_app.md)
        * [How to sign in?](ios_app/2_how_to_sign_in.md)
@@ -157,7 +158,6 @@
        * [How to display local calendar events in TickTick?](ios_app/1_how_to_display_local_calendar_events_in_ticktick.md)
        * [How to subscribe other calendar service?](ios_app/3_how_to_subscribe_other_calendar_service.md)
        * [How to add calendar events in TickTick ?](ios_app/2_how_to_add_calendar_events_in_ticktick.md)
-   * List Management
 * [Chrome Extension]
    * [Installation & Account](chrome_extension_app/installation_&_account.md)
        * [How can I get the TickTick Chrome Extension ?](chrome_extension_app/1_how_can_i_get_the_ticktick_chrome_extension_app.md)
