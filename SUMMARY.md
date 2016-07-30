@@ -103,9 +103,9 @@
        * [How to assign a task?](android_app/how_to_assign_a_task_list.md)
    * [Calendar]
        * [What is Calendar View?](what_is_calendar_view.md)
+       * How to get grid view of calendar?
        * [How to display local calendar events in TickTick?](android_app/1_how_to_display_local_calendar_events_in_ticktick.md)
        * [How to subscribe other calendar service? [Pro only]](android_app/3_how_to_subscribe_other_calendar_service.md)
-       * How to get grid view of calendar?
    * [Reminder]
        * [How to add reminders to a task?](android_app/1_how_to_set_due_date_&_reminder_for_a_task.md)
        * [How to set location-based reminder ?](android_app/3_how_to_set_location_reminder.md)
