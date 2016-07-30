@@ -1,6 +1,6 @@
 # How to use Smart Date Parsing when adding tasks?
 
-Date & time information you type will be recognized as dua date and reminder when adding tasks.
+Date & time information you type will be recognized as due date and reminder when adding tasks.
 
 For example, if you want to go to library on July 30 at 2 pm, you just need to type: “Go to library July 30 2 pm”, then TickTick will automatically recognize July 30 as the task’s due date and set 2 pm as its reminder. 
 
