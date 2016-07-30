@@ -1,4 +1,4 @@
-### How to show or hide predefined lists in TickTick?
+### How to show or hide Smart Lists in TickTick?
 There are 9 predefined lists in TickTick: Inbox, All, Today, Next 7 Days, Assigned to me，Calendar, Completed, Tags, and Trash”. Some of them are hidden by default, but you can make them visible by managing Smart List.
 <br />
 
