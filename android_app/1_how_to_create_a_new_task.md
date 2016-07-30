@@ -75,6 +75,6 @@ Press and hold the add button to speak. For example, you can say “pick up Jack
 
 3.Start by saying “note to self”. For example, you can say “note to self, have lunch with Jack tomorrow at 13.”  
 
-4.Select TickTick to save the task.
+4.Select TickTick to save the task.   
 
 
