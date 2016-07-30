@@ -136,7 +136,7 @@
        * [How to create list folders?](How_to_create_list_folders.md)
        * [How to edit lists and folders?](how_to_edit_lists_and_folders.md)
        * [How to share task lists?](how_to_share_task_lists.md)
-       * How to accept a shared list?
+       * [How to accept a shared list?](how_to_accept_a_shared_list.md)
    * [Task Management]
        * [How to create a new task?](ios_app/1how_to_create_a_new_task_md.md)
        * [How to batch edit tasks?](ios_app/2_how_to_batch_edit_tasks.md)
