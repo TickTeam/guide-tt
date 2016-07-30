@@ -26,7 +26,7 @@
        * [How to redeem a TickTick gift code?](how_to_redeem_a_ticktick_gift_code.md)
    * [List Management]
        * [How to create a new list?](ticktick_web_app/how_to_add_a_new_list.md)
-       * How to create Custom Samrt List?
+       * [How to create Custom Samrt List?](how_to_create_custom_samrt_list.md)
        * [How to create a list folder?](how_to_create_a_list_folder.md)
        * [How to edit a list/folder?](ticktick_web_app/how_to_edit_lists.md)
        * [How to share lists with TickTick users?](ticktick_web_app/how_to_share_lists.md)
