@@ -1,4 +1,4 @@
-# How to create Custom Smart List?
+# How to create Custom Smart List? (Pro)
 
 
 ### To create your own Smart List:
