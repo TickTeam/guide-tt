@@ -33,6 +33,7 @@
        * [How to close an inactive list temporarily?](ticktick_web_app/how_to_close_a_list.md)
        * [How to delete a list?](ticktick_web_app/how_to_delete_a_list.md)
        * [What is “Inbox”?](ticktick_web_app/what_is_inbox.md)
+       * How to create Custom Samrt List?
    * [Task management]
        * [How to add a new task?](ticktick_web_app/)
        * [How to use Smart Date Parsing when adding tasks?](how_to_use_smart_date_parsing_when_adding_tasks.md)
