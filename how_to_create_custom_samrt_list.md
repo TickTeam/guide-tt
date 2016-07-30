@@ -4,7 +4,7 @@ In order to create Custom Smart Lists on web, you should first enable "Custom Sm
 
 ![](custom1.png)
 
-Afetr "Custom Smart List" is enabled, you can click "Custom" in Left side bar to add Custom Smart List.
+After "Custom Smart List" is enabled, you can click "Custom" in Left side bar to add Custom Smart List.
 
 The created Custom Smart List will show in "Custom" section in left side bar.
 
