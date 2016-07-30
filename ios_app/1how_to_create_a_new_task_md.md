@@ -8,6 +8,25 @@ If you enable "Quick Add" in advanced settings,quick add bar and voice input ico
 
 ![](c quickadd .png)
 
+
+#### How to use Smart Date Parsing when adding tasks from Quick Add bar?
+
+If you type date and time information when adding tasks from Quick Add bar, TickTick will automatically recognizes date as due date and set the time as reminder.
+
+For example, if you want to go to library on next Saturday at 2 pm, you just need to type: “Go to library next Saturday 2 pm”, then TickTick will automatically recognize the date of next Saturday as the task’s due date and set 2 pm as its reminder.
+
+![](smartdate12.jpg)
+
+-How to remove date & time info from task content when using Smart Date Parsing?
+
+If you prefer date and time not showing in your task content after task is created, you can set it in Settings, Advanced Settings, Smart Date Parsing, Remove Text in Tasks.
+
+After "Remove Text in Tasks" is enabled, the highlighted date & time text will be removed when adding tasks.
+
+![](smartdate3.png)
+
+
+
 -Option 3: Pull-down Screen
 
 1.Pull down the screen.
