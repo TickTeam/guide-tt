@@ -142,11 +142,11 @@
        * [How to accept a shared list?](how_to_accept_a_shared_list.md)
    * [Task Management]
        * [How to create a new task?](ios_app/1how_to_create_a_new_task_md.md)
+       * [How to create a checklist?](ios_app/5_how_to_create_checklist.md)
        * [How to batch edit tasks?](ios_app/2_how_to_batch_edit_tasks.md)
        * [How to change the order of the tasks?](ios_app/3_how_to_change_the_order_of_tasks.md)
        * [How to hide/show completed tasks in each list?](ios_app/4_how_to_archive_tasks.md)
        * [Where can I check all of my completed tasks?](ios_app/how_can_i_check_completed_tasks.md)
-       * [How to create a checklist?](ios_app/5_how_to_create_checklist.md)
        * [How to create recurring tasks?](ios_app/how_to_create_recurring_tasks.md)
        * [How to swipe tasks for quick actions?](ios_app/6_how_to_swipe_tasks_for_quick_actions.md)
        * [How to upload attachments?](ios_app/7_how_to_upload_attachment.md)
