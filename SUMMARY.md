@@ -143,6 +143,7 @@
    * [Task Management]
        * [How to create a new task?](ios_app/1how_to_create_a_new_task_md.md)
        * [How to create a checklist?](ios_app/5_how_to_create_checklist.md)
+       * How to record task progress?
        * [How to batch edit tasks?](ios_app/2_how_to_batch_edit_tasks.md)
        * [How to change the order of the tasks?](ios_app/3_how_to_change_the_order_of_tasks.md)
        * [How to hide/show completed tasks in each list?](ios_app/4_how_to_archive_tasks.md)
@@ -156,7 +157,6 @@
        * [How to assign a task?](ios_app/how_to_assign_tasks_to_others.md)
        * [How to search for a task?](ios_app/how_to_search_for_a_task.md)
        * [How to move a task from one list to another?](how_to_move_a_task_from_one_list_to_another.md)
-       * How to record task progress?
    * [Reminder]
        * [How to set due date and  reminders?](ios_app/1_how_to_set_due_date_&_reminder_for_a_task.md)
        * [How to set reminder ringtone and annoying alert?](how_to_set_ringtone_for_reminders.md)
