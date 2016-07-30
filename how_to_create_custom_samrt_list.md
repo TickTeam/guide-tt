@@ -1,4 +1,4 @@
-# How to create Custom Samrt List?
+# How to create Custom Samrt List? (Pro)
 
 In order to create Custom Smart Lists on web, you should first enable "Custom Smart List" by: Settings, Smart List, Custom Smart List (enable).
 
