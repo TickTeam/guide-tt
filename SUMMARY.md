@@ -132,7 +132,7 @@
        * [Why voice input can't recognize my language?](why_voice_input_cant_recognize_my_language.md)
    * List Management
        * [How to show/hide Smart Lists ?](how_to_showhide_smart_lists.md)
-       * How to create task lists?
+       * [How to create task lists?](how_to_create_task_lists.md)
    * [Task Management]
        * [How to create a new task?](ios_app/1how_to_create_a_new_task_md.md)
        * [How to batch edit tasks?](ios_app/2_how_to_batch_edit_tasks.md)
