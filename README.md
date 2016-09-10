@@ -5,7 +5,7 @@
 
 Hi, welcome to TicKTick!
 
-![](support邮件签名配图新（上下两行）logo2.png)
+![](support mail signature.png)
 
 This book is divided into six parts containing magical features of TickTick!
 
