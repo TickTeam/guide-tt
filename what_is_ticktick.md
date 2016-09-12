@@ -2,7 +2,7 @@
 TickTick is a cross-platform to-do list app & task manager, helping you get all things done and make life well organized.
 
 ####*Add tasks anytime, anywhere!*
-![](tidy.png)
+![](tidy.png)            
 
 ####*Check tasks one by one*!
 
