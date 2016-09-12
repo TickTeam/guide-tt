@@ -18,12 +18,12 @@ img {
 /*just for dida*/
 
 .book .book-summary {
-  left: -400px;
-  width: 400px;
+  /*left: -400px;*/
+  /*width: 400px;*/
 }
 
 @media(min-width: 600px) {
     .book.with-summary .book-body {
-        left:400px
+        /*left:400px*/
     }
 }
