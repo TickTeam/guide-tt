@@ -29,7 +29,7 @@ TickTick Pro updates your TickTick experience to stay productive for $1.99 per m
 
 | | Item | Number |
 |-- || -- | -- |
-|1| Self-defined lists | 19 |
+|1| Self-defined lists | 9 |
 |2| Tasks of each list |99|
 |3| Checklist items of each task  | 19 |
 |4| Recipient for shared list | 1 |
