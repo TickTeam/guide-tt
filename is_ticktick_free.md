@@ -15,6 +15,8 @@ TickTick Pro updates your TickTick experience to stay productive for $2.79 per m
 <br />
 
 
+
+
 **&nbsp;In web app, Pro users can also enjoy the following features in "Lab":**
 
 | | Name | Function |
@@ -34,3 +36,4 @@ TickTick Pro updates your TickTick experience to stay productive for $2.79 per m
 |3| Checklist items of each task  | 19 |
 |4| Recipient for shared list | 1 |
 |5| Attachment | 1 per day |
+
