@@ -7,10 +7,10 @@ There are six ways to add a new task.
 
  “Quick add" is enabled by default, you can create a task by typing or voice input at the bottom of the task page, and choose a due date by taping the calendar icon.
  
- ![](addtask1.png)
+![](addtask11.png)
 
 
-#### **How to use Smart Date Parsing when adding tasks from Quick Add bar?**
+##### **How to use Smart Date Parsing when adding tasks from Quick Add bar?**
 
 
 
