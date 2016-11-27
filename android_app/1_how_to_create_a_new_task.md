@@ -13,7 +13,6 @@ There are six ways to add a new task.
 ##### **How to use Smart Date Parsing when adding tasks from Quick Add bar?**
 
 
-
 If you type date and time information when adding tasks from Quick Add bar, TickTick will automatically recognizes date as due date and set the time as reminder.
 
 For example, if you want to go to library on next Saturday at 2 pm, you just need to type: “Go to library next Saturday 2 pm”, then TickTick will automatically recognize the date of next Saturday as the task’s due date and set 2 pm as its reminder.
