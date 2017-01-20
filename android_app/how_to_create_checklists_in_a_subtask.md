@@ -8,6 +8,7 @@ Checklist can be used to create a shopping list or packing list. Checklist items
 
 ![](checklist123.jpg)
 
+
  
 
 ###How to add description to a task with checklists?（Pro only) 
