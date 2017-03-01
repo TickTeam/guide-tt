@@ -1,4 +1,4 @@
-# 自定义智能清单特殊规则
+# Examples
 
 TickTick provides “**AND**” and “**OR**” for combining the around two filters to find the exact tasks you need in seconds, which could help to focus on the right things when used correctly.
 

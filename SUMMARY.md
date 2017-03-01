@@ -194,5 +194,5 @@
   * [Web app](video_tutorials/web_app.md)
   * [Android App](video_tutorials/android_app.md)
   * [iOS app](video_tutorials/ios_app.md)
-* [Filter](filter/README.md)
+* [Filter](filter.md)
 
