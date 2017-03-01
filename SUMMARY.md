@@ -8,7 +8,7 @@
   * [How can I get refund?](how_can_i_get_refund.md)
 * \[TickTick web app\]
   * \[Preference Settings\]
-    * [How to change the  theme?](1.1.1/Preference settings.md)
+    * \[How to change the  theme?\]\(1.1.1/Preference settings.md\)
     * [How to set language within TickTick?](how_to_set_language_in_ticktick.md)
     * [How to set Time Format?](ticktick_web_app/how_to_set_time_format.md)
     * [How to set the start day of the week?](ticktick_web_app/how_to_set_the_start_of_week.md)
@@ -119,7 +119,7 @@
     * [How to configure widget?](android_app/3_how_to_configure_widget.md)
     * [How to add tasks and enter TicKTick through widget?](android_app/how_to_add_tasks_and_enter_ticktick_through_widget.md)
     * [What’s the difference between TickTick Undone & TickTick Shortcut?](whats_the_difference_between_ticktick_undone_&_ticktick_shortcut.md)
-* \[TickTick iOS App\]
+* [\[TickTick iOS App\]](ticktick-ios-app.md)
   * \[Installation & Account\]
     * [How can I get the TickTick iOS app?](ios_app/1_how_can_i_get_the_ticktick_iphone_app.md)
     * [How to sign in?](ios_app/2_how_to_sign_in.md)
@@ -165,13 +165,13 @@
     * [How to set “Daily Alert”?](ios_app/4_how_to_set_daily_alert.md)
     * [How to set “location reminder”?](ios_app/5_how_to_set_location_reminder.md)
     * [How to set snooze time?](how_to_set_custom_snooze_time.md)
-  * [\[Calendar\]](TickTick iOS App)
+  * \[\[Calendar\]\]\(TickTick iOS App\)
     * [What is Calendar View ?](what_is_calendar_view_used_for.md)
     * [How to get grid view of calendar?](How_to_get_grid_view_of_calendar.md)
     * [How to display local calendar events in TickTick?](ios_app/1_how_to_display_local_calendar_events_in_ticktick.md)
     * [How to subscribe other calendar service?](ios_app/3_how_to_subscribe_other_calendar_service.md)
     * [How to add calendar events in TickTick ?](ios_app/2_how_to_add_calendar_events_in_ticktick.md)
-* \[Chrome Extension\]
+* [\[Chrome Extension\]](chrome-extension.md)
   * [Installation & Account](chrome_extension_app/installation_&_account.md)
     * [How can I get the TickTick Chrome Extension ?](chrome_extension_app/1_how_can_i_get_the_ticktick_chrome_extension_app.md)
     * [How to sign in?](chrome_extension_app/2_how_to_sign_in.md)
