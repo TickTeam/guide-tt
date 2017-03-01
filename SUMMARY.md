@@ -7,7 +7,7 @@
   * [Does TickTick have an API?](does_ticktick_have_an_api.md)
   * [How can I get refund?](how_can_i_get_refund.md)
 * \[TickTick web app\]
-  * \[Preference Settings\]
+  * [\[Preference Settings\]](preference-settings.md)
     * \[How to change the  theme?\]\(1.1.1/Preference settings.md\)
     * [How to set language within TickTick?](how_to_set_language_in_ticktick.md)
     * [How to set Time Format?](ticktick_web_app/how_to_set_time_format.md)
@@ -194,5 +194,5 @@
   * [Web app](video_tutorials/web_app.md)
   * [Android App](video_tutorials/android_app.md)
   * [iOS app](video_tutorials/ios_app.md)
-* [Filter](filter.md)
+* [Filter](video_tutorials/README.md)
 
