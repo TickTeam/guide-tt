@@ -1,7 +1,7 @@
 ### How to add comment to a task?
-1.Open TickTick on your iOS device and select a task that you would like to comment on.
+1. Open TickTick on your iOS device and select a task that you would like to comment on.
 
-2.Tap the option menu in the upper-right corner, then tap "Comment".
+2. Tap the option menu in the upper-right corner, then tap "Comment".
 
 If it is a shared task, all recipients can view and leave comment to this task.
 

@@ -10,12 +10,9 @@
 **Where is it used?**
 
 1. Due date calendar
-
 ![](../images/web2-startfrom.png)
 
 2. Mini calendar (see section 1.7.4 for details)
-
-
 ![](../images/web2-startfrom2.png)
 
 <br />

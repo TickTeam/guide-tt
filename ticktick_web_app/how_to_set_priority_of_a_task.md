@@ -6,6 +6,5 @@
 ![](prioroty1.png)
 
 2.2. For existing tasks, click the "!!!" button at the top-right corner of the right pane, then choose a priority level for that task.
-
 ![](priority2.png)
 

@@ -6,5 +6,5 @@
 
 3. Choose "Send as Text" or "Send as Image".
 
-4. Choose the means by which you will send the task \(for example, email, Google+, Twitter, Facebook Messenger, etc.\).
+4. Choose the means by which you will send the task (for example, email, Google+, Twitter, Facebook Messenger, etc.).
 

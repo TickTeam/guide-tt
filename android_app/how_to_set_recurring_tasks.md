@@ -23,7 +23,6 @@ In Default repeat mode, if you check the task off on June 15 (the first due date
 *1. Repeat from Due Date: the next recurring date is Jun 17.*
 
 No matter when you check off this task, it will roll to the next recurring date, even though the next recurring date is in the past.
-
 ![](repeat3.jpg)
 
 *2. Repeat from Completion Date: the next recurring date is Jun 20.*

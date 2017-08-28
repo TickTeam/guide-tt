@@ -6,7 +6,6 @@ Please note that the person you want to assign a task to must accept your invita
 2. Tap on a shared list, then tap on the task you wish to assign to someone.
 
 3. Tap the option menu in the upper-right corner, then choose "Assign to".
-
 ![](assign.png)
 <br />
 

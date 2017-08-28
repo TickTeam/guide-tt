@@ -4,13 +4,13 @@ There are 7 default lists in TickTick: All, Today, Next 7 Days, Assigned to me, 
 
 Take "Completed" as an example:
 
-1.Open TickTick on your iOS device and slide the screen to the right.
+1. Open TickTick on your iOS device and slide the screen to the right.
 
-2.Click the gear-shaped icon in the upper right corner.
+2. Click the gear-shaped icon in the upper right corner.
 
-3.Tap "Smart List".
+3. Tap "Smart List".
 
-4.Enable "Completed"\(choose "show"\).
+4. Enable "Completed"\(choose "show"\).
 
 ![](smartlist.png)
 

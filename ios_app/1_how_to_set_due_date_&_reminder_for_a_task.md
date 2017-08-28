@@ -2,17 +2,16 @@
 
 You can add a reminder to any task in TickTick. Here's how:
 
-1.Open TickTick on your iOS device and select a task.
+1. Open TickTick on your iOS device and select a task.
 
-2.Tap "due date" in task detail page.
+2. Tap "due date" in task detail page.
 
-3.Choose a day in the calendar to set the due date for the task.
-
+3. Choose a day in the calendar to set the due date for the task.
 ![](duedate12.jpg)
 
-4.Tap "Time" below the calendar to set a time when the task will or should occur.
+4. Tap "Time" below the calendar to set a time when the task will or should occur.
 
-5 .To add more reminders, you can tap "Reminder" to add reminders such as "5 minutes before", "1 day before", or you can choose "custom" to set reminders however you like. Free users are allowed to add 2 reminders. Pro users can have at most 5 reminders.
+5. To add more reminders, you can tap "Reminder" to add reminders such as "5 minutes before", "1 day before", or you can choose "custom" to set reminders however you like. Free users are allowed to add 2 reminders. Pro users can have at most 5 reminders.
 
 ![](reminder.jpg)
 

@@ -10,11 +10,9 @@ Sharing lists is a great way to collaborate with friends, family, and colleagues
 2. Tap the list you want to share, then Tap "Share" from the option menu in the upper right corner. 
 
 3. Tap "Invite new member".
-
 ![](c.share12.jpg)
 
 4. Enter the email address, or name, of the TickTick user, then select that user from the name of existing TickTick members that should appear below. 
-
 ![](c.share3.png)
 
 

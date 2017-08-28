@@ -8,7 +8,7 @@ With Folders, organizing your lists is as simple as drag-and-drop.
 
 3. Hover your list over the list you want to be stored in the same folder, until a blue box appears around that list.
 
-4.Drop the chosen list by releasing the mouse button, and then name the folder.
+4. Drop the chosen list by releasing the mouse button, and then name the folder.
 
 ![](web2-listfolder.png)
 
