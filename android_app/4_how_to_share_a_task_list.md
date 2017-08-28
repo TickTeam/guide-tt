@@ -1,18 +1,19 @@
-### How to share task lists with TickTick users?
-Sharing lists is a great way to collaborate with friends, family, and colleagues to achieve more in TickTick.
+### How to share lists with TickTick users?
+Sharing lists is a great way to collaborate with friends, family, and colleagues and achieve your goals. TickTick provides this functionality. There are two ways to share lists.
 
 <br />
 
-**-Option 1: Add recipients**
+**Option 1: Add recipients**
 
-1.Open TickTick on your andorid device and select a task list.
+1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
 
-2.Tap “Share” from the option menu in the upper right hand corner.
-3.Tap "Invite new member".
+2. Tap the list you want to share, then Tap “Share” from the option menu in the upper right corner. 
+
+3. Tap "Invite new member".
 
 ![](c.share12.jpg)
 
-3.Input Email or name to add members.
+4. Enter the email address, or name, of the TickTick user, then select that user from the name of existing TickTick members that should appear below. 
 
 ![](c.share3.png)
 
@@ -20,9 +21,15 @@ Sharing lists is a great way to collaborate with friends, family, and colleagues
 <br />
 
 
-**-Option 2: Share via link**
+**Option 2: Share via link**
 
-Link is an easier way to share lists. You only need to send the link via social platform. If someone clicks the link, TickTick will send a notification asking you whether you would like to add him or her to the list. If you agree, the list will be shared with your friend automatically. 
+1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
+
+2. Tap the list you want to share, then Tap “Share” from the option menu in the upper right corner. 
+
+3. Tap "Invite new member", then tap "Link" in the upper-right corner.
+
+4. Tap "Send the Link" and choose from among the many options TickTick gives you to send the link (for example, Gmail, Tweet, LinkedIn, Facebook Messenger, etc.).
 
 ![](c.share4.png)
 

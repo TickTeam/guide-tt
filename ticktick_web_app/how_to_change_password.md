@@ -1,10 +1,14 @@
-###How to change password?
-1.Sign in TickTick on web.
+### How to change password?
 
-2.Click the avatar in the upper-left hand corner of the page.
+1. Sign in to TickTick on the web.
 
-3.Select “Settings” > click “Profile” in the left panel.
+2. Click the avatar in the upper-left corner of your TickTick homepage, then click "Settings" from the menu that appears.
 
-4.Click “Change Password” near your current password.
+3. Click “Profile” in the left panel.
 
-5.Enter your current password and then create a new one.
+4. Click “Change Password” in the right panel.
+
+5. Enter your current password, then enter your new password.
+
+
+

@@ -1,2 +1,6 @@
 ### How to sign out?
-Click the bulleted list icon on the top left corner and then click the “sign out” icon on the bottom right corner.
+
+1. Click the hamburger button in the top-left corner.
+
+2. Click your avatar and select Sign Out from the dropdown menu.
+

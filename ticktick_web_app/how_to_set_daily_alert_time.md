@@ -1,17 +1,15 @@
 ###What is “Daily Alert” ?
-Daily Alert is a daily sum-up, reminding you of all your overdue and today’s tasks at a specific time every day.
+A Daily Alert is a daily reminder summarizing all your overdue and today's tasks, and you set the time of day when you wish to receive this reminder.
 
-<br />
 
-**-How to set daily alert time?**
-<br />
+**How to set daily alert time?**
 
-1.Sign in TickTick on web.
+1. Sign in to TickTick on the web.
 
-2.Click the avatar in the upper-left hand corner of the screen.
+2. Click the avatar in the upper-left corner of your TickTick homepage, then click "Settings" from the menu that appears. 
 
-3.Select “Settings”.
+3. In the “Daily Alert Time” section, set a time when you would like your daily reminder to occur.
 
-4.Set time in the “Daily Alert Time” section.
 
-If you set “Daily Alert Time” at 9:00 AM, you will receive a notification at 9:00 AM everyday with a sum-up of all your overdue & today’s tasks.
+
+If you set “Daily Alert Time” at 9:00 AM, you will receive a notification at 9:00 AM every day with a summary of all your overdue & today’s tasks.

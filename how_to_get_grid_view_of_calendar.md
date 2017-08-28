@@ -1,11 +1,14 @@
-# How to get grid view of calendar? (Pro)
+# How to get grid view of calendar? \(Premium\)
 
-To switch to grid view of calendar, tap the option menu in the upper right hand corner of list view and choose "Grid View".
+##### Grid View
 
-![](grid1.png)
+To switch to the grid view of the calendar, tap the option menu in the upper-right corner of the list view and choose "Grid View".
 
--How to show/hide future cycles for repeating tasks?
+![](grid12 .jpg)
 
-Tap the option menu in the upper right hand corner and choose "Show/Hide Future Cycles".
+##### Show or hide future cycles for repeating tasks
 
-![](future cycles.png)
+Tap the option menu in the upper-right corner, then tap "Show All Repeat Cycles" to toggle between showing and hiding the repeat cycles.
+
+![](cycle.png)
+

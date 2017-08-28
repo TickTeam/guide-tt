@@ -1,9 +1,14 @@
-###How to swipe tasks for quick actions?
-There are four different colors of menu for frequently used actions and you can slide left or right  to choose menu.
+### How to swipe tasks for quick actions?
 
-Slide to left, when yellow appear,set a due date .Slide to left until the blue appear, and you can move the task to another list.
+Sliding a task left or right causes four actions to occur. Each action has its own color. Here are the actions, colors, and ways to swipe:
 
-Slide to right,green means make the task as completed.Slide to right until vinicolor appear and set priority.
+* To set a due date, Slowly swipe the task to the left, and release when yellow appears.
 
+* To move a task to another list, slowly swipe the task to the left until blue appears.
+
+* To mark a task as completed, slowly swipe the task to the right until green appears.
+
+* To set priority for a task, swipe the task to the right, and release when orange appears.
 
 ![](swipefour.jpg)
+

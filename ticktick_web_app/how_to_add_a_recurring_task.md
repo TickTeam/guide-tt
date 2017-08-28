@@ -1,11 +1,11 @@
 ###How to add a recurring task?
-1.Sign in TickTick to select a task.
+1. Sign in to TickTick on the web.
 
-2.Click its due date in the upper-right hand of the page.
+2. Click its due date in the upper-left corner of the right panel. 
 
-2.Click “Set Repeat” bar.
+3. Click the “Set Repeat” button.
 
-Then you can choose a repeating mode such as Daily/Weekly/Monthly/Yearly. Or you can choose “Advanced” to set repeating interval and repeating type.
+4. Then you can choose a repeating mode such as Daily/Weekly/Monthly/Yearly. Or you can choose “Advanced” to set repeating interval and repeating type.
 
 
 ![](recurring.png)

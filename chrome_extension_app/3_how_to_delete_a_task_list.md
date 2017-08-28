@@ -1,2 +1,4 @@
 ### How to delete a task list?
-Click the bulleted list icon on the top left of the toolbar to switch to the task lists page. Then, click the downward arrow of your chosen list and click “Delete”. And you should be cautious when deleting a shared list because once it is deleted, others who share this list will lose this list as well.
+
+Click the hamburger button in the top-left corner to switch to the task lists sidebar. Choose a list to delete, then click the icon with the three dots \(or number\(s\)\) immediately to the right of the list and choose "Delete" from the dropdown menu to delete the list. Exercise caution when deleting lists, especially when sharing such lists.
+

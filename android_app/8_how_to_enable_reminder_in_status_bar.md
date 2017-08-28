@@ -1,25 +1,26 @@
 ### How to use Status Bar?
-Stutus bar is in the pull-down screen of your phone, where you can view today tasks directly.
 
-###How to enable Status Bar?
+The TickTick Status Bar appears in the standard pull-down screen of your Android phone. A message will appear showing today's tasks, and TickTick will open if you click on the message.
 
-1.Open TickTick on your android device.
+### How to enable Status Bar?
 
-2.Slide the screen to the right and tap the gear-shaped icon in the upper right hand corner. 
+1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
 
-3.Tap "Advanced Settings">"Status Bar". 
+2. Tap the gear-shaped icon in the upper-right corner.
 
-You can also choose a color for status bar.
+3. Tap "Advanced Settings", then tap "Status Bar" to activate it.
+
+You can also change the font color for your Status Bar entries. There is an option directly below the "Status Bar" menu item.
 
 ![](status bar.png)
 
-###How to make notifications stay on your Status Bar?
+### How to make notifications stay on your Status Bar?
 
-If you enable feature "Stick on Status Bar", notifications will stay on the status bar when reminder appears until you view, complete,or snooze the task.
+If you enable the "Stick on Status Bar" feature, notifications will stay on the status bar until you view, complete,or snooze the task.
 
-1.Open TickTick on your android device.
+1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
 
-2.Slide the screen to the right and tap the gear-shaped icon in the upper right hand corner. 
+2. Tap the gear-shaped icon in the upper-right corner.
 
-4.Tap “Reminder” > “Stick on Status Bar”.
+3.Tap “Reminder”, then tap “Stick on Status Bar”.
 

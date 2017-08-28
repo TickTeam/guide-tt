@@ -1,17 +1,17 @@
 ### How to set recurring tasks?
-You can set different kinds of recurring tasks in TickTick. Once you check off a recurring task, the task will roll to the next recurring date according to the repeating interval.
+After you check off a recurring task, the task will reappear on the next date set for recurrence. TickTick offers default and custom repeat modes.
 
 <br />
 
-**-What’s the difference between Defulat repeat mode and Custom repeat mode?**
+**What’s the difference between Defulat repeat mode and Custom repeat mode?**
 
-There are totally two major repeat modes in TickTick: Default and Custom. And Custom can be divided into “Repeat from Due Date” and “Repeat from Completion Date”. To separate these repeat modes, here is an example:
+Default repeat mode reschedules the repeat task in the future based on the original time interval chosen. Custom repeat mode provides more flexibility and can reschedule in the past. Here is an example:
 
-Let's say we have a recurring task which due date is Jun 15, repeating every 2 days, but you didn't check it off until Jun 18.
+For example, _a recurring task with a due date of June 15 repeating every 2 days. But you didn't check it off until Jun 18_.
 
 ***1.Default repeat mode: the next recurring date is Jun 19.***
 
-Normally if you check it off on Jun 15 (due date), the next recurring date should be Jun 17, and then June 19, June 21, etc. But if you check it off on Jun 18 which is after its next recurring date Jun 17, the task will directly move to Jun 19. 
+In Default repeat mode, if you check the task off on June 15 (the first due date), the next recurring date should be Jun 17 (two days from June 15), and then June 19, June 21, etc. in two-day intervals. But if you check it off on Jun 18 which is after its next recurring date Jun 17, the next scheduled task will be in the future. In this case: Jun 19.
 
 ![](repeat1.png)
 
@@ -20,13 +20,13 @@ Normally if you check it off on Jun 15 (due date), the next recurring date shoul
 
 ![](customrepeat1.png)
 
-*1)Repeat from Due Date: the next recurring date is Jun 17.*
+*1. Repeat from Due Date: the next recurring date is Jun 17.*
 
-No matter when you check off this task, it will roll to the next recurring date, even though the next recurring date has been past.
+No matter when you check off this task, it will roll to the next recurring date, even though the next recurring date is in the past.
 
 ![](repeat3.jpg)
 
-*2)Repeat from Completion Date: the next recurring date is Jun 20.*
+*2. Repeat from Completion Date: the next recurring date is Jun 20.*
 
 This repeat mode is totally based on your completion date and repeating intervals, regardless of your due date. 
 

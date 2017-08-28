@@ -1,9 +1,10 @@
-###How to create a new list?
-1.Sign in TickTick on web.
+### How to create a new list?
 
-2.Click “Create New List” in the left panel.
+1. Sign in to TickTick on the web.
 
-3.Enter a list name and select a color for the list.
+2. Click “Create New List” in the sidebar.
 
+3. Enter a list name and choose a color for your new list.
 
 ![](createnewlist.png)
+

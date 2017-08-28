@@ -1,12 +1,16 @@
-# How to create Custom Smart List? \(Pro\)
+# How to create a Custom Smart List? \(Premium\)
 
-In order to create Custom Smart Lists on web, you should first enable "Custom Smart List" by: Settings, Smart List, Custom Smart List \(enable\).
+In order to create Custom Smart Lists on the web, you should first enable "Custom Smart List" by:
+
+1. Sign in to TickTick on the web.
+
+2. Click "Settings", then "Smart List" in the left panel, then enable "Custom Smart List" in the right panel.
+
+3. Click "Custom" in left side bar to add a Custom Smart List. The created Custom Smart List will appear in the "Custom" section in the sidebar.
 
 ![](custom1.png)
 
-After "Custom Smart List" is enabled, you can click "Custom" in Left side bar to add Custom Smart List.
-
-The created Custom Smart List will show in "Custom" section in left side bar.
+4. Click "Custom" in left side bar to add a Custom Smart List. The created Custom Smart List will appear in the "Custom" section in the sidebar.
 
 ![](custom2.png)
 

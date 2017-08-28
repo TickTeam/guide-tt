@@ -1,9 +1,12 @@
 ### How to batch edit tasks?
 
-1.Open TickTick on your android device.
+Batch editing applies to all of the tasks you selected. Batch editing allows you to apply a new due date and time, move tasks to another list, delete tasks, set a priority level for the tasks, send someone a list of your selected tasks, and merge the selected tasks into one task.
 
-2.Long press a task and then tap other tasks which need to edit one by one. 
+1. Open TickTick on your Android device, and bring up a task view page.
 
-3.Batch edit: you can change tasks’ due dates, move tasks to another list, delete tasks by tapping corresponding icons in the top.You can also tap the option menu in the upper right hand corner to set priority & send tasks. 
+2. Long press a task, then tap on any other tasks you want to batch edit.
+
+3. Choose an option at the top of the screen \(for example, delete the batch of tasks by tapping the Trash Can button\).
 
 ![](batchedit12.jpg)
+

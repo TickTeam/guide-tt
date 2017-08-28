@@ -1,9 +1,10 @@
-###How to generate or import backup?
+### How to generate and import data?
 
-1.Sign in TickTick on web.
+1. Sign in to TickTick on the web.
 
-2.Click the avatar in the upper-left hand corner of the page to select “Settings” > click “Backup” in the left panel.
+2. Click the avatar in the upper-left corner of your TickTick homepage, then click "Settings" from the menu that appears.
 
-3.Click “Generate Backup” in the right panel to save backup as a CSV file.
+3. Click “Backup” in the left panel, then click “Generate Backup” in the right panel to save your backup as a CSV file.
 
-In the “Backup” section, you can import backup which are generated from TickTick.
+By clicking “Import Backup”, you can import backups generated from TickTick.
+

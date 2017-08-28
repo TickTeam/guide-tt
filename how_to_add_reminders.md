@@ -1,12 +1,12 @@
 ### How to add reminders ?
 
-1.Sign in TickTick on web and select a task.
+1. Sign in to TickTick on the web
 
-2.Click its due date in the upper-right hand corner of the page.
+2. Click the task's due date in the upper-left corner of the right panel.
 
-3.Click time below the calendar to add a reminder time.
+3. Click time below the calendar to add a reminder time.
 
 ![](reminder1.png)
 
-If you want to add more reminders to a task, you can click “On time”. Then you can add reminders like "5 minutes before","1 hour before",“1 day before”, etc. or "custom" set. Free users are allowed to add 2 reminders, while PRO users are allowed to add at most 5 reminders.
+If you want to add more than one reminder to a task, click “On time”. Then you can add reminders \(for example, "5 minutes before","1 hour before",“1 day before”, etc. or "custom" set\). Users of free TickTick accounts may add up to two reminders per task. Premium users are allowed a maximum of five reminders per task.
 

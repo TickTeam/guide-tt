@@ -1,5 +1,8 @@
-### How to search a task?
+### How to search for a task?
 
-Open TickTick on you andorid and slide the screen to the right. You will find the search icon in the upper right hand corner. Tasks in “Closed lists” can't be found in search results.
+1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
+
+2. Tap on the magnifying glass icon, then type in your search term and any matching tasks will appear below.
 
 ![](search.png)
+

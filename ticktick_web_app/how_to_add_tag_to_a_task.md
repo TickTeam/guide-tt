@@ -1,17 +1,16 @@
-###How to add tag to a task?
+### How to add tags to a task?
 
-Tags help you filter your to-dos across multiple lists. To check all tasks labeled by tags, you should first enable “TAGS” list in Labs:
+Tags let you search across multiple lists for tasks that share common tags. This allows for a faceted search of your information. To activate this feature, you must first enable “Tags” in the "Labs" menu. Here's how:
 
-1.Sign in TickTick on web.
+1. Sign in to TickTick on the web.
 
-2.Click your avatar in the upper-left hand corner of the page to select “Settings” > Click “Smart List” in the left panel.
+2. Click the avatar in the upper-left corner of your TickTick homepage, then click "Settings" from the menu that appears.
 
-3.Enable “Tags”.
+3. Click “Smart List” in the left panel, and enable “Tags” in the right panel.
 
 ![](enable tags.png)
 
-You will find "TAGS" list in the List page.
+To tag a task item, simply add a hashtag to a keyword in that item \(for example, \#Holiday\). You may use a maximum of five tags per task.
 
-
-To tag a to-do, simply add a hashtag to a keyword. For example, #Holiday. Each task is allowed to be labeled by at most 5 tags.
+You can view a list of the tags you've created in the "Tags" list in the sidebar.
 

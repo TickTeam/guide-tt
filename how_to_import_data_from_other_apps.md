@@ -1,11 +1,12 @@
-###How to import tasks from other apps into TickTick?
-1.Sign in TickTick on web.
+### How to import tasks from other apps to TickTick?
 
-2.Click the avatar in the upper-left hand corner of the page.
+1. Sign in to TickTick on the web.
 
-3.Select “Settings” > Click “Backup” in the left panel.
+2. Click the avatar in the upper-left corner of your TickTick homepage, then click "Settings" from the menu that appears.
 
+3. Click “Backup” in the left panel.
 
-TickTick allows you to import tasks from other to-do apps such as Wunderlist, Astrid, Toodledo, ical etc.
+TickTick allows you to import tasks from other to-do apps, including Wunderlist, Omnifocus, Astrid, Toodledo, Springpad, and iCal.
 
 ![](importother.png)
+

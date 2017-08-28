@@ -1,3 +1,4 @@
-##Why I can’t find TickTick widget?
-Please make sure your TickTick application has been properly installed on internal storage rather than SD card. After that, you can reboot your device for another try.
+## Why I can’t find TickTick widgets?
+
+Please make sure your TickTick application has been properly installed on the internal storage of your Android phone, rather than on a removable SD card. After that, you can reboot your device for another try.
 

@@ -1,12 +1,8 @@
-###How to search a task?
-1.Sign in TickTick on web.
+### How to search for a task?
 
-2.Click the avatar in the upper-right hand of the page to select “Settings” > Click “Labs” in the left panel.
-
-3.Enable “Smart Search”.
-
-![](smartsearch.png)
-
-After that, “Search” will be displayed in the upper-left hand of the page.
+Click the magnifying glass in the sidebar on your TickTick homepage
 
 ![](searchicon.png)
+
+**P.S. Search function supports English only.**
+

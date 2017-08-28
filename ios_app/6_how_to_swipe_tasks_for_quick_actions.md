@@ -1,10 +1,15 @@
 ### How to swipe tasks for quick actions?
-Swipe a task to the left, and then three icons with different background color will appear . They are respectively used to: move task from one list to another, delete the task, and change due date. 
+
+Swipe a task to the left, and then three action buttons with different background color will appear:
+
+1. Move a task from one list to another.
+
+2. Delete the task.and change due date.
+
+3. Change the task's due date, time, reminder times, and recurring task options.
 
 ![](swipetask12.jpg)
 
-Swipe a task to the left until the task bar becomes blue. Then you can set due date and reminder time in the pop-up window. 
+Note that if you swipe a task to the left until the taskbar becomes blue, then you can set the due date, time, reminder time, and recurring task options.  
 ![](swipetask34.jpg)
-
-
 

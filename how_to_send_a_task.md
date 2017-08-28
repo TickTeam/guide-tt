@@ -1,10 +1,10 @@
 ### How to send a task?
 
-1.Select a task.
+1. Tap on the task you want to send.
 
-2.Tap “Send” from the option menu in the upper right hand corner.
+2. Tap “Send” from the option menu in the upper-right corner.
 
-3.Choose "Send as Text" or "Send as Image".
+3. Choose "Send as Text" or "Send as Image".
 
-4.Choose one social platform you want to send the task, Google+, Twitter etc.
+4. Choose the means by which you will send the task \(for example, email, Google+, Twitter, Facebook Messenger, etc.\).
 

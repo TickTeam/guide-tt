@@ -1,8 +1,12 @@
-###How to upload profile image?
-1.Sign in TickTick on web.
+### How to upload profile image?
 
-2.Click the avatar in the upper-left hand corner of the page.
+1. Sign in to TickTick on the web.
 
-3.Select “Settings” > click “Profile” in the left panel.
+2. Click the avatar in the upper-left corner of your TickTick homepage, then click "Settings" from the menu that appears.
 
-4.Click your avatar to upload a new one.
+3. Click “Profile” in the left panel.
+
+4. Click the avatar to upload a profile image.
+
+
+

@@ -1,13 +1,12 @@
-### How to display local calendar events in TickTick?
+### How to show local calendar events in TickTick?
 
-1.Open TickTick on your android device.
+1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
 
-2.Slide the screen to the right and tap the gear-shaped icon in the upper right hand corner.
+2. Tap the gear-shaped icon in the upper-right corner.
 
-3.Tap “Security & Data” > “Subscribe Calendar”.
+3. Tap “Security & Data”, then tap “Subscribe Calendar”.
 
-4.Enable “Subscribe Calendar” in the next page and select local calendars to be displayed in TickTick. 
-
-
+4. Enable “Subscribe Calendar”, then select local calendars to be displayed in TickTick.
 
 ![](localcalendar12.jpg)
+

@@ -1,10 +1,12 @@
-###How to delete a list?
-1.Sign in TickTick on web.
+### How to delete a list?
 
-2.Click the “···” which is located near a list name.
+1. Sign in to TickTick on the web.
 
-3.Select “Delete” , a delete confirmation window appear, click “delete” for confirmation or cancel.
+2. Click the “···” button in the sidebar to the right of each list's name. \(Note that this button is hidden until the mouse hovers over it. When the mouse is not hovering over it, it shows a number indicating the total tasks contained in the list\).
 
-Please note once a list is deleted, all tasks within that list will be removed.
+3. Click “Delete”, then click “delete” in the confirmation window.
+
+**Note**: once a list is deleted, all tasks within that list will be removed and are not recoverable, unless you have made a backup copy of your TickTick that contains that exact same list.
 
 ![](howtodeletelist.png)
+

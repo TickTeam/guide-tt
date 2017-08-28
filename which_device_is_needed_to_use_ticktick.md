@@ -1,6 +1,6 @@
-###TickTick for phones, tablets, and computers.
-TickTick is available on web, android phone, android wear, iPhone, iPad, Mac, Apple Watch, Chrome Extension, Chrome app and Firefox plugin. With apps and extensions for 10 different platforms, you can always check your tasks. 
+### TickTick for phones, tablets, and computers.
 
-TickTick's own [cloud](http://www.ticktick.com/) can help you backup and manage all tasks.
-
+TickTick is available on the web, Android phone, Android wear, Window, iPhone, iPad, Mac, Apple Watch, Chrome Extension and Firefox plugin. With 10+ platforms, you can check your tasks whereever you are, whenever you want to.
+	
 ![](多平台-英@2x.png)
+

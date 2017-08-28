@@ -1,24 +1,28 @@
-###What is TickTick?
-TickTick is a cross-platform to-do list app & task manager, helping you get all things done and make life well organized.
+### What is TickTick?
 
-####*Add tasks anytime, anywhere!*
-![](tidy.png)            
+TickTick is a simple and effective to-do list & task management app that helps you organize your life at work, home and everywhere else.
 
-####*Check tasks one by one*!
+#### Add tasks anytime, anywhere!
+
+![](tidy.png)
+
+#### Check tasks one by one!
 
 ![](itemize.png)
 
-####*View and manage your agenda with intuitive calendar!*
+#### View and manage your agenda with calendar!
+
 ![](simple.png)
 
+#### Get reminded based on time & location!
 
-####*Get reminder for time and  location!*
 ![](reminded.png)
 
-####*Multiple themes for individual taste!*
+#### Multiple themes for individual taste!
 
 ![](themes.png)
-####*Discover more powerful features by yourself!*
+
+#### Discover more powerful features with TickTick!
 
 ![](integration.png)
 

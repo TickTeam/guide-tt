@@ -1,11 +1,14 @@
-### How to send s task?
+### How to send a task?
 
-1.Select a task.
+1. Open TickTick on your iOS device and select a task.
 
-2.Tap the option menu in the upper right hand corner.
+2. Tap the option menu in the upper-right corner.
 
-3.Tap "Send".
+3. Tap "Send".
 
-3.Choose "Send as Text" or "Send as Image".
+4. Choose "Send as Text" or "Send as Image".
 
-4.Choose one social platform you want to send the task, Google+, Twitter etc.
+5. Choose a way of sending the task. For example, you can send it as an email, a Tweet, a text message, or as a post in Google+.
+
+
+

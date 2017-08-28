@@ -1,27 +1,32 @@
-###How to upgrade to Pro?
+###How to upgrade to Premium?
 
-1.Sign in TickTick on web.
+1. Sign in to TickTick on the web.
 
-2.Click the avatar in the upper-left hand corner of the page.
+2. Click the avatar in the upper-left corner of your TickTick homepage, then click "Settings" from the menu that appears. 
 
-3.Select “Settings” > click “Premium Account” in the left panel.
+3. Click "Premium Account" in the left panel.
 
-4.Click “Upgrade to PRO”.
+4. Click “Upgrade to PREMIUM”.
 
-5.Select monthly or yearly subscription to complete payment via Paypal.
+5. Choose a monthly or annual subscription to complete your payment via Paypal.
 
-You can also subscribe TickTick Pro on your mobile app via “Google Wallet” or “iTunes” according to your device.
+You can also subscribe to TickTick Premium on your mobile app via “Google Wallet” or “iTunes”, according to your device.
 
 <br />
 
--**Can I cancel the subscription anytime?**
+
+**Can I cancel the subscription anytime?**
 
 Yes, you can cancel the subscription anytime.
 
-If you cancel the subscription within 14 days, you can also get refund (turn to 0.5 for details), and your account will be downgraded immediately.
+If you cancel the Premium subscription within 14 days, you can get a refund (see section 0.5 for details).
 
-If you cancel the subscription after 14 days, you can't get refund. The subscription will last until the end of the month or year. Once PRO expires, your account will be downgraded to a free account.
+If you cancel the subscription after 14 days, refund are no longer available. The subscription will last until the end of the month or year, depending on which type of Premium account you purchased. Once Premium expires, your account will be downgraded to a free account.
 
--**If I have 25 lists, will I lost lists and tasks after my account is downgraded to a free one?**
+<br />
 
-Free user are allowed to have only 19 lists, while Pro users can have at most 99 lists (for more details about premium features in TickTick, please turn to 0.3). If you have 25 lists and your account is downgraded, your data (lists, tasks, images, etc.) won't be lost, but you are not allowed to add more, because you have already exceeded the upper limit for free account.
+
+
+**If I have more than 19 lists, will I lose your lists and tasks after my account is downgraded to a free one?**
+
+Free accounts get a maximum of 19 lists. Premium accounts can have up to 99 lists. For additional features in TickTick, please turn to 0.3). If you have 25 lists and your account is downgraded, your data (lists, tasks, images, etc.) won't be lost, but you are not allowed to add more, because you have already exceeded the upper limit for free account.

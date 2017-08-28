@@ -1,8 +1,9 @@
-### How to change the theme?
+### How to change themes?
 
-1.Sign in TickTick on web.
+1. Sign in to TickTick on the web.
 
-2.Click the avatar in the upper-left hand corner of the page to select “Settings”.
+2. Click the avatar in the upper-left corner of TickTick homepage, then click "Settings" from the menu that appears.
 
-3.Choose the theme you want to set in color selector.There are two theme options now: blue and black.
+3. Click "Themes" in the left panel, then choose colors and themes in the right panel.  
 ![](changetheme.png)
+

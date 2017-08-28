@@ -2,12 +2,13 @@
 
 With Folders, organizing your lists is as simple as drag-and-drop.
 
-1.Sign in TickTick on web.
+1. Sign in to TickTick on the web.
 
-2.Drag a list on top of another one that you’d like to include in the same folder.
+2. Drag a list on top of another one that you would like to include in the same folder.
 
-3.Hover your selected list until a blue box appears around the second list.
+3. Hover your list over the list you want to be stored in the same folder, until a blue box appears around that list.
 
-4.Drop the selected list, and then you can enter a name for the folder.
+4.Drop the chosen list by releasing the mouse button, and then name the folder.
 
 ![](web2-listfolder.png)
+

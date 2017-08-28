@@ -1,2 +1,4 @@
 ### How to edit tasks?
-Click the task item to enter the detail page for editing.
+
+When you click a task item, you can edit the task details in the side panel that opens up on the right.
+

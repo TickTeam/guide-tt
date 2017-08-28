@@ -1,18 +1,18 @@
 ### How to move a task to another list ?
 **Option 1**
-<br />
 
-1.Sign in TickTick on web to select a task.
 
-2.Click the name of its list at the bottom of the right panel.
+1. Sign in to TickTick on the web, then click on a task to see the task view in the right panel.
 
-3.Select a list to fulfill the movement.
+2. Click the "Inbox" icon at the bottom of the right panel.
+
+3. Choose the list you want your task to be added to.
 
 ![](movetask1.png)
 
 **Option 2**
-<br />
 
-You can just drag a task on top of a list in the List view directly.
+
+Click on a task, drag it to the sidebar, and drop the task on top of the list you want it added to.
 
 

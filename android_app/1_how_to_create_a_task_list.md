@@ -1,8 +1,10 @@
 ### How to create a task list?
-1.Open TickTick on your android device.
 
-2.Slide the screen to the right to tap “Add a list ” at the bottom.
+1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
 
-3.Enter a Name for your list and set color, etc.
+2. Tap “Add a list ” at the bottom of list menu.
+
+3. Enter a name for your list, then choose a color. This menu also lets you assign the new list to an existing folder or create a new folder in which to store it.
 
 ![](1addlist.jpg)
+

@@ -1,11 +1,12 @@
 ### How to batch edit tasks?
 
-1.Open TickTick on your iOS device and tap the option menu in the upper-right hand of the screen.
+1. Open TickTick on your iOS device, then tap the option menu in the upper-right corner.
 
-2.Tap “Edit”
+2. Tap “Edit Multiple Tasks”.
 
-3.Select & edit multiple tasks. 
+3. Select and edit multiple tasks.
 
-There are four icons at the bottom of the screen. They are used to change due date, set priority, move the task from this list to another and delete task. 
+Note that there are four useful buttons at the bottom of the screen: Change due date, Set priority, Move the task from this list to another, and Delete task.
 
 ![](batchedit12.jpg)
+

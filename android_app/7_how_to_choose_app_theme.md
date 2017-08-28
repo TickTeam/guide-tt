@@ -1,8 +1,10 @@
-### How to change the theme?
-TickTick has two different themes, light and dark.
+### How to change themes?
 
-1.Open TickTick on your android device, and slide the screen to the right.
+TickTick for Android gives you a choice of themes between various colors and other scenes.
 
-2.Tap the gear-shaped icon in the upper right hand corner.
+1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
 
-3.Tap “General” > “Theme” to select a theme.
+2. Tap the gear-shaped icon in the upper-right corner.
+
+3. Tap “Theme” to select a theme.
+

@@ -1,20 +1,18 @@
-###What is Calendar View?
+### What is Calendar View?
 
-1.Open TickTick on your android device. 
+1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
 
-2.Slide the screen to the right and tap “Calendar” in the List view. 
+2. Tap "Calendar".
 
-Calendar View allows you view your tasks with due date in a calendar, which is more intuitive and clear to manage your tasks. 
+Calendar View shows the traditional grid view of the days of the week so that you can quickly scan your week or month in one glance.
 
 ![](calendarview12.jpg)
 
-
 **What’s special to Calendar View?**
 
-1.You can view tasks in month view or in week view by dragging calendar up or down. 
-
-2.The date with a blue dot below indicates you have tasks on that day. Tap it, and tasks will be displayed below.
-
-3.It is super easy to change tasks’ due dates. Just press and drag a task to another date in calendar. 
+* You can view tasks in month view, week view, 3-day view, today view, and list view.
+* Highlighted text indicates a task due on that date.
+* Click on a date to get a list of tasks for that particular date.
 
 ![](calendar3drag.png)
+

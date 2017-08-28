@@ -1,2 +1,4 @@
-###  How to share a task list?
-Click the bulleted list icon on the top left of the toolbar to switch to the task lists page. Then, click the downward arrow of your chosen list and click “Share”. Input the recipient’s email address directly and once it is accepted, the list will be shared.
+### How to share a task list?
+
+Switch to a task list view, then click on the icon in the top-right corner \(the circular one with the three horizontal dots\). Then choose "Share" from the dropdown menu. Type in the recipient's email address to send "Enable link" or if the recipient has a registered TickTick account already under that address, that address will appear and all you have to do is click on it to share the list with that person.
+

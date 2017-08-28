@@ -1,10 +1,10 @@
-### How many shortcuts are there in TickTick?
-1.Sign in TicKTick on web.
+### What are the shortcuts in TickTick?
 
-2.Click the avatar in the upper-left hand corner of the page.
+1. Sign in to TicKTick on the web.
 
-3.Select “Settings” > Click “Shortcuts” in the left panel.
+2. Click the avatar in the upper-left corner of your TickTick homepage, then click "Settings" from the menu that appears.
+
+3. Click "Shortcuts" in the left panel.
 
 ![](shortcuts.png)
-
 

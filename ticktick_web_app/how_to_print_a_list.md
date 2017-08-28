@@ -1,8 +1,10 @@
-###How to print a list?
-1.Sign in TickTick on web.
+### How to print a list?
 
-2.Click the “···” in the upper-right hand of the middle panel to select “Print”.
+1. Sign in to TickTick on the web.
 
-3.Set paper size, margins, etc. before printing.
+2. Click the “···” icon in the upper-right corner of the middle panel, then click “Print”.
+
+3. Choose whether to print the list of tasks with or without each task's detailed contents. Then set your paper size, margins, and other printing attributes, and print the list.
+
 
 

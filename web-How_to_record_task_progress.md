@@ -1,7 +1,6 @@
-# How to record task progress?
+# How to check task progress?
 
-To record progress on web, hover the cursor in date section, you'll see 10%, 20% etc. Click the corresponding percent to confirm task progress.
-
+To check your progress in completing tasks organized by checklist view, hover the cursor in the date section of the task \(in the right pane\). There you will see a vertical line representing the percentage of your task that is completed. Click the corresponding percent to confirm task progress.
 
 ![](task progress12.jpg)
 

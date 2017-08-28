@@ -1,27 +1,31 @@
 ### How to change the order of the tasks?
-Open TickTick on your iOS device and tap the option menu in the upper-right hand corner of the screen to select “Sort”.
 
-Tasks under self-defined lists and “Inbox” can be sorted by due date, title, and priority.
+##### Option 1 - Using the Sort feature
 
-Tasks in “All” "Today" and "next 7 days"can be sorted by list, due date, title, and priority.
+1. Open TickTick on your iOS device, then tap the option menu in the upper-right corner, then tap “Sort”.
 
-Tasks in a shared list can be sorted by assignee.
+2. Sort tasks by due date, title, or priority if you're sorting the Inbox or a custom list.
 
-![](sort.png)
+3. Sort tasks by list, due date, title, or priority if you're sorting the "All", "Today", or "next 7 days" lists.
+
+Note that tasks in a shared list can also be sorted by assignee.
+
+
+
+##### Option 2 - Drag tasks to change their order
+
+1. Repeat step 1 from Option 1 above and sort tasks by “Custom”.
+
+2. Press and hold a task to drag them manually.
+
+
+
+![](sort.png)  
 ![](sort12.jpg)
 
+##### How to resume the original sort after you drag tasks?
 
-**-How to drag tasks to change their order?**
-
-1.Sort tasks by “Custom”.
-
-2.Press and hold a task to drag them manually.
-
-**-How to resume the original sort after you drag tasks?
-
-When you dragged tasks under due date sort, the order will be resumed if sorted by due date again.
-
-
+Use Option 1 above to sort the list the way you like it.
 
 
 

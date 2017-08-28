@@ -1,9 +1,10 @@
-### How to set language within TickTick?
+### How to set TickTick's language
 
-1.Sign in TickTick on web.
+1. Sign in to TickTick on the web.
 
-2.Click the avatar in the upper-left hand corner of the page to select “Settings”.
+2. Click the avatar in the upper-left corner of your TickTick homepage, then click "Settings" from the menu that appears.
 
-3.Select a language in the right panel.
+3. Choose a language in the "Language" option on the right panel.
 
-PS: If your language is not here, you can click “Your language is not available?” at the bottom of the drop-down menu. Then click “Help us translate” to complete a form. After that, we will contact you over the next few days.
+**P.S.** If your language does not appear in the list, and you want to help us do translation work in your language, clicking "Your language is not available?” at the bottom of the drop-down menu. This opens a new tab where you can click “Help us translate” to complete a form. Upon submission of the form, we will contact you soon.
+

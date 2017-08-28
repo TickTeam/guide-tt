@@ -1,9 +1,10 @@
 ### What should I do if I forgot my password?
 
-1.Tap “Forgot Password” in the page you sign in TickTick.
+1. On the sign-in page, tap “Forgot Password”.
 
-2.Enter your email address in the next page.
+2. A new page will appear asking for your email address, so enter your email address in the text field.
 
-3.Tap “Reset Password” and an email will be sent to your email box.
+3. Tap “Reset Password” and an email will be sent to the email address you entered in the text field.
 
-4.Check the email and follow the instruction to retrieve your password.
+4. Check your email and follow the instructions to retrieve your password.
+

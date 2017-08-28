@@ -1,2 +1,4 @@
-### How to add note to a task?
-Click the task item to enter the detail page and click the “note” icon to add notes to a task.
+### How to add comments to task?
+
+Click the task item to enter the detail page and click the comment icon to add notes to a task. The comment button is the small squarish icon at the bottom with three dots inside\)
+

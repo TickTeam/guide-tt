@@ -1,18 +1,18 @@
 ### How to create a checklist?
 
-1.Open TickTick on your iOS device and select a task.
+1. Open TickTick on your iOS device, select a task, then tap on the task description to bring up the on-screen keyboard.
 
-2.Click the icon of checklist above keyboard.
+2. Tap the checklist icon on the left side of the screen just above the keyboard to toggle between checklist and block text modes.
 
 ![](checklist23.jpg)
 
+Checklist mode is useful for creating shopping lists, packing lists, etc. You can't set a due date or a priority for these checklist items. However, you can change the order of checklist items with the drag and drop method.
 
-Checklist is mostly used to create shopping list, packing list, etc. You can't set due date or priority for these checklist items, but instead you can drag and drop to change the order of checklist items. 
+### How to add description to a task with checklists?（Premium only\)
 
-###How to add description to a task with checklists?（Pro only) 
+Tap on a task containing a checklist, then tap the task title or one of the checklist items to switch to "edit" mode, then the "Description" field will appear.
 
-Enter a task with checklists and tap task title or one of the checklists to be in "edit" mode, then the "Description" field will appear. 
-
-Then you can add necessary description for it.
+You can then add more descriptive details for the task containing the checklist. This can be useful for reminding yourself of key information, sharing information about the checklist with other TickTick users with whom you've shared that task, and more.
 
 ![](description12.jpg)
+

@@ -1,20 +1,16 @@
-﻿###How to comment on a task?
+### How to comment on a task?
 
-1.Sign in TickTick on web.
+1. Sign in to TickTick on the web.
 
-2.Select a Task and click ![](../images/commenticon.png) in the bottom right corner of the page.
+2. Select a task, then click the Comment button at the bottom of the right panel.
 
-3.Select “Comment”.
+3. Type a comment into the text field that appears above the Comment button.
 
-“Comment” is always used to add extra remarks to a task.
+4. Use “Comment” to add extra remarks to a task.
 
-Within a shared list, all shared members can comment on any tasks to realize real chat & communication. If you want to @ or reply a member in a shared list, you can type “@” to select a member or click the icon to reply someone directly.
-
+Within a shared list, all members can comment on any task. This enables more effective communication. If you want to send a shared member a message or reply a member in a shared list, you can type “@” to select a member or click the person's avatar to reply to someone directly.
 
 ![](comment.png)
 
-
-The member you reply or you @ will get notification in TickTick immediately.
-
-
+The members you contact or reply to will receive immediate notification in their TickTick apps.
 

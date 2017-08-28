@@ -1,12 +1,12 @@
-### How to subscribe other calendar service? <mark>[Pro only]</mark>
+### How to subscribe other calendar service? (Premium)
 
-1.Open TickTick on your android device. 
+1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
 
-2.Slide the screen to the right, and tap the gear-shaped icon in the upper right hand corner.
+2. Tap the gear-shaped icon in the upper-right corner.
 
-3.Tap “Security & Data” > “Subscribe Calendar”.
+3. Tap “Security & Data”, then tap “Subscribe Calendar”.
 
-4.Tap “Subscribe Calendar” in the “Subscribe Third-Party Calendar” section to enter a Calendar URL. 
+4. Enable “Subscribe Calendar”, then tap "+ Add Account", then tap the calendar you want to subscribe to or tap "Add URL" to enter a Calendar URL.
 
 
 ![](thirdcalendar012.jpg)

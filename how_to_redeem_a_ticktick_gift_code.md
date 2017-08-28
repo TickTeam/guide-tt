@@ -1,13 +1,16 @@
-###How to redeem a TickTick gift code?
+### How to redeem a TickTick gift code?
 
-If you have a TickTick gift code, please redeem it via TickTick web app:
+If you have a TickTick gift code, please redeem it with TickTick on the web. Here's how to do it:
 
-1.Sign in TickTick on web.
+1. Sign in to TickTick on the web.
 
-2.Click the avatar in the upper-left hand corner of the page.
+2. Click the avatar in the upper-left corner of your TickTick homepage, then click "Settings" from the menu that appears.
 
-3.Select “Settings” > “Redeem” to enter a gift code.
+3. Click "Smart List" in the left panel, then enable "Custom Smart List " in the right panel
 
-PS: If you are already PRO, please redeem the gift code after your Pro expires.
+4. Click "Redeem" and enter your gift code.
+
+**P.S.** If you already have a Premium account, please redeem the gift code after your Premium account expires.
 
 ![](redeem.png)
+

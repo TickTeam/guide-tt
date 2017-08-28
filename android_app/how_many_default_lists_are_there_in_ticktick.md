@@ -1,18 +1,18 @@
 ### How to show or hide Smart Lists in TickTick?
-There are 9 predefined lists in TickTick: Inbox, All, Today, Next 7 Days, Assigned to me，Calendar, Completed, Tags, and Trash”. Some of them are hidden by default, but you can make them visible by managing Smart List.
+Ticktick comes with nine predefined lists: Inbox, All, Today, Next 7 Days, Assigned to me, Calendar, Completed, Tags, and Trash. Some are hidden by default but you can make them visible. Here's how:
 <br />
 
-**-Take “Completed” list as an example:**
+**For example, the “Completed” list:**
 
-1.Open TickTick on your android device.
+1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
 
-2.Slide the screen to the right.
+2. Tap "Manage List" at the bottom of the list menu.
 
-3.Tap “Smart List” at the top of all the lists.
+3. Tap “Smart List” in the upper-right corner.
 
-4.Enable “Completed” (choose "show") in "Manage Smart List" page.
+4. Tap “Completed”, then tap "Show".
 
-Except “Inbox”(always show), the other smart lists can be chosen to show or hide from task list.
+You can show or hide any list using this procedure, except for the Inbox List. The Inbox List cannot be hidden.
 
 ![](smartlist1.png)
 

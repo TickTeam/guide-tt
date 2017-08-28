@@ -1,18 +1,17 @@
 ### How to create checklists?
-1.Open TickTick on your android device, and enter a task detail page.
 
-2.Tap the option menu in the upper right corner to select Checklist.
+1. Open TickTick on your Android device, and detail page.
 
+2. Tap the option menu in the upper-right corner to select Checklist.
 
-Checklist can be used to create a shopping list or packing list. Checklist items are affiliated to tasks and therefore they can’t be assigned due dates individually.
+Checklists are useful for tasks requiring verification of completion, like shopping and packing lists. One click on the checklist item marks that item as completed. For example, as you place a grocery item in your grocery basket, you can then mark that item as completed. Individual checklist items cannot be assigned individual due dates, but the entire checklist can have a due date.
 
 ![](checklist123.jpg)
 
+### How to add description to a task with checklists?（Premium only\)
 
- 
+If you have a TickTick Premium account, you can add a description to a checklist to add more detail. For example, if you have trouble remembering to ask for a receipt, you could type "don't forget a receipt" into the description line under the name of your shopping checklist.
 
-###How to add description to a task with checklists?（Pro only) 
-
-Enter a task with checklists and tap task title or one of the checklists to be in "edit" mode, then the "Description" field will appear. 
-Then you can add necessary description for it.
+  
 ![](checklist45.jpg)
+

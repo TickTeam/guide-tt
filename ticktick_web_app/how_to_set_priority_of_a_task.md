@@ -1,11 +1,11 @@
-###How to set priority of a task?
+### How to set priority of a task?
 
-Sign in TickTick on web.
+1. Sign in to TickTick on the web.
 
-You can add priority when adding tasks.
-
+2.1.For new tasks, click the "!!!" button, then choose a priority level for that task.
 ![](prioroty1.png)
 
-Or you can select a task and then click “!!!” in the upper-right hand corner of the page. You can select “High”, “Medium”, “Low”.
+2.2. For existing tasks, click the "!!!" button at the top-right corner of the right pane, then choose a priority level for that task.
 
 ![](priority2.png)
+
