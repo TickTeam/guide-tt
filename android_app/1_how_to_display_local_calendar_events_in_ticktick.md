@@ -4,9 +4,9 @@
 
 2. Tap the gear-shaped icon in the upper-right corner.
 
-3. Tap “Security & Data”, then tap “Subscribe Calendar”.
+3. Tap "Security & Data", then tap "Subscribe Calendar".
 
-4. Enable “Subscribe Calendar”, then select local calendars to be displayed in TickTick.
+4. Enable "Subscribe Calendar", then select local calendars to be displayed in TickTick.
 
 ![](localcalendar12.jpg)
 

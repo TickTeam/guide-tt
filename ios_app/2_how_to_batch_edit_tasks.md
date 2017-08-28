@@ -2,7 +2,7 @@
 
 1. Open TickTick on your iOS device, then tap the option menu in the upper-right corner.
 
-2. Tap “Edit Multiple Tasks”.
+2. Tap "Edit Multiple Tasks".
 
 3. Select and edit multiple tasks.
 

@@ -18,9 +18,9 @@ There are two ways to share lists.
 
 1. Sign in to TickTick on the web.
 
-2. Click the “···” icon in the upper-right corner of the middle panel, then click “Share”.
+2. Click the "···" icon in the upper-right corner of the middle panel, then click "Share".
 
-3. Click the “Enable Link” option to reveal a link that you can copy and use another app (for example, Gmail) to send the link to other TickTick users.
+3. Click the "Enable Link" option to reveal a link that you can copy and use another app (for example, Gmail) to send the link to other TickTick users.
 ![](../images/web2-sharevialink.png)
 
 <br />

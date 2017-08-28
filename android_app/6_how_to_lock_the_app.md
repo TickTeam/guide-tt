@@ -6,7 +6,7 @@ To enhance the privacy of your data in TickTick, use the Lock feature.
 
 2. Tap the gear-shaped icon in the upper right corner.
 
-3. Tap “Security & Data” to enable Pattern Lock.
+3. Tap "Security & Data" to enable Pattern Lock.
 
 4. Trace an unlock pattern twice to set a pattern lock for TickTick.
 

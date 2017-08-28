@@ -14,7 +14,7 @@
 
 #### D**rag tasks to change their order:**
 
-1. Sort tasks by “Custom”. \(This is the default sorting filter.\)
+1. Sort tasks by "Custom". \(This is the default sorting filter.\)
 
 2. Tap and hold a task to drag it up or down, then release your finger when the task is where you want it to be in the list.
 

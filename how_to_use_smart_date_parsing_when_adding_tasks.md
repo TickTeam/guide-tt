@@ -2,7 +2,7 @@
 
 Date & time information you type in the name of your task will be recognized as the due date and a reminder will automatically be set.
 
-For example, if you want to go to library on July 30 at 2:00 p.m., you just need to type: “Go to library July 30 2 pm” when naming this task. TickTick will automatically recognize July 30 as the task’s due date and will set a reminder for 2:00 p.m. on that date.
+For example, if you want to go to library on July 30 at 2:00 p.m., you just need to type: "Go to library July 30 2 pm" when naming this task. TickTick will automatically recognize July 30 as the task’s due date and will set a reminder for 2:00 p.m. on that date.
 
 ![](Smart date parsing.png)
 

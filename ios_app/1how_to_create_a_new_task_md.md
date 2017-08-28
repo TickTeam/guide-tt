@@ -24,7 +24,7 @@ TickTick gives you five different ways to create new tasks: The Add Button, Quic
 
 If you enter date and time information in the text of your new task, TickTick will automatically recognize the date as the due date and set the time as the the reminder time for that task.
 
-For example, if you want to go to library next Saturday at 2 p.m., you need only type: “Go to library next Saturday 2 pm”. TickTick will automatically recognize the date of next Saturday as the task’s due date and set 2 pm as the reminder time for that task.
+For example, if you want to go to library next Saturday at 2 p.m., you need only type: "Go to library next Saturday 2 pm". TickTick will automatically recognize the date of next Saturday as the task’s due date and set 2 pm as the reminder time for that task.
 
 ![](smartdate12.jpg)
 
@@ -40,19 +40,19 @@ After "Remove Text in Tasks" is enabled, the highlighted date & time text will n
 
 1. Pull down the screen.
 
-2. In the “Today” section, tap “Add New”.
+2. In the "Today" section, tap "Add New".
 
-Note that if TickTick is not in the “Today” section, you should add it by tapping “Edit” at the bottom of pull-down screen.
+Note that if TickTick is not in the "Today" section, you should add it by tapping "Edit" at the bottom of pull-down screen.
 
 ##### Option 4: Voice Input using the Add Button \("+"\)
 
 1. Open TickTick on your iOS device.
 
-2. Press & hold the Add Button \(“+”\) at the bottom of the task page to start speaking.
+2. Press & hold the Add Button \("+"\) at the bottom of the task page to start speaking.
 
-You can say, for example, “Have lunch with Jack tomorrow at 1 pm”. After saying that, a new task to have lunch with Jack will be added with due date of tomorrow and a reminder time of 1 p.m.
+You can say, for example, "Have lunch with Jack tomorrow at 1 pm". After saying that, a new task to have lunch with Jack will be added with due date of tomorrow and a reminder time of 1 p.m.
 
-If TickTick can’t recognize your language, check “Voice Input”.
+If TickTick can’t recognize your language, check "Voice Input".
 
 ![](c iOSvoiceinput2.png)
 
@@ -62,9 +62,9 @@ If TickTick can’t recognize your language, check “Voice Input”.
 
 2. Tap the gear-shaped icon in the upper-right corner.
 
-3. Tap “Advanced Settings”, then tap “Reminders & Siri”.
+3. Tap "Advanced Settings", then tap "Reminders & Siri".
 
-4. Enable “Siri Integration” by tapping the toggle button.
+4. Enable "Siri Integration" by tapping the toggle button.
 
 After you enable Siri Integration, tasks you’ve created in Apple’s Reminders app and tasks you’ve created with Siri will be removed from Apple’s Reminders app and shown in TickTick’s Inbox.
 

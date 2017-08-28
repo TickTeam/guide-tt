@@ -3,7 +3,7 @@ TickTick lets you automate the entry of tasks that you perform more than once, f
 <br />
 **What’s the difference between Defulat repeating mode and Custom repeating mode?**
 
-Default modes are "Daily", "every weekday", "Weekly", "Monthly", "Monthly" (same day of the week), and "Yearly".  Custom modes consist of “Repeat from Due Date” and “Repeat from Completion Date”. To separate these repeating modes, here is an example:
+Default modes are "Daily", "every weekday", "Weekly", "Monthly", "Monthly" (same day of the week), and "Yearly".  Custom modes consist of "Repeat from Due Date" and "Repeat from Completion Date". To separate these repeating modes, here is an example:
 
 Scenario: Let's say you have a recurring task like emptying your spam email. You've set a due date of June 15 to repeat every 2 days. But you don't check the task for the 15th off until June 18. Here's what happens under the different modes:
 

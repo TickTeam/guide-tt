@@ -4,5 +4,5 @@
 
 2.Tap your avatar in the upper-left corner.
 
-3.Tap “Sign Out” at the bottom of the page.
+3.Tap "Sign Out" at the bottom of the page.
 

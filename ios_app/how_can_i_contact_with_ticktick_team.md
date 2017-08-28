@@ -5,4 +5,4 @@ If you have issues when using TickTick, or you come up with some ideas which cou
 
 2.Click the gear-shaped icon on the top right corner.
 
-3.Click “Help”, then you can choose a way to conact with us.
+3.Click "Help", then you can choose a way to conact with us.

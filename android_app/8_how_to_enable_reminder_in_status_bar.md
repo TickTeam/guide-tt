@@ -22,5 +22,5 @@ If you enable the "Stick on Status Bar" feature, notifications will stay on the 
 
 2. Tap the gear-shaped icon in the upper-right corner.
 
-3.Tap “Reminder”, then tap “Stick on Status Bar”.
+3.Tap "Reminder", then tap "Stick on Status Bar".
 

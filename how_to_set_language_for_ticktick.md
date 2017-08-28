@@ -6,5 +6,5 @@ The TickTick app that you install comes with a default language. Other languages
 
 2. Tap the gear-shaped icon in the upper-right corner.
 
-3. Tap “Preferences”, then tap “Language”.
+3. Tap "Preferences", then tap "Language".
 

@@ -2,7 +2,7 @@
 
 You can choose to show/hide details in any List view, even in a Tag view too.
 
-Click into a list -&gt; Tap “...” icon at the top right hand -&gt; select to show/hide details
+Click into a list -&gt; Tap "..." icon at the top right hand -&gt; select to show/hide details
 
 By allowing to show details, the following information of each task will be shown :
 

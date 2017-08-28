@@ -10,4 +10,4 @@ Please note that the person you want to assign a task to must accept your invita
 ![](assign.png)
 <br />
 
-If you want to view all the tasks that are assigned to you, you can enable the predefined list “Assigned to me”.
+If you want to view all the tasks that are assigned to you, you can enable the predefined list "Assigned to me".

@@ -8,7 +8,7 @@ Note that free accounts have a more restrictive limitation on the number of atta
 
 2. Tap the option menu in the upper-right hand corner.
 
-3. Select “Photo”, “Camera”, or “Record” to upload the relevant attachment to the task in TickTick.
+3. Select "Photo", "Camera", or "Record" to upload the relevant attachment to the task in TickTick.
 
 ![](attachment.png)
 

@@ -5,5 +5,5 @@ Your basic information in TickTick can be updated anytime by yourself.
 
 2.Click your profile picture to enter account details.
 
-3.Click the “Edit” icon to update your account info. You can change profile picture, email, username and password there.
+3.Click the "Edit" icon to update your account info. You can change profile picture, email, username and password there.
 

@@ -2,7 +2,7 @@
 
 1. Tap on the task you want to send.
 
-2. Tap “Send” from the option menu in the upper-right corner.
+2. Tap "Send" from the option menu in the upper-right corner.
 
 3. Choose "Send as Text" or "Send as Image".
 

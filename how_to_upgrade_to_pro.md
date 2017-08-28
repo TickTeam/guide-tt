@@ -6,11 +6,11 @@
 
 3. Click "Premium Account" in the left panel.
 
-4. Click “Upgrade to PREMIUM”.
+4. Click "Upgrade to PREMIUM".
 
 5. Choose a monthly or annual subscription to complete your payment via Paypal.
 
-You can also subscribe to TickTick Premium on your mobile app via “Google Wallet” or “iTunes”, according to your device.
+You can also subscribe to TickTick Premium on your mobile app via "Google Wallet" or "iTunes", according to your device.
 
 <br />
 

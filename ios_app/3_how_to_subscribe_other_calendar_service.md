@@ -6,6 +6,6 @@ To subscribe third-party calendar apps in TickTick, you should:
 
 2. Tap the gear-shaped icon (Settings) in the upper right hand corner of the page.
 
-3. Tap "Advanced Settings"> “Subscribe Calendar” > enable “Subscribe Calendar” > tap "Subscribe Calendar" in “Third-party Calendar” section to enter a calendar URL.
+3. Tap "Advanced Settings"> "Subscribe Calendar" > enable "Subscribe Calendar" > tap "Subscribe Calendar" in "Third-party Calendar" section to enter a calendar URL.
 
 

@@ -13,7 +13,7 @@ You are always welcome to contact us if you have any questions, comments, or iss
 
 3. Click "Profile" in the left panel.
 
-4. Click the “Delete account” button.
+4. Click the "Delete account" button.
 
 
 Deleting your account will remove all your data from TickTick. To help prevent against an unintended loss of information, you will be asked to confirm your TickTick password before proceeding. If you have forgotten your password, reset your password first and then delete your account. You may make a backup file of your TickTick data for future use (see section 1.3.1).

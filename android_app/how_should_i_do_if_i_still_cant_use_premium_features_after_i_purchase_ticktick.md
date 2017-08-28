@@ -6,7 +6,7 @@ Upon completion of your payment, normally you can enjoy the premium features. If
 
 2. Tap your avatar in the upper-left corner to enter your account details.
 
-3. Tap"My Pro", then tap “Restore” at the bottom of the new page.
+3. Tap"My Pro", then tap "Restore" at the bottom of the new page.
 
-If “Restore” doesn't work, please do not hesitate to contact us at support@ticktick.com
+If "Restore" doesn't work, please do not hesitate to contact us at support@ticktick.com
 

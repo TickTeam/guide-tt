@@ -2,7 +2,7 @@
 
 1. Open TickTick on your Android device, and enter a task.
 
-2. Tap the option menu in the upper-right corner, then tap “Attachment”.
+2. Tap the option menu in the upper-right corner, then tap "Attachment".
 
 You can add images, audios, videos or other regular files to a task. If the task is stored in a shared list, all members of the list can view and save any such files attached thereto.
 

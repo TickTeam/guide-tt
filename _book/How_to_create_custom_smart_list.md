@@ -10,7 +10,7 @@
 
 You can sort items by List, Tag, Date, Priority, Assignee. These Filters are flexible enough to help you generate your own Smart List.
 
-If you need to focus on only items you marked with high priority in TickTick, just choose “High priority”, “Today”, and “Tomorrow” in the Smart List filters menu to create a custom smart list which you can name "High Priority" or some similar name.
+If you need to focus on only items you marked with high priority in TickTick, just choose "High priority", "Today", and "Tomorrow" in the Smart List filters menu to create a custom smart list which you can name "High Priority" or some similar name.
 
 ![](customlisteg.jpg)
 

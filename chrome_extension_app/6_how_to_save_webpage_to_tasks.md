@@ -5,7 +5,7 @@
 
 <br />
 
-**Why “Add to TickTick” doesn't work?**
+**Why "Add to TickTick" doesn't work?**
 
 1. Close and reopen your browser.  "Add to TickTick" is not added as a dropdown menu option in your browser until you close the browser at least once after loading the TickTick Chrome Extension.
 

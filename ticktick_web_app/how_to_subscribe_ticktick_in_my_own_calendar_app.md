@@ -4,9 +4,9 @@
 
 2. Click the avatar in the upper-left corner of your TickTick homepage, then click "Settings" from the menu that appears.
 
-3. Click “Calendar & Mail” in the left panel.
+3. Click "Calendar & Mail" in the left panel.
 
-4. Enable the URL” in the section of “Subscribe TickTick in your calendar app”.
+4. Enable the URL" in the section of "Subscribe TickTick in your calendar app".
 
 5. Add the provided URL to your calendar apps.
 

@@ -6,7 +6,7 @@ With a shared list, it is easy to check a shopping list with your family members
 
 1. Open TickTick on your iOS device and slide the screen to the right.
 
-2. Tap on a list you want to share, then tap the option menu in the upper-right corner, then tap “Share”.
+2. Tap on a list you want to share, then tap the option menu in the upper-right corner, then tap "Share".
 
 3. Tap "Invite Member".
 
@@ -18,11 +18,11 @@ With a shared list, it is easy to check a shopping list with your family members
 
 1. Open TickTick on your iOS device and slide the screen to the right.
 
-2. Tap on a list you want to share, then tap the option menu in the upper-right corner, then tap “Share”.
+2. Tap on a list you want to share, then tap the option menu in the upper-right corner, then tap "Share".
 
 3. Tap "Invite Member".
 
-4. Tap “Link” beside "Contacts", then tap "Send the link".
+4. Tap "Link" beside "Contacts", then tap "Send the link".
 
 5. Select an app to share the link with others. Other options include "Assign to Contact", "Copy", and "Print".
 

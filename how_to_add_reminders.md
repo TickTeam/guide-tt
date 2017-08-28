@@ -8,5 +8,5 @@
 
 ![](reminder1.png)
 
-If you want to add more than one reminder to a task, click “On time”. Then you can add reminders \(for example, "5 minutes before","1 hour before",“1 day before”, etc. or "custom" set\). Users of free TickTick accounts may add up to two reminders per task. Premium users are allowed a maximum of five reminders per task.
+If you want to add more than one reminder to a task, click "On time". Then you can add reminders \(for example, "5 minutes before","1 hour before","1 day before", etc. or "custom" set\). Users of free TickTick accounts may add up to two reminders per task. Premium users are allowed a maximum of five reminders per task.
 

@@ -10,7 +10,7 @@
 
 4. Click "Done" and exit the settings so you can choose a task to duplicate.
 
-5. Click “···” in the bottom-right corner of the list view page to choose “Duplicate” and a duplicate entry will be entered marked with the word "copy".
+5. Click "···" in the bottom-right corner of the list view page to choose "Duplicate" and a duplicate entry will be entered marked with the word "copy".
 
 ![](duplicate2.png)
 

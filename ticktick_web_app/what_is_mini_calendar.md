@@ -1,9 +1,9 @@
-###What is “Mini Calendar”? (Premium)
-“Mini Calendar” is a small monthly calendar that, when enabled, appears at the bottom of the sidebar.
+###What is "Mini Calendar"? (Premium)
+"Mini Calendar" is a small monthly calendar that, when enabled, appears at the bottom of the sidebar.
 
 1. Click the avatar in the upper-left corner of your TickTick homepage, then click "Settings".
 
-2. Click “Labs” in the left panel and then enable “Mini Calendar” in the right panel.
+2. Click "Labs" in the left panel and then enable "Mini Calendar" in the right panel.
 ![](mini1.png)
 
 3. A small calendar will be displayed at the bottom of the left panel.

@@ -4,7 +4,7 @@
 
 2.Tap the gear-shaped icon in the upper-right corner.
 
-3.Tap “Upgrade to Premium”.
+3.Tap "Upgrade to Premium".
 
 Select a monthly or annual account and follow the prompts to complete your purchase.
 

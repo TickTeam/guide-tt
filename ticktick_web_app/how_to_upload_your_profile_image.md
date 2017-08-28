@@ -4,7 +4,7 @@
 
 2. Click the avatar in the upper-left corner of your TickTick homepage, then click "Settings" from the menu that appears.
 
-3. Click “Profile” in the left panel.
+3. Click "Profile" in the left panel.
 
 4. Click the avatar to upload a profile image.
 

@@ -3,9 +3,9 @@
 
 2. Click its due date in the upper-left corner of the right panel. 
 
-3. Click the “Set Repeat” button.
+3. Click the "Set Repeat" button.
 
-4. Then you can choose a repeating mode such as Daily/Weekly/Monthly/Yearly. Or you can choose “Advanced” to set repeating interval and repeating type.
+4. Then you can choose a repeating mode such as Daily/Weekly/Monthly/Yearly. Or you can choose "Advanced" to set repeating interval and repeating type.
 
 
 ![](recurring.png)

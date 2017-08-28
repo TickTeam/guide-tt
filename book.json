@@ -9,7 +9,11 @@
     "plugins": [
         "style-rewrite"
     ],
-    "pluginsConfig": {},
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        }
+    },
     "links": {
         "sidebar": {
             "Return to homepage": "https://ticktick.com"

@@ -16,4 +16,4 @@ Please note that the person you want to assign a task to has to accept your invi
 
 <br />
 
-If you want to view all of your tasks that are assigned to you, you can enable the smart list “Assigned to me” 
+If you want to view all of your tasks that are assigned to you, you can enable the smart list "Assigned to me" 

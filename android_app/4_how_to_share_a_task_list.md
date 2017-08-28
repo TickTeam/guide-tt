@@ -7,7 +7,7 @@ Sharing lists is a great way to collaborate with friends, family, and colleagues
 
 1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
 
-2. Tap the list you want to share, then Tap “Share” from the option menu in the upper right corner. 
+2. Tap the list you want to share, then Tap "Share" from the option menu in the upper right corner. 
 
 3. Tap "Invite new member".
 
@@ -25,7 +25,7 @@ Sharing lists is a great way to collaborate with friends, family, and colleagues
 
 1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
 
-2. Tap the list you want to share, then Tap “Share” from the option menu in the upper right corner. 
+2. Tap the list you want to share, then Tap "Share" from the option menu in the upper right corner. 
 
 3. Tap "Invite new member", then tap "Link" in the upper-right corner.
 

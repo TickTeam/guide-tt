@@ -3,6 +3,6 @@
 
 2.Click the gear-shaped icon on the top right corner.
 
-3.Then, click “Reminder” to uncheck “Vibrate” option.
+3.Then, click "Reminder" to uncheck "Vibrate" option.
 
 

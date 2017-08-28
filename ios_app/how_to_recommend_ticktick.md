@@ -3,6 +3,6 @@
 
 2.Click the gear-shaped icon on the top right corner.
 
-3.Click “Recommend TickTick”.
+3.Click "Recommend TickTick".
 
 You can recommend TickTick via different social platforms, for example in Facebook, Twitter, Google+, etc.

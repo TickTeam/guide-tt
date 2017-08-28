@@ -4,7 +4,7 @@
 
 2. Click the avatar in the upper-left corner of your TickTick homepage, then click "Settings" from the menu that appears. 
 
-3. From the “Start Week On” drop-down menu, choose Saturday, Sunday, or Monday as the first day of the week in TickTick.
+3. From the "Start Week On" drop-down menu, choose Saturday, Sunday, or Monday as the first day of the week in TickTick.
 <br />
 
 **Where is it used?**

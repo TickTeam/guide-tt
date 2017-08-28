@@ -4,5 +4,5 @@
 
 2. Tap the gear-shaped icon in the upper-right corner.
 
-3. Tap “Theme”, then select a color or landscape scene.
+3. Tap "Theme", then select a color or landscape scene.
 

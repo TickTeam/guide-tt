@@ -4,7 +4,7 @@ Calendar View allows you view your tasks with due date in a calendar, which is m
 
 1. Open TickTick on your iOS device and slide the screen to the right.
 
-2. Tap “Calendar” in the List view.
+2. Tap "Calendar" in the List view.
 
 
 

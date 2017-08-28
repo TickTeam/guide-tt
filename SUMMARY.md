@@ -32,7 +32,7 @@
     * [How to print a list?](ticktick_web_app/how_to_print_a_list.md)
     * [How to close an inactive list temporarily?](ticktick_web_app/how_to_close_a_list.md)
     * [How to delete a list?](ticktick_web_app/how_to_delete_a_list.md)
-    * [What is “Inbox”?](ticktick_web_app/what_is_inbox.md)
+    * [What is "Inbox"?](ticktick_web_app/what_is_inbox.md)
   * \[Task\]
     * [How to add a task?](how-to-add-a-task.md)
     * [How to use Smart Date Parsing when adding tasks?](how_to_use_smart_date_parsing_when_adding_tasks.md)
@@ -115,7 +115,7 @@
     * [How to set up location-based reminder ?](android_app/3_how_to_set_location_reminder.md)
     * [How to set ringtone, annoying alert?](android_app/6_how_to_change_the_ringtone.md)
     * [How to set up reminder pop-ups?](android_app/4_how_should_i_do_if_i_dont_want_the_reminder_pop-up.md)
-    * [How to set up “Daily Alert”?](android_app/7_how_to_set_daily_alert.md)
+    * [How to set up "Daily Alert"?](android_app/7_how_to_set_daily_alert.md)
     * [What is "Status Bar"?](android_app/8_how_to_enable_reminder_in_status_bar.md)
   * \[Widget\]
     * [Why I can’t find TickTick widgets?](android_app/1_why_i_cant_find_ticktick_widget.md)
