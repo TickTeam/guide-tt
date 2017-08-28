@@ -1,14 +1,14 @@
-# How to create folders for lists?
+# How to create list folders?
 
-Folders make organizing your lists as simple as drag-and-drop.
+With Folders, organizing your lists is as simple as drag-and-drop.
 
-1. Open TickTick on your iOS device and slide the screen to the right.
+1.Open TickTick on your iOS device. +
 
-2. Press a list and drag it on top of another list that you want to include in the same folder.
+2.Drag a list on top of another that you’d like to include in the same folder.
 
-3. Continue to press on your selected list until a blue box appears around the other list, then drop the selected list.
+3.Hover your selected list until a blue box appears around the second list.
 
-4. Enter a name for the new folder.
+4.Drop the selected list, and then you can enter a name for the folder.
 
 ![](folder.jpg)
 
