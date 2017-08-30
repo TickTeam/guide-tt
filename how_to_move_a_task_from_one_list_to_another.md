@@ -16,5 +16,5 @@
 
 2. Tap on a list you want to move the task into.
 
-Note that the red and blue quick action swipe features are discussed in section 3.3.9.![](movetask345.jpg)
+Note that the red and blue quick action swipe features are discussed in section 4.3.9.![](movetask345.jpg)
 

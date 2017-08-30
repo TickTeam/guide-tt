@@ -19,7 +19,7 @@ You can also subscribe to TickTick Premium on your mobile app via "Google Wallet
 
 Yes, you can cancel the subscription anytime.
 
-If you cancel the Premium subscription within 14 days, you can get a refund (see section 0.5 for details).
+If you cancel the Premium subscription within 14 days, you can get a refund (see section 1.6 for details).
 
 If you cancel the subscription after 14 days, refund are no longer available. The subscription will last until the end of the month or year, depending on which type of Premium account you purchased. Once Premium expires, your account will be downgraded to a free account.
 
@@ -29,4 +29,4 @@ If you cancel the subscription after 14 days, refund are no longer available. Th
 
 **If I have more than 19 lists, will I lose your lists and tasks after my account is downgraded to a free one?**
 
-Free accounts get a maximum of 19 lists. Premium accounts can have up to 99 lists. For additional features in TickTick, please turn to 0.3). If you have 25 lists and your account is downgraded, your data (lists, tasks, images, etc.) won't be lost, but you are not allowed to add more, because you have already exceeded the upper limit for free account.
+Free accounts get a maximum of 19 lists. Premium accounts can have up to 99 lists. For additional features in TickTick, please turn to 1.4). If you have 25 lists and your account is downgraded, your data (lists, tasks, images, etc.) won't be lost, but you are not allowed to add more, because you have already exceeded the upper limit for free account.

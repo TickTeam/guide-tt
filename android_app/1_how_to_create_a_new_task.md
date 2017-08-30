@@ -61,7 +61,7 @@ The Status Bar is a persistent notification bar that appears in your phone's mai
 
 The Status Bar is in the pull-down menu of your phone. Click "+" on the Status Bar to add a task without having to open the Ticktick app.
 
-**Option 4: Add a task from widget (turn to 2.6.4 for details).**
+**Option 4: Add a task from widget (turn to 3.6.4 for details).**
 
 Tasks in the "Completed" list are sorted by completion date. If you want to view completed tasks in a specific list, you can tap the funnel-shaped icon in the upper-right corner to select a list. Dates at left are completion dates while dates at right are due dates.
 

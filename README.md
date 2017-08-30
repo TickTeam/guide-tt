@@ -11,12 +11,14 @@ This guide is divided into six chapters to help you understand the features of T
 
 | Chapter | Content |
 | -- | -- |
-|Chapter 0| About TickTick |
-|Chapter 1| TickTick Web version |
-|Chapter 2| TickTick Android app |
-|Chapter 3| TicKTick iOS app |
-|Chapter 4| Chrome Extension |
-|Chapter 5| Video Tutorials |
+|Chapter 1| About TickTick |
+|Chapter 2| TickTick Web version |
+|Chapter 3| TickTick Android app |
+|Chapter 4| TicKTick iOS app |
+|Chapter 5| Chrome Extension |
+|Chapter 6| Video Tutorials |
+|Chapter 7| Filter |
+|Chapter 8| Smart Date Parsing  |
   
 
 Feel free to contact us if you have any further questions that are not mentioned here. You may also create a discussion thread at TickTick [Help Center](https://help.ticktick.com/forum) or email us directly [support@ticktick.com](mailto:support@ticktick.com).
