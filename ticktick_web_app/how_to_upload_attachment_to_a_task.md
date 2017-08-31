@@ -8,5 +8,5 @@
 
 Supported file types include Word, Excel, and various image files.
 
-![](upload.png)
+![](../newest pics/web/2.6/2.6.9.png)
 

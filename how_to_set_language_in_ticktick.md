@@ -8,3 +8,4 @@
 
 **P.S.** If your language does not appear in the list, and you want to help us do translation work in your language, clicking "Your language is not available?" at the bottom of the drop-down menu. This opens a new tab where you can click "Help us translate" to complete a form. Upon submission of the form, we will contact you soon.
 
+![](newest pics/web/2.1/2.1.2.png)

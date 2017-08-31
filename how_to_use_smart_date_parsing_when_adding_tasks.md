@@ -2,13 +2,11 @@
 
 Date & time information you type in the name of your task will be recognized as the due date and a reminder will automatically be set.
 
-For example, if you want to go to library on July 30 at 2:00 p.m., you just need to type: "Go to library July 30 2 pm" when naming this task. TickTick will automatically recognize July 30 as the task’s due date and will set a reminder for 2:00 p.m. on that date.
-
-![](Smart date parsing.png)
+For example, if you want to go to library on July 30 at 2:00 p.m., you just need to type: "Go to library July 30 2 pm" when naming this task. TickTick will automatically recognize July 30 as the task's due date and will set a reminder for 2:00 p.m. on that date.
+![](newest pics/web/2.6/2.6.2.1.png)
 
 #### How to remove date & time info from task content when using Smart Date Parsing?
 
 If you prefer date and time not showing in your task content after you create a task, click Settings then choose "Remove Text in Tasks" from the "Smart Date Parsing" drop-down options.
-
-![](setting smart.png)
+![](newest pics/web/2.6/2.6.2.2.png)
 

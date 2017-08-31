@@ -8,5 +8,4 @@
 
 4. Change list/folder name, etc.
 
-![](editfolder.png)
-
+![](../newest pics/web/2.5/2.5.4.png)

@@ -5,5 +5,5 @@
 3. Type the task name.
 4. Press Enter to save.
 
-
+![](newest pics/web/2.6/2.6.1.png)
 

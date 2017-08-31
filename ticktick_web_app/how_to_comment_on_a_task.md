@@ -9,8 +9,7 @@
 4. Use "Comment" to add extra remarks to a task.
 
 Within a shared list, all members can comment on any task. This enables more effective communication. If you want to send a shared member a message or reply a member in a shared list, you can type "@" to select a member or click the person's avatar to reply to someone directly.
-
-![](comment.png)
+![](../newest pics/web/2.6/2.6.12.png)
 
 The members you contact or reply to will receive immediate notification in their TickTick apps.
 

@@ -9,3 +9,4 @@ To create separate reminder for each subtask is an additional feature that avail
 
 
 
+![](newest pics/web/2.6/2.6.22.png)

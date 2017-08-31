@@ -8,7 +8,7 @@ Calendar View shows the traditional grid view of the days of the week so that yo
 
 ![](calendarview12.jpg)
 
-**What’s special to Calendar View?**
+**What's special to Calendar View?**
 
 * You can view tasks in month view, week view, 3-day view, today view, and list view.
 * Highlighted text indicates a task due on that date.

@@ -4,10 +4,10 @@
 1. Click the avatar in the upper-left corner of your TickTick homepage, then click "Settings".
 
 2. Click "Labs" in the left panel and then enable "Mini Calendar" in the right panel.
-![](mini1.png)
+![](../newest pics/web/2.7/2.7.4.1.png)
 
 3. A small calendar will be displayed at the bottom of the left panel.
-![](../images/web2-mini.png)
+![](../newest pics/web/2.7/2.7.4.2.png)
 
 **What is Mini Calendar used for?**
 

@@ -1,4 +1,4 @@
-### Can’t use premium features after upgrading TickTick?
+### Can't use premium features after upgrading TickTick?
 
 Upon completion of your payment, normally you can enjoy the premium features. If not, restore TickTick, as follows.
 

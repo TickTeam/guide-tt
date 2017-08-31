@@ -7,5 +7,5 @@
 3. Select "Print".
 
 4. Set paper size, margins, etc. and print your task.  
-![](print.png)
+![](../newest pics/web/2.6/2.6.10.png)
 

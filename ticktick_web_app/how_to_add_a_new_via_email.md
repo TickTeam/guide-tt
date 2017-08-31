@@ -8,7 +8,7 @@ If your email inbox is full of to-dos, you can turn them into tasks using Mail S
 
 3. Click "Calendar & Mail" in the left panel.
 
-![](viaemail.png)
+![](../newest pics/web/2.6/2.6.5.png)
 
 
 Two separate email address appear at the bottom of the right panel.
@@ -21,7 +21,4 @@ If you sign into TickTick with a registered email address, you can email your ta
 This is a unique email address generated for your TickTick account (Note: click "Reset" to obtain a new address).  You can email your task to TickTick by using any email program to send your task to todo####@mail.ticktick.com.
 
 
-The email subject line becomes the task name, while the items in the body of your email become the details appearing in the task . You can also add a date and reminder time to the email subject to cause TickTick to set a due date for your task on that date with that reminder. For example, you can write "Go to Starbucks with Frank tomorrow 4pm" or "Go shopping 2/4 4pm" in the subject, then you will find this task in TickTick’s "Inbox" with the same due dates and reminder times.
-
-
-![](../images/email.png)
+The email subject line becomes the task name, while the items in the body of your email become the details appearing in the task . You can also add a date and reminder time to the email subject to cause TickTick to set a due date for your task on that date with that reminder. For example, you can write "Go to Starbucks with Frank tomorrow 4pm" or "Go shopping 2/4 4pm" in the subject, then you will find this task in TickTick's "Inbox" with the same due dates and reminder times.

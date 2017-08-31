@@ -15,7 +15,7 @@ With TickTick, you have six different ways to add a new task, giving you the pow
 
 If you type or say the date and time information for your task when using the Quick Add bar, TickTick will automatically set the date you gave as due date and set the time you gave as the time for that task to occur.
 
-For example, if you want to go to library on next Saturday at 2 pm, you just need to type: "Go to library next Saturday 2 pm", then TickTick will automatically recognize the date of next Saturday as the task’s due date and set 2 pm as its reminder.
+For example, if you want to go to library on next Saturday at 2 pm, you just need to type: "Go to library next Saturday 2 pm", then TickTick will automatically recognize the date of next Saturday as the task's due date and set 2 pm as its reminder.
 
 ![](smartdate12.jpg)
 
@@ -24,9 +24,9 @@ You can also select a list to add your new task to when using the Quick Add Bar.
 ![](quickaddlist121.jpg)
 
 
-**Note**: Can’t see quick add bar, only a "+" icon?
+**Note**: Can't see quick add bar, only a "+" icon?
 
-Go to "Advanced Settings" -> "Quick Add" -> Double check whether you’ve enabled it
+Go to "Advanced Settings" -> "Quick Add" -> Double check whether you've enabled it
 
 #####Remove date & time info from task content when using Smart Date Parsing
 

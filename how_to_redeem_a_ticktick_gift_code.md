@@ -12,5 +12,5 @@ If you have a TickTick gift code, please redeem it with TickTick on the web. Her
 
 **P.S.** If you already have a Premium account, please redeem the gift code after your Premium account expires.
 
-![](redeem.png)
 
+![](newest pics/web/2.4/2.4.2.png)

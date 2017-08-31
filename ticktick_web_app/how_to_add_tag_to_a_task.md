@@ -8,7 +8,7 @@ Tags let you search across multiple lists for tasks that share common tags. This
 
 3. Click "Smart List" in the left panel, and enable "Tags" in the right panel.
 
-![](enable tags.png)
+![](../newest pics/web/2.6/2.6.14.png)
 
 To tag a task item, simply add a hashtag to a keyword in that item \(for example, \#Holiday\). You may use a maximum of five tags per task.
 

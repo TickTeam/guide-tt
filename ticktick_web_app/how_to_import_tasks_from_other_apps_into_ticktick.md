@@ -8,5 +8,4 @@
 
 You can import tasks from apps such as Astrid, Wunderlist, and Toodledo.
 
-![](import.png)
-
+![](../newest pics/web/2.6/2.6.17.png)

@@ -3,6 +3,4 @@
 Checklist functionality is frequently used to break a big task into some small ones such as arranging a family trip. Simply click on the button with three horizontal lines in the upper-right corner of the right panel and choose checklist view.
 
 <br />
-
-
-![](checklist.png)
+![](../newest pics/web/2.6/2.6.6.png)

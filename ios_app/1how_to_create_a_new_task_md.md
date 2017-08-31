@@ -24,7 +24,7 @@ TickTick gives you five different ways to create new tasks: The Add Button, Quic
 
 If you enter date and time information in the text of your new task, TickTick will automatically recognize the date as the due date and set the time as the the reminder time for that task.
 
-For example, if you want to go to library next Saturday at 2 p.m., you need only type: "Go to library next Saturday 2 pm". TickTick will automatically recognize the date of next Saturday as the task’s due date and set 2 pm as the reminder time for that task.
+For example, if you want to go to library next Saturday at 2 p.m., you need only type: "Go to library next Saturday 2 pm". TickTick will automatically recognize the date of next Saturday as the task's due date and set 2 pm as the reminder time for that task.
 
 ![](smartdate12.jpg)
 
@@ -52,7 +52,7 @@ Note that if TickTick is not in the "Today" section, you should add it by tappin
 
 You can say, for example, "Have lunch with Jack tomorrow at 1 pm". After saying that, a new task to have lunch with Jack will be added with due date of tomorrow and a reminder time of 1 p.m.
 
-If TickTick can’t recognize your language, check "Voice Input".
+If TickTick can't recognize your language, check "Voice Input".
 
 ![](c iOSvoiceinput2.png)
 
@@ -66,5 +66,5 @@ If TickTick can’t recognize your language, check "Voice Input".
 
 4. Enable "Siri Integration" by tapping the toggle button.
 
-After you enable Siri Integration, tasks you’ve created in Apple’s Reminders app and tasks you’ve created with Siri will be removed from Apple’s Reminders app and shown in TickTick’s Inbox.
+After you enable Siri Integration, tasks you've created in Apple's Reminders app and tasks you've created with Siri will be removed from Apple's Reminders app and shown in TickTick's Inbox.
 

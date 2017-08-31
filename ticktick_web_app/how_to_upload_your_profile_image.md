@@ -8,5 +8,5 @@
 
 4. Click the avatar to upload a profile image.
 
-
+![](../newest pics/web/2.2/2.2.1.png)
 

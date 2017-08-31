@@ -1,7 +1,7 @@
 ### How to create a recurring task?
 TickTick lets you automate the entry of tasks that you perform more than once, for example, a daily workout. 
 <br />
-**What’s the difference between Defulat repeating mode and Custom repeating mode?**
+**What's the difference between Defulat repeating mode and Custom repeating mode?**
 
 Default modes are "Daily", "every weekday", "Weekly", "Monthly", "Monthly" (same day of the week), and "Yearly".  Custom modes consist of "Repeat from Due Date" and "Repeat from Completion Date". To separate these repeating modes, here is an example:
 
@@ -20,7 +20,7 @@ In Default mode if you check your June 15 task off on the same day (the due date
 
 *If you set Custom repeating to Due Date mode, the next repeating date is June 17.*
 
-The only difference between the Default and the Custom: Due Date modes in the above scenario is that Due Date mode won’t move to the date in the future. Thus even though Jun 17 is past, it will become the next recurring date.
+The only difference between the Default and the Custom: Due Date modes in the above scenario is that Due Date mode won't move to the date in the future. Thus even though Jun 17 is past, it will become the next recurring date.
 
 ![](repeatingdue12.jpg)
 *2)If you set Custom repeating to Completion Date mode, the next repeating date is June 20.*

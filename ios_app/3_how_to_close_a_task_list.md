@@ -2,7 +2,7 @@
 
 Some "Smart lists" in TickTick, such as "Today" and "Completed"，can be hidden if you want to keep the interface clean and improve app performance.
 
-Self-defined lists can be both hidden and closed. For example, if you have a list which is about your future plan and it is inactive temporarily, you can hide it, so that tasks in this list won’t be displayed in "All" & other smart lists. However, if you close a list, it will be moved into "Closed Lists", and tasks in this list will not be remindered & displayed in search results any more.
+Self-defined lists can be both hidden and closed. For example, if you have a list which is about your future plan and it is inactive temporarily, you can hide it, so that tasks in this list won't be displayed in "All" & other smart lists. However, if you close a list, it will be moved into "Closed Lists", and tasks in this list will not be remindered & displayed in search results any more.
 
 <br />
 

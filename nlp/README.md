@@ -23,7 +23,7 @@ Smart Date Parsing provides a much easier way for users to set date & reminder e
 | night | the next 8 pm |
 | midnight | the next 12 am |
 
-When you create a task with unclear date information, TickTick will automatically parse it on the most recent date & time. For example, if typing "remind me at 9:00" at 4 pm, a task that’s due on today 9 pm will be created.
+When you create a task with unclear date information, TickTick will automatically parse it on the most recent date & time. For example, if typing "remind me at 9:00" at 4 pm, a task that's due on today 9 pm will be created.
 
 #### Repeat Rules
 

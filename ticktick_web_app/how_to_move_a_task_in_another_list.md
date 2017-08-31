@@ -8,7 +8,7 @@
 
 3. Choose the list you want your task to be added to.
 
-![](movetask1.png)
+![](../newest pics/web/2.6/2.6.16.1.png)
 
 **Option 2**
 
@@ -16,3 +16,4 @@
 Click on a task, drag it to the sidebar, and drop the task on top of the list you want it added to.
 
 
+![](../newest pics/web/2.6/2.6.16.2.png)

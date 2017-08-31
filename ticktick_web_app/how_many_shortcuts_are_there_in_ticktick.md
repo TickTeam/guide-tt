@@ -6,5 +6,5 @@
 
 3. Click "Shortcuts" in the left panel.
 
-![](shortcuts.png)
+![](../newest pics/web/2.6/2.6.19.png)
 

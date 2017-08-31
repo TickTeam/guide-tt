@@ -12,9 +12,8 @@ The Calendar View presents your tasks in a traditional calendar view instead of 
 3. Click "Smart List" in the left panel, and choose "Show" Calendar in the right panel. 
 
 4. The "Calendar" list will be displayed below "Next 7 Days". 
+![](../newest pics/web/2.7/2.7.3.1.png)
 
 You can drag and drop a task from one date to another date. You can click a task to edit it or click a date to add a new task.
-![](calendarview.png)
-
-![](web2-calendarview.png)
+![](../newest pics/web/2.7/2.7.3.2.png)
 

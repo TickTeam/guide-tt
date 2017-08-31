@@ -3,7 +3,7 @@ After you check off a recurring task, the task will reappear on the next date se
 
 <br />
 
-**What’s the difference between Defulat repeat mode and Custom repeat mode?**
+**What's the difference between Defulat repeat mode and Custom repeat mode?**
 
 Default repeat mode reschedules the repeat task in the future based on the original time interval chosen. Custom repeat mode provides more flexibility and can reschedule in the past. Here is an example:
 

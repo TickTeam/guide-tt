@@ -8,5 +8,4 @@
 
 **Note**: once a list is deleted, all tasks within that list will be removed and are not recoverable, unless you have made a backup copy of your TickTick that contains that exact same list.
 
-![](howtodeletelist.png)
-
+![](../newest pics/web/2.5/2.5.8.png)

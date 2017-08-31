@@ -8,7 +8,7 @@ Calendar View allows you view your tasks with due date in a calendar, which is m
 
 
 
-**What’s special to Calendar View?**
+**What's special to Calendar View?**
 
 1. You can view tasks in week view or in month view by dragging the calendar up or down. Note that a grid view of the calendar month is available only in Pro accounts.
 ![](calendar12.jpg)

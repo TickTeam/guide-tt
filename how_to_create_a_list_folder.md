@@ -11,4 +11,3 @@ With Folders, organizing your lists is as simple as drag-and-drop.
 4. Drop the chosen list by releasing the mouse button, and then name the folder.
 
 ![](web2-listfolder.png)
-
