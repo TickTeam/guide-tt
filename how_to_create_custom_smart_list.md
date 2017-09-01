@@ -1,15 +1,25 @@
-### How to create a Custom Smart List? \(Premium)
+# How to create Custom Smart List? (Pro)
 
-In order to create Custom Smart Lists on the web, you should first enable "Custom Smart List" by:
+### To create your own Smart List:
 
-1. Sign in to TickTick on the web.
+1. Tap Settings in left side bar.
+2. Tap "Smart List".
+3. Tap "Custom" at the bottom of the screen to add Custom Smart List.
 
-2. Click "Settings", then "Smart List" in the left panel, then enable "Custom Smart List" in the right panel.
+![](customlist.jpg)
 
-3. Click "Custom" in left side bar to add a Custom Smart List. The created Custom Smart List will appear in the "Custom" section in the sidebar.
-![](custom1.png)
+There are 5 filter criteria provided: List, Tag, Date, Priority, Assignee. These Filters are flexible enough to help you generate your own Smart List.
 
-4. Click "Custom" in left side bar to add a Custom Smart List. The created Custom Smart List will appear in the "Custom" section in the sidebar.
+Imagine that you need to focus on only important and urgent schedules, just choose “High priority” and “Today”, “Tomorrow” in Filters to create a custom smart list: Important & urgent.
 
-![](custom2.png)
+![](customlisteg.jpg)
 
+
+###  To delete a Custom Smart List:
+
+1. Tap Settings in left side bar.
+2. Tap "Smart List".
+3. Choose the Custom Smart List you want to delete.
+4. Tap "Delete Smart List" at the bottom of the screen.
+
+![](delete.png)
