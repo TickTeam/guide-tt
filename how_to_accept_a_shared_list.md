@@ -1,4 +1,4 @@
-# How to accept a shared list?
+### How to accept a shared list?
 
 If someone shares a list with you, you will receive an invitation to accept the shared list.
 

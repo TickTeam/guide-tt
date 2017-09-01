@@ -1,4 +1,4 @@
-# How to share task lists?
+### How to share task lists?
 
 With a shared list, it is easy to check a shopping list with your family members or discuss a meeting agenda with your colleagues.
 

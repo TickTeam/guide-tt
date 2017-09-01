@@ -79,7 +79,6 @@
     * [How to show or hide Smart Lists  in TickTick?](android_app/how_many_default_lists_are_there_in_ticktick.md)
     * [How to create Custom Smart List? (Premium)](how_to_create_custom_smart_list_android.md)
     * [How to create a task list?](android_app/1_how_to_create_a_task_list.md)
-    * [What is a list folder?](how_to_create_list_folders_android.md)
     * [How to edit lists and folders?](android_app/2_how_to_editrenamedelete_a_task_list.md)
     * [How to send lists to other members?](how_to_send_task_lists.md)
     * [How to share lists with other TickTick users?](android_app/4_how_to_share_a_task_list.md)

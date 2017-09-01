@@ -1,4 +1,4 @@
-## How to set "Daily Alert"?
+### How to set "Daily Alert"?
 
 Daily Alert provides you with a daily summary of all the tasks you have scheduled for today. You choose when this alert occurs.
 

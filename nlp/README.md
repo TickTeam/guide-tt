@@ -1,8 +1,8 @@
-## How Smart Date Parsing works in TickTick
+### How Smart Date Parsing works in TickTick
 
 Smart Date Parsing provides a much easier way for users to set date & reminder efficiently in the application. When adding a task via typing or voice, information on dates will be automatically parsed and set on your calendar. However, not all the date formats can be recognized by Smart Date Parsing. Below are some examples of the date formats you can use in TickTick.
 
-### Date & Time
+#### Date & Time
 
 | What you type | How TickTick parses |
 | :--- | :--- |
@@ -25,7 +25,7 @@ Smart Date Parsing provides a much easier way for users to set date & reminder e
 
 When you create a task with unclear date information, TickTick will automatically parse it on the most recent date & time. For example, if typing "remind me at 9:00" at 4 pm, a task that’s due on today 9 pm will be created.
 
-### Repeat Rules
+#### Repeat Rules
 
 | What you type | How TickTick parses |
 | :--- | :--- |
@@ -40,14 +40,14 @@ When you create a task with unclear date information, TickTick will automaticall
 | 1st day of every month | 1st day of every month |
 | last day of every month | last day of every month |
 
-### Reminders in Advance
+#### Reminders in Advance
 
 | What you type | How TickTick parses |
 | :--- | :--- |
 | remind me 3 minutes / hours / days / weeks earlier | Remind me 3 minutes/hours/days/weeks earlier, basing on the date and time of the task |
 | remind me earlier | Remind me 5 minutes earlier, basing on the date and time of the task |
 
-### Delayed Reminders
+#### Delayed Reminders
 
 | What you type | How TickTick parses |
 | :--- | :--- |

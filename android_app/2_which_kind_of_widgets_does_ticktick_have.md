@@ -1,4 +1,4 @@
-## Which kind of widgets does TickTick have?
+### Which kind of widgets does TickTick have?
 The following widgets are available: TickTick views in 2×2, 4×2, 4×3, and 4x4;  TickTick Week view in 4×3; TickTick Shortcut view in 1×1; TickTick Undone view in 1×1. Choose a preferred widget according to your needs.
 
 <br />

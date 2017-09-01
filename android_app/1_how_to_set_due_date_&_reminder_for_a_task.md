@@ -1,4 +1,4 @@
-## How to add reminders to a task?
+### How to add reminders to a task?
 
 1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
 

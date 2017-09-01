@@ -1,4 +1,4 @@
-## How to set reminder ringtone and annoying alert?
+### How to set reminder ringtone and annoying alert?
 
 ### Reminder ringtones:
 

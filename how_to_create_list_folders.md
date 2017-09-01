@@ -1,4 +1,4 @@
-# How to create folders for lists?
+### How to create folders for lists?
 
 Folders make organizing your lists as simple as drag-and-drop.
 

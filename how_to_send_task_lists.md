@@ -6,7 +6,7 @@
 
 3. Tap "Share", then choose "Send as Text" or "Send as Image".
 
-4. Choose from the assorted means for sending the task \(for example, Google+, Twitter, Facebook Messenger, etc.\).
+4. Choose from the assorted means for sending the task (for example, Google+, Twitter, Facebook Messenger, etc.).
 
 
 

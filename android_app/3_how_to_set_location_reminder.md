@@ -1,4 +1,4 @@
-## How to set up location-based reminder?
+### How to set up location-based reminder?
 
 1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
 

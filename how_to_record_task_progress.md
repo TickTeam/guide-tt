@@ -1,6 +1,5 @@
-# How to record task progress?
+### How to check task progress?
 
-### To record progress for a task:
 
 1. Tap a task title to enter the task's detail page.
 

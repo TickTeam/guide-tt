@@ -1,9 +1,9 @@
-# Examples
+### Examples
 
 TickTick provides "**AND**" and "**OR**" for combining the around two filters to find the exact tasks you need in seconds, which could help to focus on the right things when used correctly.
 
 
-### What do "AND" and "OR" mean?
+#### What do "AND" and "OR" mean?
 | Operator | Description |
 | --- | :---: |
 | **AND** | Tasks should meet both filters at the same time |
@@ -15,7 +15,7 @@ Meanwhile, you can use them in the same filter like "today **OR** overdue" for s
 
 
 
-### Here are a few handy examples to try out:
+#### Here are a few handy examples to try out:
 
 | Filter query | What it does |
 | --- | :---: |

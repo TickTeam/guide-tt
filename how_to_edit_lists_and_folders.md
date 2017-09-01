@@ -1,4 +1,4 @@
-# How to edit lists and folders?
+### How to edit lists and folders?
 
 1. Open TickTick on your iOS device and slide the screen to the right.
 

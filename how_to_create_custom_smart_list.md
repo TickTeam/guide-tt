@@ -1,4 +1,4 @@
-# How to create a Custom Smart List? \(Premium)
+### How to create a Custom Smart List? \(Premium)
 
 In order to create Custom Smart Lists on the web, you should first enable "Custom Smart List" by:
 

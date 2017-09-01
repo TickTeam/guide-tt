@@ -1,4 +1,4 @@
-# How to create a Custom Smart List? (Premium)
+### How to create a Custom Smart List? (Premium)
 
 1. Open TickTick on your iOS device and slide the screen to the right.
 
