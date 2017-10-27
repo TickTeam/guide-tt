@@ -230,4 +230,4 @@
 
 ### Achievement & Statistics
 
-  * [My achievement scores and statistics](achievement/statistics.md)
+  * [My achievement scores and statistics](achievement.md)
