@@ -6,3 +6,4 @@
 
 3. Your options include: update your avatar by using a photo or taking a picture, use a nickname, and change your email address & password.
 
+![](../ios/4.1/4.1.6.png)

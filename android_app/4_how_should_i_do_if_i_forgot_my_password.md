@@ -8,3 +8,4 @@
 
 4. Check your email and follow the instructions to retrieve your password.
 
+![](../newest pics/android/3.1/3.1.4.png)

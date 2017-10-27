@@ -8,3 +8,4 @@ TickTick for Android gives you a choice of themes between various colors and oth
 
 3. Tap "Theme" to select a theme.
 
+![](../newest pics/android/3.1/3.1.9.png)

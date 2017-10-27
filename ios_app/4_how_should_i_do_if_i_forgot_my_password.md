@@ -8,3 +8,4 @@
 
 4. Check your email and follow the instructions to retrieve your new password.
 
+![](../ios/4.1/4.1.4.png)

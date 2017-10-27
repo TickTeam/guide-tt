@@ -8,3 +8,4 @@
 
 3. Tap the list you wish to sort, then drag & drop it to reorder it.
 
+![](../newest pics/android/3.2/3.2.8.png)

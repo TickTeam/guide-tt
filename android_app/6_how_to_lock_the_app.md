@@ -10,3 +10,4 @@ To enhance the privacy of your data in TickTick, use the Lock feature.
 
 4. Trace an unlock pattern twice to set a pattern lock for TickTick.
 
+![](../newest pics/android/3.1/3.1.8.png)

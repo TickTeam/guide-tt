@@ -2,9 +2,10 @@
 
 The small red badge that hovers over the TickTick app icon counts the number of "Today & Overdue" tasks by default. You can choose the task types to be counted in the App Badge.
 
-1. Open TickTick on your iOS device and slide the screen to the right.
+1. Go to Settings page from the tab bar.
 
-2. Tap the gear-shaped icon in the upper-right corner.
+2. Tap "Preferences".
 
-3. Tap "Preferences" and then tap "App Badge" to choose the task type\(s\) you wish to include in the App Badge count.
+3. Tap "App Badge" to choose the task type\(s\) you wish to include in the App Badge count.
 
+![](../ios/4.1/4.1.11.png)

@@ -8,5 +8,4 @@
 
 4. Enable "Subscribe Calendar", then tap "+ Add Account", then tap the calendar you want to subscribe to or tap "Add URL" to enter a Calendar URL.
 
-
-![](thirdcalendar012.jpg)
+![](../newest pics/android/3.4/3.4.4.png)

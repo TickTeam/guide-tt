@@ -6,5 +6,4 @@
 
 You can add images, audios, videos or other regular files to a task. If the task is stored in a shared list, all members of the list can view and save any such files attached thereto.
 
-![](attachment.png)
-
+![](../newest pics/android/3.3/3.3.11.png)

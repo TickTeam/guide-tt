@@ -10,7 +10,7 @@
 
 Note that tasks in a shared list can also be sorted by assignee.
 
-
+![](../ios/4.3/4.3.5.1.png)
 
 ##### Option 2 - Drag tasks to change their order
 
@@ -19,9 +19,7 @@ Note that tasks in a shared list can also be sorted by assignee.
 2. Press and hold a task to drag them manually.
 
 
-
-![](sort.png)  
-![](sort12.jpg)
+![](../ios/4.3/4.3.5.2.png)
 
 ##### How to resume the original sort after you drag tasks?
 

@@ -7,3 +7,5 @@
 3. Tap "Smart List" in the upper-right corner.
 
 4. Tap "Add Smart List"
+
+![](newest pics/android/3.2/3.2.2.png)

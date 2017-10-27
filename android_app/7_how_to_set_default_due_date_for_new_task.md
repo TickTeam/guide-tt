@@ -10,5 +10,4 @@ If you want to set a specific due date, priority level, and/or reminder every ti
 
 4. Set the default values such as priority, due date, and reminder time for new tasks.
 
-![](newtaskdefaults.jpg)
-
+![](../newest pics/android/3.3/3.3.9.png)

@@ -8,3 +8,4 @@
 
 Your phone's location services \(GPS\) must be active for location-based reminders to function.
 
+![](../newest pics/android/3.5/3.5.2.png)

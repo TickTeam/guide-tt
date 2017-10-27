@@ -6,3 +6,4 @@ If you have already displayed events of your local calendar in TickTick, you can
 
 2. Click the Add Task ("+") button at the bottom of the task page to add events to the calendar.
 
+![](../ios/4.5/4.5.5.png)

@@ -4,7 +4,7 @@
 
 2. Tap the checklist icon on the left side of the screen just above the keyboard to toggle between checklist and block text modes.
 
-![](checklist23.jpg)
+![](../ios/4.3/4.3.2.1.png)
 
 Checklist mode is useful for creating shopping lists, packing lists, etc. You can't set a due date or a priority for these checklist items. However, you can change the order of checklist items with the drag and drop method.
 
@@ -14,5 +14,5 @@ Tap on a task containing a checklist, then tap the task title or one of the chec
 
 You can then add more descriptive details for the task containing the checklist. This can be useful for reminding yourself of key information, sharing information about the checklist with other TickTick users with whom you've shared that task, and more.
 
-![](description12.jpg)
+![](../ios/4.3/4.3.2.2.png)
 

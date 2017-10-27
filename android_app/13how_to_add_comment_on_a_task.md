@@ -8,11 +8,8 @@
 
 The "Comment" feature is used to add extra remarks to a task. Within a shared list, all shared members can comment on any tasks to realize real-time chat and communication. If you want to reply to someone in a shared list, you can enter "@" to select a member, or tap the member's icon to reply to that person directly.
 
-![](comment1.png)
-
-![](comment20.png)
+![](../newest pics/android/3.3/3.3.16.png)
 
 The member you reply to will receive immediate notification in TickTick.
 
-![](comment3.png)
 

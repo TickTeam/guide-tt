@@ -8,3 +8,4 @@
 
 There are more than 20 languages in TickTick for Android. Most of the languages were translated by our users. TickTick would not be the multi-language app that it is without users' continued help and contributions. If you are interested in helping us with translation, please do not hesitate to let us know.)
 
+![](newest pics/android/3.1/3.1.11.png)

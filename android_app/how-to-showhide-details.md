@@ -25,5 +25,5 @@ By allowing to show details, the following information of each task will be show
 **Note: This feature is not available on the web.**
 
   
-
+![](../newest pics/android/3.2/3.2.9.png)
 

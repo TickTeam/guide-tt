@@ -8,5 +8,5 @@ Daily Alert provides you with a daily summary of all the tasks you have schedule
 
 3. Tap "Reminder", then tap "Daily Alert" to choose a time for the alert to occur.
 
-![](dailyalert.png)
+![](../newest pics/android/3.5/3.5.5.png)
 

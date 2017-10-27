@@ -10,3 +10,4 @@ Upon completion of your payment, normally you can enjoy the premium features. If
 
 If "Restore" doesn't work, please do not hesitate to contact us at support@ticktick.com
 
+![](../newest pics/android/3.1/3.1.7.png)

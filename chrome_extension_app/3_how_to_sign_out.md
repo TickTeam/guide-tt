@@ -4,3 +4,4 @@
 
 2. Click your avatar and select Sign Out from the dropdown menu.
 
+![](../chrome插件/5.1/5.1.3.png)

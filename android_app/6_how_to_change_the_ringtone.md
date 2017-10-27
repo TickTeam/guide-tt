@@ -7,10 +7,10 @@
 2. Tap the gear-shaped icon in the upper-right corner.
 
 3. Tap "Reminder", then tap "Ringtone" to select a reminder ringtone.
+![](../newest pics/android/3.5/3.5.3.1.png)
+ 
 
-### 
-
-### Annoying alert:
+#### Annoying alert:
 
 If "annoying alert" enabled, the alert will not go off in a minute and will be active again after two minutes until the notification has been handled.
 
@@ -19,6 +19,5 @@ If "annoying alert" enabled, the alert will not go off in a minute and will be a
 2. Tap the gear-shaped icon in the upper-right corner.
 
 3. Tap "Reminder", then tap "Ringtone", then choose "annoying alert".
-
-![](annnoying alert.png)
+![](../newest pics/android/3.5/3.5.3.2.png)
 

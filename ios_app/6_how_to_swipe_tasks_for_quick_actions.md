@@ -4,12 +4,12 @@ Swipe a task to the left, and then three action buttons with different backgroun
 
 1. Move a task from one list to another.
 
-2. Delete the task.and change due date.
+2. Delete the task and change due date.
 
 3. Change the task's due date, time, reminder times, and recurring task options.
 
-![](swipetask12.jpg)
+![](../ios/4.3/4.3.9.1.png)
 
 Note that if you swipe a task to the left until the taskbar becomes blue, then you can set the due date, time, reminder time, and recurring task options.  
-![](swipetask34.jpg)
+![](../ios/4.3/4.3.9.2.png)
 

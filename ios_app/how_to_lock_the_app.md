@@ -4,11 +4,11 @@ There are two options to lock TickTick: Passcode and Touch ID.
 
 **Option 1: Passcode**
 
-1. Open TickTick on your iOS device and slide the screen to the right.
+1. Go to Settings page from the tab bar.
 
-2. Tap the gear-shaped icon in the upper-right corner.
+2. Tap "Security & Data".
 
-3. Tap "Advanced Settings", then tap "Passcode".
+3. Tap "Passcode & Touch ID".
 
 
 
@@ -18,3 +18,4 @@ After you enable Passcode according to the steps above, you can then enable "Tou
 
 Once Touch ID is enabled, the Touch ID sensor will read your fingerprint and unlock TickTick with a touch of your finger.
 
+![](../ios/4.1/4.1.8.png)
