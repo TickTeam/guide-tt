@@ -6,7 +6,8 @@
 
 3. Tap "Sort" and choose a sorting filter. All lists can be sorted by the due date, title, and priority of tasks inside the list. Tasks in the "All", "Today", and "Next 7 Days" lists can also be sorted by list name.
 
-![](../newest pics/android/3.3/3.3.5.png)
+
+![](../tick-android/3.3/3.3.5.png)
 
 #### Drag tasks to change their order:
 

@@ -4,23 +4,20 @@ The TickTick Status Bar appears in the standard pull-down screen of your Android
 
 #### How to enable Status Bar?
 
-1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
+1. Open TickTick on your Android device, then go to the Settings tab page.
 
-2. Tap the gear-shaped icon in the upper-right corner.
-
-3. Tap "Advanced Settings", then tap "Status Bar" to activate it.
+2. Tap "Advanced Settings", then tap "Status Bar" to activate it.
 
 You can also change the font color for your Status Bar entries. There is an option directly below the "Status Bar" menu item.
-![](../newest pics/android/3.5/3.5.6.1.png)
+
+![](../tick-android/3.5/3.5.6.1.png)
 
 #### How to make notifications stay on your Status Bar?
 
 If you enable the "Stick on Status Bar" feature, notifications will stay on the status bar until you view, complete,or snooze the task.
 
-1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
+1. Open TickTick on your Android device, then go to the Settings tab page. 
 
-2. Tap the gear-shaped icon in the upper-right corner.
+2.Tap "Reminder", then tap "Stick on Status Bar".
 
-3.Tap "Reminder", then tap "Stick on Status Bar".
-
-![](../newest pics/android/3.5/3.5.6.2.png)
+![](../tick-android/3.5/3.5.6.2.png)

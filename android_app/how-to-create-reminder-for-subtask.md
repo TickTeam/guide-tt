@@ -10,4 +10,6 @@ To create separate reminder for each subtask is an additional feature that avail
 
 
 
-![](../newest pics/android/3.3/3.3.17.png)
+
+
+![](../tick-android/3.3/3.3.17.png)

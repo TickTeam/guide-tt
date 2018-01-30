@@ -14,6 +14,8 @@ Ticktick comes with nine predefined lists: Inbox, All, Today, Next 7 Days, Assig
 
 You can show or hide any list using this procedure, except for the Inbox List. The Inbox List cannot be hidden.
 
-![](../newest pics/android/3.2/3.2.1.png)
+
+
+![](../tick-android/3.2/3.2.1.png)
 
 

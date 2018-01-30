@@ -10,8 +10,11 @@ Sliding a task left or right causes four actions to occur. Each action has its o
 
 * To set priority for a task, swipe the task to the right, and release when orange appears.
 * 
-![](../newest pics/android/3.3/3.3.10.1.png)
-![](../newest pics/android/3.3/3.3.10.2.png)
-![](../newest pics/android/3.3/3.3.10.3.png)
-![](../newest pics/android/3.3/3.3.10.4.png)
 
+![](../tick-android/3.3/3.3.10.1.png)
+
+![](../tick-android/3.3/3.3.10.2.png)
+
+![](../tick-android/3.3/3.3.10.3.png)
+
+![](../tick-android/3.3/3.3.10.4.png)

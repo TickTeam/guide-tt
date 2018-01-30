@@ -4,4 +4,6 @@
 
 2. Tap on the magnifying glass icon, then type in your search term and any matching tasks will appear below.
 
-![](../newest pics/android/3.3/3.3.14.png)
+
+
+![](../tick-android/3.3/3.3.14.png)

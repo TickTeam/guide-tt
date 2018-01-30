@@ -8,4 +8,5 @@
 
 4. Choose the means by which you will send the task (for example, email, Google+, Twitter, Facebook Messenger, etc.).
 
-![](newest pics/android/3.3/3.3.13.png)
+
+![](tick-android/3.3/3.3.13.png)

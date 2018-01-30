@@ -8,4 +8,6 @@
 
 
 
-![](../newest pics/android/3.1/3.1.5.png)
+
+
+![](../tick-android/3.1/3.1.5.png)

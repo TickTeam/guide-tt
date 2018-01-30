@@ -10,4 +10,4 @@
 
 
 
-![](newest pics/android/3.2/3.2.5.png)
+![](tick-android/3.2/3.2.5.png)

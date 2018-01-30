@@ -7,7 +7,7 @@ With TickTick, you have six different ways to add a new task, giving you the pow
 
 "Quick add" is enabled by default, you can create a task by typing at the bottom of the task page (or by tapping the microphone icon to use voice input - see Option 5 below). Choose a due date and time by tapping the calendar icon.
  
-![](../newest pics/android/3.3/3.3.1.1.png)
+![](../tick-android/3.3/3.3.1.1.png)
 
 ##### **Smart Date Parsing when adding tasks from Quick Add bar**
 
@@ -44,7 +44,8 @@ After "Remove Text in Tasks" is enabled, the highlighted date & time text will b
 
 3.Tap "Advanced Settings", then select "Quick Add" to deactivate it. Now a circular button with the "+" character in its center will appear in the lower-right corner in task view. Click on the button to add a new task.
 
-![](../newest pics/android/3.3/3.3.1.5.png)
+
+![](../tick-android/3.3/3.3.1.5.png)
 
 <br />
 **Option 3: Add a task from "Status Bar".**
@@ -66,7 +67,7 @@ Tasks in the "Completed" list are sorted by completion date. If you want to view
 
 **Option 5: Add a task by voice input.**
 
-Click the microphone button in the bottom-right corner, then tap and hold the "Hold to Talk" button to speak. If you state a date and time, TickTick will schedule your new task for that same date and time.
+Long press the "+" button in the bottom-right corner, then hold to speak. If you state a date and time, TickTick will schedule your new task for that same date and time.
 
 ![](../newest pics/android/3.3/3.3.1.7.png)
 

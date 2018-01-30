@@ -6,4 +6,6 @@
 
 3. You can change your avatar, name, email address, and password here.
 
-![](../newest pics/android/3.1/3.1.6.png)
+
+
+![](../tick-android/3.1/3.1.6.png)

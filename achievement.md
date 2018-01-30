@@ -1,12 +1,12 @@
 ##Achievement and Statistics
 
-The new "Achievement and Statistics" function in TickTick offers a much better user experience when it comes to learn the variation of your own work efficiency, and thus to improve it in a easier way. 
+The new “Achievement and Statistics” function in TickTick offers a much better user experience when it comes to learn the variation of your own work efficiency, and thus to improve it in a easier way. 
 
 
 
 ###My Achievement Scores
 
-Your achievement scores are directly related to the numbers of your completed task and overdue tasks. It will reflect a simple and rational result on your past efficiency, then encourage you to make proper change for the future. The more tasks you completed on time, the higher achievement scores you will receive. And the scores could be decreased as well when delay occurs. Moreover, anything that's not directly associated with accomplishing the tasks will not affect the scores. With the growth of your achievement scores, your level in TickTick will also be boosted up and you will be awarded when reaching certain levels. 
+Your achievement scores are directly related to the numbers of your completed task and overdue tasks. It will reflect a simple and rational result on your past efficiency, then encourage you to make proper change for the future. The more tasks you completed on time, the higher achievement scores you will receive. And the scores could be decreased as well when delay occurs. Moreover, anything that’s not directly associated with accomplishing the tasks will not affect the scores. With the growth of your achievement scores, your level in TickTick will also be boosted up and you will be awarded when reaching certain levels. 
 
 
 |  Scores | Levels |
@@ -37,7 +37,7 @@ Your achievement scores are directly related to the numbers of your completed ta
 <br />
 **Tips**: Always completing tasks on time or gaining pomodoros with longer total duration will boost your achievement scores faster. 
 
-In a shared list, we decide to exclude the performance of other members to avoid scores being affect incorrectly. So that you will not be punished if a member in your group has delayed his/her tasks. Also, other members' positive actions will not be contribute to yours.
+In a shared list, we decide to exclude the performance of other members to avoid scores being affect incorrectly. So that you will not be punished if a member in your group has delayed his/her tasks. Also, other members’ positive actions will not be contribute to yours.
 
 <br />
 
@@ -48,15 +48,15 @@ TickTick wants to help you to gain a more accurate result when doing weekly revi
 
 **How It Works：**
 
-The task numbers that you've accomplished / total task numbers you scheduled for this week = This week's completion rate
+The task numbers that you’ve accomplished / total task numbers you scheduled for this week = This week’s completion rate
 
 <br />
 
 ####**Other Statistics:**
 
-Other than your achievement and completion rate, you may discover more of your performance with "Best Working Day" function and "Recent Completed Tasks" function.
+Other than your achievement and completion rate, you may discover more of your performance with “Best Working Day” function and “Recent Completed Tasks” function.
 
-If enabled the pomodoro function, you can use the "Most Focused Hours" function to find out your best concentrated hours during the day and start to arrange this particular period for your most important tasks. Also, with the "Recent Pomodoros" function to view your recent performance of concentration. 
+If enabled the pomodoro function, you can use the “Most Focused Hours” function to find out your best concentrated hours during the day and start to arrange this particular period for your most important tasks. Also, with the “Recent Pomodoros” function to view your recent performance of concentration. 
 
 Moreover, premium users will have the ability to look back on the statistics data of the past six weeks (or months) and encourage yourself to achieve more goals in the future .
 

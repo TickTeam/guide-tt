@@ -18,3 +18,4 @@ Tip 2: If you click a date on the Mini Calendar, tasks on that day will be displ
 Tip 3: You can click a date and create tasks for that day directly.
 
 Tip 4. To display or hide the Mini Calendar, click the small button on the top center of the Mini Calendar.
+

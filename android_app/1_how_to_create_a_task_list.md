@@ -7,4 +7,6 @@
 3. Enter a name for your list, then choose a color. This menu also lets you assign the new list to an existing folder or create a new folder in which to store it.
 
 
-![](../newest pics/android/3.2/3.2.3.png)
+
+
+![](../tick-android/3.2/3.2.3.png)
