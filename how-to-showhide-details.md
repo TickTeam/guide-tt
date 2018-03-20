@@ -2,7 +2,11 @@
 
 You can choose to show/hide details in any List view, even in a Tag view too.
 
-Click into a list -&gt; Tap "..." icon at the top right hand -&gt; select to show/hide details
+1. Click into a list. 
+
+2. Tap "..." icon at the top right hand. 
+
+3. Select to show/hide details.
 
 By allowing to show details, the following information of each task will be shown :
 
@@ -26,8 +30,7 @@ By allowing to show details, the following information of each task will be show
 **    
 **
 
-**    
-**
 
 **Note: This feature is not available on the web.**
 
+![](ios/4.2/4.2.8.png)

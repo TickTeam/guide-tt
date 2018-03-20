@@ -13,5 +13,5 @@ Normal mode: set time duration within one day
 Advanced mode: custom both start time and end time \(no limitation\)
 
   
-
+![](../newest pics/android/3.3/3.3.18.png)
 

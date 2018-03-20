@@ -3,7 +3,7 @@
 ###**What can I find here?**
 
 
-Hi, welcome to TicKTick!
+Hi, welcome to TickTick!
 
 
 ![](newest pics/画板 1 副本 7.png)

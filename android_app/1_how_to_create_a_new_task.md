@@ -7,8 +7,7 @@ With TickTick, you have six different ways to add a new task, giving you the pow
 
 "Quick add" is enabled by default, you can create a task by typing at the bottom of the task page (or by tapping the microphone icon to use voice input - see Option 5 below). Choose a due date and time by tapping the calendar icon.
  
-![](addtask11.png)
-
+![](../tick-android/3.3/3.3.1.1.png)
 
 ##### **Smart Date Parsing when adding tasks from Quick Add bar**
 
@@ -17,11 +16,11 @@ If you type or say the date and time information for your task when using the Qu
 
 For example, if you want to go to library on next Saturday at 2 pm, you just need to type: "Go to library next Saturday 2 pm", then TickTick will automatically recognize the date of next Saturday as the task's due date and set 2 pm as its reminder.
 
-![](smartdate12.jpg)
+![](../newest pics/android/3.3/3.3.1.2.png)
 
 You can also select a list to add your new task to when using the Quick Add Bar. Tap the icon marked "Inbox" above the Quick Add Bar and select a list from the choices given or create a new list.  
 
-![](quickaddlist121.jpg)
+![](../newest pics/android/3.3/3.3.1.3.png)
 
 
 **Note**: Can't see quick add bar, only a "+" icon?
@@ -34,7 +33,7 @@ If you prefer date and time not showing in your task content after your task is 
 
 After "Remove Text in Tasks" is enabled, the highlighted date & time text will be removed from the text of your task.
 
-![](removetext.png)
+![](../newest pics/android/3.3/3.3.1.4.png)
 
 
 **Option 2: Click "+" to add a task**
@@ -46,7 +45,7 @@ After "Remove Text in Tasks" is enabled, the highlighted date & time text will b
 3.Tap "Advanced Settings", then select "Quick Add" to deactivate it. Now a circular button with the "+" character in its center will appear in the lower-right corner in task view. Click on the button to add a new task.
 
 
-![](+back.jpg)
+![](../tick-android/3.3/3.3.1.5.png)
 
 <br />
 **Option 3: Add a task from "Status Bar".**
@@ -68,9 +67,9 @@ Tasks in the "Completed" list are sorted by completion date. If you want to view
 
 **Option 5: Add a task by voice input.**
 
-Click the microphone button in the bottom-right corner, then tap and hold the "Hold to Talk" button to speak. If you state a date and time, TickTick will schedule your new task for that same date and time.
+Long press the "+" button in the bottom-right corner, then hold to speak. If you state a date and time, TickTick will schedule your new task for that same date and time.
 
-![](voiceinput.png)
+![](../newest pics/android/3.3/3.3.1.7.png)
 
 
 **Option 6: Add a task by "note to self" voice command with Google Now.**

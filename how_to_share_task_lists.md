@@ -4,7 +4,7 @@ With a shared list, it is easy to check a shopping list with your family members
 
 ### Option 1: Share via Email
 
-1. Open TickTick on your iOS device and slide the screen to the right.
+1. Open TickTick on your iOS device and slide the screen to the right at the Task tab.
 
 2. Tap on a list you want to share, then tap the option menu in the upper-right corner, then tap "Share".
 
@@ -12,11 +12,11 @@ With a shared list, it is easy to check a shopping list with your family members
 
 4. Enter your contact's email address, then tap "Done".
 
-![](shareEmail.jpg)
+![](ios/4.2/4.2.6.1.png)
 
 ### Option 2: Share via link
 
-1. Open TickTick on your iOS device and slide the screen to the right.
+1. Open TickTick on your iOS device and slide the screen to the right at the Task tab.
 
 2. Tap on a list you want to share, then tap the option menu in the upper-right corner, then tap "Share".
 
@@ -28,5 +28,5 @@ With a shared list, it is easy to check a shopping list with your family members
 
 If your invitees follow the link, TickTick will send a notification to you asking whether you want to share the list with them. If you agree, the list will be shared and copied to their TickTick accounts automatically.
 
-![](sharelink.jpg)
+![](ios/4.2/4.2.6.2.png)
 

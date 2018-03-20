@@ -10,5 +10,6 @@ If a TickTick user shares a list with you, you will receive an invitation to joi
 
 If you accept a list, it will be added to your collection of lists in the sidebar menu.
 
-![](c.acceptshare12.jpg)
 
+
+![](../tick-android/3.2/3.2.7.png)

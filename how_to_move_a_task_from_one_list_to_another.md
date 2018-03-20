@@ -8,7 +8,7 @@
 
 3. Tap a list you want the task to be moved into.
 
-![](movetask15.jpg)
+![](ios/4.3/4.3.16.1.png)
 
 ##### Option 2\(Quick action swipe\):
 
@@ -16,5 +16,5 @@
 
 2. Tap on a list you want to move the task into.
 
-Note that the red and blue quick action swipe features are discussed in section 4.3.9.![](movetask345.jpg)
-
+Note that the red and blue quick action swipe features are discussed in section 4.3.9.!
+![](ios/4.3/4.3.16.2.png)

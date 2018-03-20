@@ -9,3 +9,4 @@ To create separate reminder for each subtask is an additional feature that avail
 4. Select another subtask and repeat step 3 to create another reminder
 
 
+![](../ios/4.3/4.3.17.png)

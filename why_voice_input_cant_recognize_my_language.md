@@ -2,11 +2,10 @@
 
 If this issue happens, you should first check the advanced settings to see which voice typing language TickTick is currently using.
 
-1. Open TickTick on your iOS device and slide the screen to the right.
+1. Go to Settings page from the tab bar.
 
-2. Tap the gear-shaped icon in the upper-right corner.
+2. Tap "Advanced Settings". 
 
-3. Tap "Advanced Settings", tap "Voice Input".
+3. Tap "Voice Input", then select a voice typing language.
 
-4. Select a voice typing language.
-
+![](ios/4.1/4.1.13.png)

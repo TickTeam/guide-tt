@@ -2,3 +2,4 @@
 
 Sign up with your Gmail, Facebook account, or any valid email address of yours. You can try TickTick without signing in by tapping the "Try" button. Please note that the trial version does not sync tasks because syncing requires you to first sign in.
 
+![](../newest pics/ios/4.1/4.1.2.png)

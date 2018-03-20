@@ -6,3 +6,4 @@ Please note that if you sign out of your account, you need to sign in again the 
 
 2. Tap the button in the upper-right corner \(with the three vertical dots\), and then tap "Sign Out".
 
+![](../tick-android/3.1/3.1.3.png)

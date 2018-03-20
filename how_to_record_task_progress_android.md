@@ -7,3 +7,4 @@
 
 Note, if the task contains a checklist, progress will be automatically recorded based on the percentage of items marked completed. For example, a checklist with 2 items unchecked and 1 item checked off as completed will show 33% progress.
 
+![](newest pics/android/3.3/3.3.3.png)
