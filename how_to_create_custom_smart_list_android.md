@@ -2,8 +2,10 @@
 
 1. Open TickTick on your Android device
 
-2. Tap "Manage List" at the bottom of the leftside list menu.
+2. Tap "Manage Lists & Tags" at the bottom of the leftside list menu.
 
-3. Tap "Smart List" in the upper-right corner.
+3. Tap "Smart Lists" in the upper-right corner.
 
-4. Tap "Add Smart List"
+4. Tap "Add Smart Lists"
+
+![](newest pics/android/3.2/Slice 2.png)

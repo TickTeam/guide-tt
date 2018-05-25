@@ -1,8 +1,11 @@
 ### How to edit lists and folders?
 
-1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
+1. Open TickTick on your Android device, then scroll down the left side bar and find "Manage Lists & Tags".
 
-2. Tap "List" in the upper-left corner or slide the screen to the right.
+2. Tap "Manage Lists", then find the list/folder you want to edit and tap into it. 
 
-3. Tap on the list or folder you want to edit.
+3. Make changes, then tap the TickTick icon at the top left to save and go back.
 
+
+
+![](../newest pics/android/3.2/Screenshot_20180524-144519.png)

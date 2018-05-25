@@ -7,4 +7,4 @@
 3. Enter a list name and choose a color for your new list.
 
 
-![](../newest pics/web/2.5/2.5.1.png)
+![](../newest pics/web/2.5/aaaaa.png)

@@ -1,16 +1,13 @@
 ### How to show/hide Smart Lists ?
 
-There are 7 default lists in TickTick: All, Today, Next 7 Days, Assigned to me, Calendar, Tags, Completed. Some of them are hidden by default, and you can enable them by the following steps:
+There are 7 default lists in TickTick: All, Today, Tomorrow, Next 7 Days, Assigned to me, Events, Completed. Some of them are hidden by default, and you can enable them by the following steps:
 
 Take "Completed" as an example:
 
-1. Open TickTick on your iOS device and slide the screen to the right.
+1. Go to Settings page from the tab bar.
 
-2. Click the gear-shaped icon in the upper right corner.
+2. Tap "Smart Lists & Tags".
 
-3. Tap "Smart List".
+4. Choose between "show"/"Hidden"/"Auto".
 
-4. Enable "Completed"\(choose "show"\).
-
-![](smartlist.png)
-
+![](ios/4.2/ios 1.png)

@@ -22,7 +22,7 @@ TickTick is a simple and effective to-do list & task management app that helps y
 
 ![](themes.png)
 
-#### Discover more powerful features with TickTick!
+#### Discover more powerful features with TickTick! 
 
 ![](integration.png)
 

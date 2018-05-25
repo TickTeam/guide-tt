@@ -8,4 +8,4 @@
 
 By clicking "Import Backup", you can import backups generated from TickTick.
 
-![](newest pics/web/2.3/2.3.1.png)
+![](newest pics/web/2.3/Screen Shot 2018-05-25 at 2.42.44 PM.png)

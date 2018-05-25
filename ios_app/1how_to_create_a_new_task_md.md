@@ -6,19 +6,19 @@ TickTick gives you five different ways to create new tasks: The Add Button, Quic
 
 ##### Option 1: Add Button \(default method\)
 
-1. Open TickTick on your iOS device and slide the screen to the right.
+1. Open TickTick on your Android device and go to the Task tab.
 
-2. Tap on a list you want to share, then tap on the "+" symbol at the bottom of the list to add a new item.
+2. Tap on the "+" symbol at the bottom of the list to add a new task.
 
 ##### Option 2: Quick Add
 
-1. Open TickTick on your iOS device and slide the screen to the right.
+1. Open TickTick on your iOS device and slide the screen to the right at the Task tab.
 
 2. Tap the gear-shaped icon in the upper right corner, then tap "Advanced Settings".
 
 3. Tap the "Quick Add" toggle button. Quick Add lets you enter new tasks in a dedicated data entry bar appearing at the bottom of a list page. Quick Add also provides a microphone button to press if you prefer to enter your new task orally.
 
-![](c quickadd .png)
+![](../ios/4.3/4.3.1.2.png)
 
 ##### Use Smart Date Parsing when adding tasks from Quick Add bar
 
@@ -26,16 +26,15 @@ If you enter date and time information in the text of your new task, TickTick wi
 
 For example, if you want to go to library next Saturday at 2 p.m., you need only type: "Go to library next Saturday 2 pm". TickTick will automatically recognize the date of next Saturday as the task's due date and set 2 pm as the reminder time for that task.
 
-![](smartdate12.jpg)
-
+![](../ios/4.3/4.3.1.3.png)
 ##### Remove date & time info from task content when using Smart Date Parsing
 
 If you prefer that the date and time not appear in the text of your task content after you've created the task, you can set TickTick to remove it without affecting the scheduling of your task. Go to Settings, then tap "Advanced Settings", then tap "Smart Date Parsing", then tap "Remove Text in Tasks".
 
 After "Remove Text in Tasks" is enabled, the highlighted date & time text will no longer appear in the text of your task content after you create the task.
 
-![](smartdate3.png)
-
+bottom of pull-down screen.
+![](../ios/4.3/4.3.1.4.png)
 ##### Option 3: Pull-down Screen
 
 1. Pull down the screen.
@@ -54,7 +53,7 @@ You can say, for example, "Have lunch with Jack tomorrow at 1 pm". After saying 
 
 If TickTick can't recognize your language, check "Voice Input".
 
-![](c iOSvoiceinput2.png)
+![](../ios/4.3/4.3.1.5.png)
 
 ##### Option 5: Siri Integration
 
@@ -68,3 +67,4 @@ If TickTick can't recognize your language, check "Voice Input".
 
 After you enable Siri Integration, tasks you've created in Apple's Reminders app and tasks you've created with Siri will be removed from Apple's Reminders app and shown in TickTick's Inbox.
 
+![](../ios/4.3/4.3.1.6.png)

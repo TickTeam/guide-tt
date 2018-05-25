@@ -4,5 +4,5 @@ The "Completed" list contains all of your completed tasks. The "Completed" list 
 
 Tasks in the "Completed" list are sorted by completion date by default. You can view all completed tasks from within a specific list by clicking the funnel-shaped icon in the upper-right corner.
 
-![](../images/ioscompletedlist.png)
+![](../ios/4.3/4.3.7.png)
 

@@ -13,4 +13,4 @@ A Daily Alert is a daily reminder summarizing all your overdue and today's tasks
 
 
 If you set "Daily Alert Time" at 9:00 AM, you will receive a notification at 9:00 AM every day with a summary of all your overdue & today's tasks.
-![](../newest pics/web/2.1/2.1.5.png)
+![](../newest pics/web/2.1/Screen Shot 2018-05-25 at 2.40.29 PM.png)

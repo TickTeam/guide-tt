@@ -6,15 +6,16 @@ Ticktick comes with nine predefined lists: Inbox, All, Today, Next 7 Days, Assig
 
 1. Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
 
-2. Tap "Manage List" at the bottom of the list menu.
+2. Tap "Manage Lists & Tags" at the bottom of the list menu.
 
-3. Tap "Smart List" in the upper-right corner.
+3. Tap "Smart Lists" in the upper-right corner.
 
 4. Tap "Completed", then tap "Show".
 
 You can show or hide any list using this procedure, except for the Inbox List. The Inbox List cannot be hidden.
 
-![](smartlist1.png)
 
+
+![](../newest pics/android/3.2/Slice 1.png)
 
 

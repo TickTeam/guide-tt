@@ -1,4 +1,4 @@
-### How to create reminder for subtask？
+### How to create reminder for subtask?
 
 To create separate reminder for each subtask is an additional feature that available to TickTick Premium users only.
 

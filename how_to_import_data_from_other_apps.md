@@ -6,7 +6,7 @@
 
 3. Click "Backup" in the left panel.
 
-TickTick allows you to import tasks from other to-do apps, including Wunderlist, Omnifocus, Astrid, Toodledo, Springpad, and iCal.
+TickTick allows you to import tasks from other to-do apps, including Todoist, Wunderlist, Omnifocus, Toodledo and iCal.
 
 
-![](newest pics/web/2.3/2.3.2.png)
+![](newest pics/web/2.3/Screen Shot 2018-05-25 at 2.43.54 PM.png)

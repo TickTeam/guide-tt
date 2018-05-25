@@ -3,12 +3,13 @@
 With TickTick, you have six different ways to add a new task, giving you the power to choose a method that works best for you.
 
 
-**Option 1: Add a task to the Quick Add Bar with a due date.**
+**Option 1: Add a task from the Quick Add bar**
 
-"Quick add" is enabled by default, you can create a task by typing at the bottom of the task page (or by tapping the microphone icon to use voice input - see Option 5 below). Choose a due date and time by tapping the calendar icon.
- 
-![](addtask11.png)
+1. Open TickTick on your Android device and go to the Task tab.
 
+2. Tap on the "+" symbol at the bottom of the list to add a new task.
+
+![](../newest pics/android/3.3/and1.png)
 
 ##### **Smart Date Parsing when adding tasks from Quick Add bar**
 
@@ -17,12 +18,11 @@ If you type or say the date and time information for your task when using the Qu
 
 For example, if you want to go to library on next Saturday at 2 pm, you just need to type: "Go to library next Saturday 2 pm", then TickTick will automatically recognize the date of next Saturday as the task's due date and set 2 pm as its reminder.
 
-![](smartdate12.jpg)
+![](../newest pics/android/3.3/and2.png)
 
 You can also select a list to add your new task to when using the Quick Add Bar. Tap the icon marked "Inbox" above the Quick Add Bar and select a list from the choices given or create a new list.  
 
-![](quickaddlist121.jpg)
-
+![](../newest pics/android/3.3/and3.png)
 
 **Note**: Can't see quick add bar, only a "+" icon?
 
@@ -34,22 +34,13 @@ If you prefer date and time not showing in your task content after your task is 
 
 After "Remove Text in Tasks" is enabled, the highlighted date & time text will be removed from the text of your task.
 
-![](removetext.png)
+![](../newest pics/android/3.3/3.3.1.4.png)
 
 
-**Option 2: Click "+" to add a task**
 
-1.Open TickTick on your Android device, then either swipe to the right or tap the hamburger button in the upper-left corner.
-
-2.Tap the gear-shaped icon in the upper-right corner.
-
-3.Tap "Advanced Settings", then select "Quick Add" to deactivate it. Now a circular button with the "+" character in its center will appear in the lower-right corner in task view. Click on the button to add a new task.
-
-
-![](+back.jpg)
 
 <br />
-**Option 3: Add a task from "Status Bar".**
+**Option 2: Add a task from "Status Bar".**
 
 The Status Bar is a persistent notification bar that appears in your phone's main dropdown menu. You can add a new task directly to TickTick this way. To enable "Status Bar", You should:
 
@@ -61,19 +52,19 @@ The Status Bar is a persistent notification bar that appears in your phone's mai
 
 The Status Bar is in the pull-down menu of your phone. Click "+" on the Status Bar to add a task without having to open the Ticktick app.
 
-**Option 4: Add a task from widget (turn to 3.6.4 for details).**
+**Option 3: Add a task from widget (turn to 3.6.4 for details).**
 
 Tasks in the "Completed" list are sorted by completion date. If you want to view completed tasks in a specific list, you can tap the funnel-shaped icon in the upper-right corner to select a list. Dates at left are completion dates while dates at right are due dates.
 
 
-**Option 5: Add a task by voice input.**
+**Option 4: Add a task by voice input.**
 
-Click the microphone button in the bottom-right corner, then tap and hold the "Hold to Talk" button to speak. If you state a date and time, TickTick will schedule your new task for that same date and time.
+Long press the "+" button in the bottom-right corner, then hold to speak. If you state a date and time, TickTick will schedule your new task for that same date and time.
 
-![](voiceinput.png)
+![](../newest pics/android/3.3/3.3.1.7.png)
 
 
-**Option 6: Add a task by "note to self" voice command with Google Now.**
+**Option 5: Add a task by "note to self" voice command with Google Now.**
 
 1. Make sure the Google Now app is loaded on your smartphone or tablet.
 

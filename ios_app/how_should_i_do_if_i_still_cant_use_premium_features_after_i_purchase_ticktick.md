@@ -12,3 +12,4 @@ Upon completion of your payment, normally you can enjoy premium features. But if
 
 **If the problem isn't solved, please contact us via email: support@ticktick.com**
 
+![](../ios/4.1/4.1.7.png)

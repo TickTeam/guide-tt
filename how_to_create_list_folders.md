@@ -2,7 +2,7 @@
 
 With Folders, organizing your lists is as simple as drag-and-drop.
 
-1.Open TickTick on your iOS device. +
+1. Open TickTick and go to the Task tab.
 
 2.Drag a list on top of another that you’d like to include in the same folder.
 
@@ -10,5 +10,4 @@ With Folders, organizing your lists is as simple as drag-and-drop.
 
 4.Drop the selected list, and then you can enter a name for the folder.
 
-![](folder.jpg)
-
+![](ios/4.2/4.2.4.png)

@@ -1,8 +1,8 @@
-### How to change themes in TickTick？
+### How to change themes in TickTick?
 
-1. Open TickTick on your iOS device and slide the screen to the right.
+1. Go to Settings page from the tab bar.
 
-2. Tap the gear-shaped icon in the upper-right corner.
+2. Tap "Theme", then make your selection.
 
-3. Tap "Theme", then select a color or landscape scene.
 
+![](ios/4.1/4.1.9.png)

@@ -6,5 +6,4 @@
 
 Note that tasks in Closed lists are not displayed in the search results.
 
-![](searchicon.png)
-
+![](../ios/4.3/4.3.15.png)

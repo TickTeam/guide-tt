@@ -3,7 +3,7 @@
 ###**What can I find here?**
 
 
-Hi, welcome to TicKTick!
+Hi, welcome to TickTick!
 
 
 ![](newest pics/画板 1 副本 7.png)
@@ -21,7 +21,7 @@ This guide is divided into six chapters to help you understand the features of T
 |Chapter 8| Smart Date Parsing  |
   
 
-Feel free to contact us if you have any further questions that are not mentioned here. You may also create a discussion thread at TickTick [Help Center](https://help.ticktick.com/forum) or email us directly [support@ticktick.com](mailto:support@ticktick.com).
+Feel free to contact us if you have any further questions that are not mentioned here. You may also create a discussion thread at TickTick [Help Center](https://help.ticktick.com/forum) or email us directly at [support@ticktick.com](mailto:support@ticktick.com).
 
 <br />
 

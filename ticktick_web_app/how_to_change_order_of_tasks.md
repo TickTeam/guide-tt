@@ -8,5 +8,5 @@
 
 Tasks in "Today" and "Next 7 Days" can't be sorted automatically. Instead you can drag and drop tasks to change their order.
 
-![](../newest pics/web/2.6/2.6.18.png)
+![](../newest pics/web/2.6/Screen Shot 2018-05-25 at 2.51.40 PM.png)
 

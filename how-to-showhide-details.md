@@ -2,32 +2,37 @@
 
 You can choose to show/hide details in any List view, even in a Tag view too.
 
-Click into a list -&gt; Tap "..." icon at the top right hand -&gt; select to show/hide details
+1. Click into a list. 
+
+2. Tap "..." icon at the top right hand. 
+
+3. Select to show/hide details.
 
 By allowing to show details, the following information of each task will be shown :
 
-* Due date, if the task has
+* -Due date, if the task has
 
-* A alert icon, if the task has a reminder
+* -Tags, if the task has any
 
-* A repeat icon, if the task is set to be repeated
+* -A alert icon, if the task has a reminder
 
-* An attachment icon, if the task has attachment
+* -A repeat icon, if the task is set to be repeated
 
-* Its parent list
+* -An attachment icon, if the task has attachment
 
-* Progress Pie chart indicates the progress of subtasks underneath this task \(not shown if none of the subtasks has been done yet\)
+* -Its parent list
 
-* the FIRST subtask ONLY.
+* -Progress Pie chart indicates the progress of subtasks underneath this task \(not shown if none of the subtasks has been done yet\)
+
+* -the FIRST subtask ONLY.
+
+**    
+**
 
 **    
 **
 
-**    
-**
-
-**    
-**
 
 **Note: This feature is not available on the web.**
 
+![](ios/4.2/4.2.8.png)

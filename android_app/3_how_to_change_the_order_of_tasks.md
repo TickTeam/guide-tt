@@ -4,15 +4,12 @@
 
 2. Tap the list you wish to sort, then tap the option menu in the upper-right corner.
 
-3. Tap "Sort" and choose a sorting filter. All lists can be sorted by the due date, title, and priority of tasks inside the list. Tasks in the "All", "Today", and "Next 7 Days" lists can also be sorted by list name.![](sort12.jpg)
+3. Tap "Sort" and choose a sorting filter. All lists can be sorted by the due date, title, and priority of tasks inside the list. Tasks in the "All", "Today", and "Next 7 Days" lists can also be sorted by list name.
 
-![](sort12.jpg)
 
-![](sort12.jpg)
+![](../newest pics/android/3.3/Slice 5.png)
 
-![](sort12.jpg)
-
-#### D**rag tasks to change their order:**
+#### Drag tasks to change their order:
 
 1. Sort tasks by "Custom". \(This is the default sorting filter.\)
 
