@@ -1,0 +1,30 @@
+{
+    "gitbook": ">=2.0.0",
+    "title": "TickTick User Guide",
+    "description": "TickTick is a cross-platform to-do list app & task manager, helping you to get all things done and make life well organized.",
+    "language": "en",
+    "styles": {
+        "website": "rewrite/rewrite.css"
+    },
+    "plugins": [
+        "style-rewrite"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        }
+    },
+    "links": {
+        "sidebar": {
+            "Return to homepage": "https://ticktick.com"
+        },
+        "sharing": {
+            "google": null,
+            "facebook": null,
+            "twitter": null,
+            "weibo": null,
+            "all": null
+        }
+        
+    }
+}
