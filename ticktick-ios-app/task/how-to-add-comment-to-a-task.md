@@ -1,20 +1,16 @@
 ### How to add comment to a task?
 
-1. Select a task that you would like to comment on.
+1. Tap the "..." button at the top right corner in a task detail view.
 
-2. Tap the option menu in the upper-right corner, then tap "Comment".
+2.  Select "Comment".
 
-If it is a shared task, all recipients can view and leave comment to this task.
+If it is a shared task, all members can view and leave comments to this task.
 
-![](../../../images/ticktick-ios-app/task/4.3.11.1.png)
+![ioscomment1](../../images/ticktick-ios-app/task/comment.jpg)
 
 <br />
 
-"Comment" is always used to add extra remarks to a task. Within a shared list, all shared members can comment on any tasks to realize real chat & communication. If you want to reply to someone's comment in a shared list, you can enter "@" to bring up a list of members who share the list, or tap a member's icon to reply to that person directly.
+Note: Use @ to mention someone in a shared list, he/she will then receive a notification in TickTick.
 
-![](../../../images/ticktick-ios-app/task/4.3.11.2.png)
 
-The member you reply to will immediately receive a notification of your reply in TickTick.
-
-![](../../../images/ticktick-ios-app/task/4.3.11.3.png)
 

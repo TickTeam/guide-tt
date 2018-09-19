@@ -1,26 +1,17 @@
-### How to create a Custom Smart List? (Premium)
+### How to create a Custom Smart List?
 
-1. Go to Settings page from the tab bar.
+1. Go to Settings from the tab bar.
 
 2. Tap "Smart List".
 
 3. Tap "Add Smart List" at the bottom of the screen, then tap "Advanced" to add a custom Smart List.
 
-![](../../../images/ticktick-ios-app/list/ios2.png)
+![ioscsl1](../../images/ticktick-ios-app/List/createcsl.jpg)
 
 You can sort items by List, Tag, Date, Priority, Assignee. These Filters shall be flexible enough to help you create your own Smart List.
 
-If you need to focus on only items you marked with high priority in TickTick, just choose "High priority", "Today", and "Tomorrow" in the Smart List filters menu to create a custom smart list which you can name "High Priority" or some similar name. ![](../../../images/ticktick-ios-app/list/4.2.2.2.png)
+If you want to focus on high-priority & urgent tasks only, try choosing "High priority", "Today", and "Tomorrow" as the filters and create a custom smart list. 
 
-### Delete a Custom Smart List:
 
-1. Go to Settings page from the tab bar.
 
-2. Tap "Smart Lists & Tags".
-
-3. Select the Custom Smart List you want to delete.
-
-4. Tap "Delete Smart List" at the bottom of the screen.
-
-![](../../../images/ticktick-ios-app/list/4.2.2.3.png)
 

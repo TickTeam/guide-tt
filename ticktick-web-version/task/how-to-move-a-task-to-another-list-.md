@@ -8,11 +8,11 @@
 
 3. Choose the list you want your task to be added to.
 
-![](../../../images/ticktick-web-version/task/2.6.16.1.png)
+![](../../images/ticktick-web-version/task/2.6.16.1.png)
 
 **Option 2**
 
 Click on a task, drag it to the sidebar, and drop the task on top of the list you want it added to.
 
-![](../../../images/ticktick-web-version/task/2.6.16.2.png)
+![](../../images/ticktick-web-version/task/2.6.16.2.png)
 

@@ -1,7 +1,10 @@
 ### How to check task activities?
 
-1. Tap into a task detail view.
-2. Scroll up the page and check the task activities.
+Free: Scroll up the page in a task detail view.
 
-![](../../../images/ticktick-ios-app/task/IMG_8452.PNG)
+![iostaskactivities1](../../images/ticktick-ios-app/task/taskactivities1.jpg)
+
+Premium: tap the "..." button at the top right corner in a task detail view, then select "Activities".
+
+![iostaskactivities2](../../images/ticktick-ios-app/task/taskactivities2.jpg)
 

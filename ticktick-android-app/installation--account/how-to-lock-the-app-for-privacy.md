@@ -8,5 +8,5 @@ To enhance the privacy of your data in TickTick, use the Lock feature.
 
 3. Trace an unlock pattern twice to set a pattern lock for TickTick.
 
-![andnewsecurity](../../../images/ticktick-android-app/installation--account/andimport.jpg)
+![andnewsecurity](../../images/ticktick-android-app/installation--account/andimport.jpg)
 

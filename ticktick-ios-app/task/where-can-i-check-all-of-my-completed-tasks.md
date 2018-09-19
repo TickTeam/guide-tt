@@ -1,8 +1,8 @@
 ### Where can I check all of my completed tasks?
 
-The "Completed" list contains all of your completed tasks. The "Completed" list is hidden by default.
+The "Completed" list contains all of your completed tasks. But it's hidden by default.
 
-Tasks in the "Completed" list are sorted by completion date by default. You can view all completed tasks from within a specific list by clicking the funnel-shaped icon in the upper-right corner.
+If needed, go to Settings - Smart Lists & Tags - select "Show" for "Completed". You will then be able to see the list appear on the left sidebar.
 
-![](../../../images/ticktick-ios-app/task/4.3.7.png)
+![ioscompletedlist](../../images/ticktick-ios-app/task/viewcompletedlist.jpg)
 

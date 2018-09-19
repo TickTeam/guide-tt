@@ -1,32 +1,12 @@
-### How to share task lists?
+### How to share a list?
+1. Select a list that you'd like to share with others and tap the "..." button at the top right corner.
 
-With a shared list, it is easy to check a shopping list with your family members or discuss a meeting agenda with your colleagues.
+2. Select "Collaborate", then tap "Invite Member".
 
-### Option 1: Share via Email
+3. You can choose to share via email or link.
 
-1. Open TickTick on your iOS device and slide the screen to the right at the Task tab.
+![iossharelist](../../images/ticktick-ios-app/List/sharelist.jpg)
 
-2. Tap on a list you want to share, then tap the option menu in the upper-right corner, then tap "Share".
 
-3. Tap "Invite Member".
 
-4. Enter your contact's email address, then tap "Done".
-
-![](../../../images/ticktick-ios-app/list/4.2.6.1.png)
-
-### Option 2: Share via link
-
-1. Open TickTick on your iOS device and slide the screen to the right at the Task tab.
-
-2. Tap on a list you want to share, then tap the option menu in the upper-right corner, then tap "Share".
-
-3. Tap "Invite Member".
-
-4. Tap "Link" beside "Contacts", then tap "Send the link".
-
-5. Select an app to share the link with others. Other options include "Assign to Contact", "Copy", and "Print".
-
-If your invitees follow the link, TickTick will send a notification to you asking whether you want to share the list with them. If you agree, the list will be shared and copied to their TickTick accounts automatically.
-
-![](../../../images/ticktick-ios-app/list/4.2.6.2.png)
 

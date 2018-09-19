@@ -1,11 +1,10 @@
 ### How to create reminder for subtask?
 
-To create separate reminder for each subtask is an additional feature that available to TickTick Premium users only
+To create separate reminders for each subtask is a premium feature.
 
-1. Open TickTick and select a task that contains subtasks
-2. Tap a subtask
-3. Click the "alarm" icon and create a reminder for this individual subtask
-4. Select another subtask and repeat step 3 to create another reminder
+1. Enter a task detail view and select a subtask.
+2. Tap the "alarm" icon and create a reminder for it.
+4. Select another subtask and create another reminder.
 
-![](../../../images/ticktick-ios-app/task/ios9.png)
+![iossubtaskreminder](../../images/ticktick-ios-app/task/subtaskreminder.jpg)
 

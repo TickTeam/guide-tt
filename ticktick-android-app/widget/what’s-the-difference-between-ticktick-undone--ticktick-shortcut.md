@@ -4,5 +4,5 @@ TickTick Undone 1x1 provides you with a count of the number of your overdue task
 
 **P.S.** Some android devices don't have TickTick Shortcut 1*1
 
-![](../../../images/ticktick-android-app/widget/3.6.5.png)
+![](../../images/ticktick-android-app/widget/3.6.5.png)
 

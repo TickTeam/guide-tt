@@ -10,5 +10,5 @@
 
 5. Enter your current password, then enter your new password.
 
-![](../../../images/ticktick-web-version/personal-profile/2.2.3.png)
+![](../../images/ticktick-web-version/personal-profile/2.2.3.png)
 

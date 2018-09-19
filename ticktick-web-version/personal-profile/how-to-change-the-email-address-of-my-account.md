@@ -8,5 +8,5 @@
 
 4. Click "Change Email" right next to your current email address and you will be prompted to enter a new email address.
 
-![](../../../images/ticktick-web-version/personal-profile/2.2.2.png)
+![](../../images/ticktick-web-version/personal-profile/2.2.2.png)
 

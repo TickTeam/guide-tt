@@ -8,7 +8,7 @@ With TickTick, you have six different ways to add a new task, giving you the pow
 
 2. Tap on the "+" symbol at the bottom of the list to add a new task.
 
-![](../../../images/ticktick-android-app/task/and1.png)
+![](../../images/ticktick-android-app/task/and1.png)
 
 ##### **Smart Date Parsing when adding tasks from Quick Add bar**
 
@@ -16,11 +16,11 @@ If you type or say the date and time information for your task when using the Qu
 
 For example, if you want to go to library on next Saturday at 2 pm, you just need to type: "Go to library next Saturday 2 pm", then TickTick will automatically recognize the date of next Saturday as the task's due date and set 2 pm as its reminder.
 
-![](../../../images/ticktick-android-app/task/and2.png)
+![](../../images/ticktick-android-app/task/and2.png)
 
 You can also select a list to add your new task to when using the Quick Add Bar. Tap the icon marked "Inbox" above the Quick Add Bar and select a list from the choices given or create a new list.
 
-![](../../../images/ticktick-android-app/task/and3.png)
+![](../../images/ticktick-android-app/task/and3.png)
 
 **Note**: Can't see quick add bar, only a "+" icon?
 
@@ -32,7 +32,7 @@ If you prefer date and time not showing in your task content after your task is 
 
 After "Remove Text in Tasks" is enabled, the highlighted date & time text will be removed from the text of your task.
 
-![](../../../images/ticktick-android-app/task/3.3.1.4.png)
+![](../../images/ticktick-android-app/task/3.3.1.4.png)
 
 <br /> **Option 2: Add a task from "Status Bar".**
 
@@ -54,7 +54,7 @@ Tasks in the "Completed" list are sorted by completion date. If you want to view
 
 Long press the "+" button in the bottom-right corner, then hold to speak. If you state a date and time, TickTick will schedule your new task for that same date and time.
 
-![](../../../images/ticktick-android-app/task/3.3.1.7.png)
+![](../../images/ticktick-android-app/task/3.3.1.7.png)
 
 **Option 5: Add a task by "note to self" voice command with Google Now.**
 

@@ -2,17 +2,13 @@
 
 Once you have a commonly used tag that’s associated with many tasks, edit the tag name or delete the tag and auto remove it from all tasks would be very useful. In TickTick, you can batch edit tags without going into each task.
 
-How: Find Tags on the left side bar - Left swipe on the tag name that you want to edit - Select the "Edit" icon.
+How: Find Tags on the left sidebar - Left swipe on the tag that you want to edit - Tap the "Edit" button. You can also delete a tag and auto remove this tag from all related tasks by tapping the "delete" button next to the "Edit" button.
 
-<br/>
+![ioseditag2](../../images/ticktick-ios-app/tags/edittag2.jpg)
 
-Moreover, you can delete a tag and auto remove this tag from all related tasks.
 
-How: Find Tags on the left side bar - Left swipe on the tag name that you want to edit - Select the "Delete" icon.
 
-![](../../../images/ticktick-ios-app/tags/IMG_2308.PNG)
+Antoher way is to do it at where you add these tags via Settings - Smart Lists & Tags - Tags, and manage your existing tags there.
 
-You can also go to the place where you add tags via Settings - Smart Lists & Tags - Tags, and manage your existing tags there.
-
-![](../../../images/ticktick-ios-app/tags/IMG_2310.PNG)
+![iosedittag1](../../images/ticktick-ios-app/tags/edittag1.jpg)
 

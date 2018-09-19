@@ -5,5 +5,5 @@
 3. Type the task name.
 4. Press Enter to save.
 
-![](../../../images/ticktick-web-version/task/2.6.1.png)
+![](../../images/ticktick-web-version/task/2.6.1.png)
 

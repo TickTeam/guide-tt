@@ -1,10 +1,8 @@
 ### Show Tags on the left side bar
 
-The settings page for tags locates at Smart Lists & Tags. You can find it in Settings.
+Tags can be shown on the left sidebar along with other smart lists. If you can't find Tags there, go to Settings - Smart Lists & Tags and select to "show".
 
-![](../../../images/ticktick-ios-app/tags/IMG_2513.PNG)
+![iosshowtag](../../images/ticktick-ios-app/tags/showtag.jpg)
 
-Tags can be shown on the left sidebar,along with other smart lists. If you can’t find Tags there, go to its Settings page, check if you’ve enabled to "Show" Tags.
 
-![](../../../images/ticktick-ios-app/tags/IMG_2315.PNG)
 

@@ -4,7 +4,7 @@
 
 2. Tap "Reminder", then tap "Reminder pop-ups".
 
-![](../../../images/ticktick-android-app/reminder/3.5.4.1.png)
+![](../../images/ticktick-android-app/reminder/3.5.4.1.png)
 
 <br />
 
@@ -12,5 +12,5 @@
 
 When getting a pop-up reminder, you can set custom snooze time. Tap snooze to select an existing snooze time, or tap "Custom" to set it by yourself, or even choose another date.
 
-![](../../../images/ticktick-android-app/reminder/3.5.4.2.png)
+![](../../images/ticktick-android-app/reminder/3.5.4.2.png)
 

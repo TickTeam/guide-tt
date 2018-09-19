@@ -7,5 +7,5 @@ To create separate reminder for each subtask is an additional feature that avail
 3. Click the "alarm" icon and create a reminder for this individual subtask
 4. Select another subtask and repeat step 3 to create another reminder
 
-![](../../../images/ticktick-android-app/task/Screenshot_20180524-164653.png)
+![](../../images/ticktick-android-app/task/Screenshot_20180524-164653.png)
 

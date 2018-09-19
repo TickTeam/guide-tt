@@ -1,6 +1,8 @@
 ### How to sign in?
 
-Sign up with your Gmail, Facebook account, or any valid email address of yours. You can try TickTick without signing in by tapping the "Try" button. Please note that the trial version does not sync tasks because syncing requires you to first sign in.
+Sign up with your email address/ Google account, or other third-party accounts.
 
-![ioshowtosignin](../../../images/ticktick-ios-app/installation--account/4.1.2.png)
+Note: Data can not be synced if using without signing in.
 
+
+![iossignin](../../images/ticktick-ios-app/installation & account/signin.png)

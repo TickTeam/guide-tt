@@ -8,7 +8,7 @@ Please note that the person you want to assign a task to must accept your invita
 
 3. Tap the option menu in the upper-right corner, then choose "Assign to".
 
-![](../../../images/ticktick-android-app/task/3.3.16.png) <br />
+![](../../images/ticktick-android-app/task/3.3.16.png) <br />
 
 If you want to view all the tasks that are assigned to you, you can enable the predefined list "Assigned to me".
 

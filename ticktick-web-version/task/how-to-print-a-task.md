@@ -7,5 +7,5 @@
 3. Select "Print".
 
 4. Set paper size, margins, etc. and print your task.
-   ![](../../../images/ticktick-web-version/task/2.6.10.png)
+   ![](../../images/ticktick-web-version/task/2.6.10.png)
 

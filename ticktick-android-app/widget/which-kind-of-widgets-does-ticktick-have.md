@@ -8,5 +8,5 @@ The following widgets are available: TickTick views in 2×2, 4×2, 4×3, and 4x4
 
 The interface of TickTick (week) widget is like Calendar View. The upper side of widget is a calendar in week view. Just tap a date, and tasks will be displayed in the lower side of the widget. You can tap left/right arrow to move to the last/next week, and tap the dot in the upper right hand corner of the widget to move back to this week.
 
-![](../../../images/ticktick-android-app/widget/3.6.2.png)
+![](../../images/ticktick-android-app/widget/3.6.2.png)
 

@@ -5,5 +5,5 @@ TickTick for Android gives you a choice of themes between various colors and oth
 1. Open TickTick on your Android device, then go to the Settings tab page.
 2. Tap "Theme" and select a theme.
 
-![](../../../images/ticktick-android-app/installation--account/3.1.9.png)
+![](../../images/ticktick-android-app/installation--account/3.1.9.png)
 

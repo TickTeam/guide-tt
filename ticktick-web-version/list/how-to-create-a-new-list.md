@@ -6,5 +6,5 @@
 
 3. Enter a list name and choose a color for your new list.
 
-![](../../../images/ticktick-web-version/list/aaaaa.png)
+![](../../images/ticktick-web-version/list/aaaaa.png)
 

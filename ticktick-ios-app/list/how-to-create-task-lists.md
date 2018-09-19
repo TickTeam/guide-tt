@@ -1,10 +1,8 @@
-### How to create task lists?
+### How to create a list?
 
-1. Open TickTick on your iOS device and slide the screen to the right at the Task tab.
+1. Tap "Add List" at the bottom of the left sidebar.
 
-2. Tap "Add List" at the bottom of the screen.
+2. Enter a name for your new list, select list color and other options if needed. Then tap "Done".
 
-3. Enter a name for your new list, then tap "Done".
-
-![](../../../images/ticktick-ios-app/list/ios3.png)
+![ioscreatelist](../../images/ticktick-ios-app/List/createlist.jpg)
 

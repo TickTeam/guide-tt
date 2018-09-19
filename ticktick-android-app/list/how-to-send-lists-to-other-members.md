@@ -8,5 +8,5 @@
 
 4. Choose from the assorted means for sending the task (for example, Google+, Twitter, Facebook Messenger, etc.).
 
-![](../../../images/ticktick-android-app/list/3.2.5.png)
+![](../../images/ticktick-android-app/list/3.2.5.png)
 

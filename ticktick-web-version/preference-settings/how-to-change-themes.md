@@ -6,5 +6,5 @@
 
 3. Click "Themes" in the left panel, then choose colors and themes in the right panel.
 
-![](../../../images/ticktick-web-version/preference-settings/2.1.1.png)
+![](../../images/ticktick-web-version/preference-settings/2.1.1.png)
 

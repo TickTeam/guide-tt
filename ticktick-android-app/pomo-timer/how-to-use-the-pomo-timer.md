@@ -5,19 +5,19 @@
 1. Go to the Pomo tab page.
 2. Tap "Start" once you are ready to begin focusing.
 
-![andnewomo2](../../../images/ticktick-android-app/pomo-timer/andnewpomo2.jpg)
+![andnewomo2](../../images/ticktick-android-app/pomo-timer/andnewpomo2.jpg)
 
 ##### From a task view:
 
 Click the three dots icon at the top right->Tap "Start A Pomo".
 
-![](../../../images/ticktick-android-app/pomo-timer/3.7.1.2.png)
+![](../../images/ticktick-android-app/pomo-timer/3.7.1.2.png)
 
 ##### From a task notification:
 
 When a notificaiton pops up in TickTick, you can tap the "START" icon and begin to focus rightaway.
 
-![](../../../images/ticktick-android-app/pomo-timer/3.7.1.3.png) <br />
+![](../../images/ticktick-android-app/pomo-timer/3.7.1.3.png) <br />
 
 #### How to custom my Pomo settings?
 
@@ -26,7 +26,7 @@ When a notificaiton pops up in TickTick, you can tap the "START" icon and begin 
 
 **Tips** :"Lights on" is a function that will allow the screen to remain bright during a Pomo once you turn it on.
 
-![](../../../images/ticktick-android-app/pomo-timer/3.7.1.4.png)
+![](../../images/ticktick-android-app/pomo-timer/3.7.1.4.png)
 
 #### Can I skip to break or pause a Pomo?
 

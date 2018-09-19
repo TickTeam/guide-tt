@@ -1,12 +1,10 @@
 ### How to set a location reminder?
 
-For Location reminder to work, Location Services needs to be enabled on your phone.
+In order for Location reminder to work, Location Services needs to be enabled in the system settings.
 
-1. Open TickTick on your iOS device and select a task that you want to set location reminder. for
+1. Enter a task detail view, tap the "..." button at the top right corner.
 
-2. Tap the option menu in the upper-right corner, then tap "Location".
+2. Select "Location". You can choose to be reminded of the location either when you arrive the destination or when you leave the location.
 
-3. A map will be automatically loaded into your task. You can choose to be reminded of the location either as you approach the destination or as you begin to leave your location en route to the destination.
-
-![](../../../images/ticktick-ios-app/reminder/4.4.4.png)
+![ioslocationreminder](../../images/ticktick-ios-app/reminder/locationreminder.jpg)
 

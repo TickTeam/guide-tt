@@ -6,5 +6,5 @@
 
 3. Click "Shortcuts" in the left panel.
 
-![](../../../images/ticktick-web-version/task/2.6.19.png)
+![](../../images/ticktick-web-version/task/2.6.19.png)
 

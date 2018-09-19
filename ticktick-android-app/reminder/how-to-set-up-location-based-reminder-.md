@@ -8,5 +8,5 @@
 
 Your phone's location services (GPS) must be active for location-based reminders to function.
 
-![](../../../images/ticktick-android-app/reminder/3.5.2.png)
+![](../../images/ticktick-android-app/reminder/3.5.2.png)
 

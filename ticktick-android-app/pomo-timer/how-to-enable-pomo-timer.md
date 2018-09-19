@@ -6,7 +6,7 @@ When you first install and open TickTick on your mobile, the Pomo Timer feature 
 2. Find Pomo Timer -> Tap into it.
 3. Switch the first option "Pomo Timer" on.
 
-![andnewpomo1](../../../images/ticktick-android-app/pomo-timer/andnewpomo1.jpg)
+![andnewpomo1](../../images/ticktick-android-app/pomo-timer/andnewpomo1.jpg)
 
 You may also hide this function from the tab bar by following the instruction above.
 

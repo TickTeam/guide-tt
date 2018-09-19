@@ -1,14 +1,11 @@
-### How to get grid view of calendar? (Pro)
+### How to get to the monthly view?
 
-#### How to get grid view of calendar?
+To switch to the monthly view of calendar, tap the option button in the upper right hand corner of list view and choose "Month".
 
-To switch to grid view of calendar, tap the option menu in the upper right hand corner of list view and choose "Grid View".
-
-![](../../../images/ticktick-ios-app/calendar/4.5.2.1.png)
+![iosmonthlyview1](../../images/ticktick-ios-app/calendar/monthlyview1.jpg)
 
 #### How to show/hide future cycles for repeating tasks?
 
 Tap the option menu in the upper right hand corner and choose/not choose "Show All Repeat Cycles".
 
-![](../../../images/ticktick-ios-app/calendar/4.5.2.2.png)
-
+![iosmonthlyview2](../../images/ticktick-ios-app/calendar/monthlyview2.jpg)

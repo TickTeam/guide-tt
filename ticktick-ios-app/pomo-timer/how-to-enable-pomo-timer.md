@@ -1,10 +1,11 @@
 ### How to add pomo timer to the tab bar?
 
-When you first install and open TickTick on your mobile, the Pomo Timer function may not be turned on and display on the tab bar. Here's how you can turn it on manually:
 
-1. Open TickTick and go to Settings page from the tab bar.
-2. Find Pomo Timer -> Tap into it.
-3. Switch the first option "Pomo Timer" on.
+1. Go to Settings from the tab bar. Then enter Pomo Timer.
 
-![](../../../images/ticktick-ios-app/pomo-timer/4.6.1.1.png) You may also hide this function from the tab bar by following the instruction above.
+2. Enable it in there.
+
+![iosshowpomo](../../images/ticktick-ios-app/pomo timer/enablepomo.jpg)
+
+You may also hide this function from the tab bar by following the instruction above.
 

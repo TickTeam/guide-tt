@@ -1,10 +1,12 @@
 ### How to edit my account information?
 
-1. Open TickTick on your iOS device and slide the screen to the right.
+1. Go to Settings from the tab bar.
 
-2. Tap your avatar in the upper-left corner.
+2. Tap your avatar at the top.
 
-3. Your options include: update your avatar by using a photo or taking a picture, use a nickname, and change your email address & password.
+3. Then tap the "Edit" button on the right side of your name.
 
-![](../../../images/ticktick-ios-app/installation--account/4.1.6.png)
+
+
+![ioseditaccount](../../images/ticktick-ios-app/installation & account/editaccountinfo.jpg)
 

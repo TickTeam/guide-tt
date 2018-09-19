@@ -6,5 +6,5 @@ Please note that if you sign out of your account, you need to sign in again the 
 
 2. Tap the button in the upper-right corner (with the three vertical dots), and then tap "Sign Out".
 
-![](../../../images/ticktick-android-app/installation--account/3.1.3.png)
+![](../../images/ticktick-android-app/installation--account/3.1.3.png)
 

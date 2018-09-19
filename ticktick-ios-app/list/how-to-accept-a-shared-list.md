@@ -1,12 +1,12 @@
 ### How to accept a shared list?
 
-If someone shares a list with you, you will receive an invitation to accept the shared list.
+If someone shares a list with you, you will receive an invitation to ask you to accept the list.
 
-1. Open TickTick on your iOS device and slide the screen to the right at the Task tab.
+1. Go to the left sidebar and check in the notification center.
 
-2. Tap the envelope icon at the top of the screen. Tap "Accept" to accept the invitation or "Decline" to reject the invitation.
+2. Select to accept or decline the invitation.
 
-After accepting a shared list, it will be automatically added as a list in your TickTick.
+After accepting a shared list, it will automatically become as a list of yours and appear on the left sidebar with your other lists.
 
-![](../../../images/ticktick-ios-app/list/4.2.7.png)
+![iosacceptsharedlist](../../images/ticktick-ios-app/List/acceptsharedlist.jpg)
 

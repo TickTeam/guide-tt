@@ -1,10 +1,10 @@
 ### How to sort tags and sort tasks by tags
 
-On the left sidebar, you can drag and drop to manually change tags order.
+On the left sidebar, you can use drag & drop to manually change the order of tags.
 
-![](../../../images/ticktick-ios-app/tags/IMG_2313.PNG)
+![iossorttag1](../../images/ticktick-ios-app/tags/sorttag1.jpg)
 
-In a list view, you may use the auto sort functions to sort your tasks by tags via "..." at the top right corner - Sort - Sort by tag
+In a list view, you may use the auto sort functions to sort your tasks by tags via "..." at the top right corner - Sort - By tag.
 
-![](../../../images/ticktick-ios-app/tags/IMG_2314.PNG)
+![iossorttag2](../../images/ticktick-ios-app/tags/sorttag2.jpg)
 

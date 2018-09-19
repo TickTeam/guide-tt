@@ -8,5 +8,5 @@
 
 4. Check your email and follow the instructions to retrieve your password.
 
-![](../../../images/ticktick-android-app/installation--account/3.1.4.png)
+![](../../images/ticktick-android-app/installation--account/3.1.4.png)
 

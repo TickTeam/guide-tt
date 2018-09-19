@@ -1,10 +1,10 @@
 ### How to search for a task?
 
-1. Open TickTick on your iOS device and swipe the screen to the right.
+1. Go to the left sidebar. Tap the magnifying glass icon at the top right corner.
 
-2. Tap the magnifying glass icon beside your account name to search.
+2. Enter a keyword to search.
 
-Note that tasks in Closed lists are not displayed in the search results.
+Note: Tasks in Closed lists are not searchable.
 
-![](../../../images/ticktick-ios-app/task/4.3.15.png)
+![iossearch](../../images/ticktick-ios-app/task/searchtask.jpg)
 

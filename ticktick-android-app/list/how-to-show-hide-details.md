@@ -22,5 +22,5 @@ By allowing to show details, the following information of each task will be show
 
 **Note: This feature is not available on the web.**
 
-![](../../../images/ticktick-android-app/list/3.2.9.png)
+![](../../images/ticktick-android-app/list/3.2.9.png)
 

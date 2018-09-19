@@ -6,5 +6,5 @@
 
 3. Choose whether to print the list of tasks with or without each task's detailed contents. Then set your paper size, margins, and other printing attributes, and print the list.
 
-![](../../../images/ticktick-web-version/list/2.5.6.1.png)
+![](../../images/ticktick-web-version/list/2.5.6.1.png)
 

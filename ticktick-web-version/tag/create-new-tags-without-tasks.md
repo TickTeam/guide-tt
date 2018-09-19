@@ -4,7 +4,7 @@ If you already have a complete tagging system sorted in mind, you can start to c
 
 How: Click into Tags from the left sidebar - Add Tags
 
-![](../../../images/ticktick-web-version/tag/Screen%20Shot%202018-05-25%20at%203.19.48%20PM.png)
+![](../../images/ticktick-web-version/tag/Screen%20Shot%202018-05-25%20at%203.19.48%20PM.png)
 
 For example, you can name your tags as different task status.
 

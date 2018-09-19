@@ -8,5 +8,5 @@ Batch editing applies to all of the tasks you selected. Batch editing allows you
 
 3. Choose an option at the top of the screen (for example, delete the batch of tasks by tapping the Trash Can button).
 
-![](../../../images/ticktick-android-app/task/3.3.4.png)
+![](../../images/ticktick-android-app/task/3.3.4.png)
 

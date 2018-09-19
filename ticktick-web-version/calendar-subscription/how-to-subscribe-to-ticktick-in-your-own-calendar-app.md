@@ -8,5 +8,5 @@
 
 4. Enable the URL" in the section of "Subscribe TickTick in your calendar app".
 
-5. Add the provided URL to your calendar apps. ![](../../../images/ticktick-web-version/calendar-subscription/2.7.1.png)
+5. Add the provided URL to your calendar apps. ![](../../images/ticktick-web-version/calendar-subscription/2.7.1.png)
 

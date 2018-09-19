@@ -6,5 +6,5 @@
 
 3. Enable "Subscribe Calendar", then select local calendars to be displayed in TickTick.
 
-![](../../../images/ticktick-android-app/calendar/3.4.3.png)
+![](../../images/ticktick-android-app/calendar/3.4.3.png)
 

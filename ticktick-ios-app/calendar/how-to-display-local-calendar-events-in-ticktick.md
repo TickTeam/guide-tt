@@ -1,6 +1,9 @@
 ### How to display local calendar events in TickTick?
 
-To display events from your local calendar in TickTick, you must first enable the smart list "Calendar". "Calendar" is hidden by default. To enable it, see section 4.2.1 for more details. ![](../../../images/ticktick-ios-app/calendar/4.5.3.1.png) After enabling "Calendar", you can select local calendars to be displayed in TickTick. The procedure is as follows: Tap "Settings" in the sidebar menu, then tap "Advanced Settings", then tap "Subscribe Calendar", then tap "Local Calendar".
+To display events from your local calendar in TickTick, you must first enable "Subscribe Calendar".
 
-![](../../../images/ticktick-ios-app/calendar/4.5.3.2.png)
+![ioslocalevent](../../images/ticktick-ios-app/calendar/localcal1.jpg)
 
+Then you can select what events in your local calendar that you'd like to see in TickTick. Tap to switch between "Show", "Hidden", "Show in Calendar".
+
+![ioslocalevent2](../../images/ticktick-ios-app/calendar/localcal2.jpg)

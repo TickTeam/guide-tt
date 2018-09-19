@@ -6,5 +6,5 @@
 
 3. Enable "Subscribe Calendar", then tap "+ Add Account", then tap the calendar you want to subscribe to or tap "Add URL" to enter a Calendar URL.
 
-![](../../../images/ticktick-android-app/calendar/3.4.4.png)
+![](../../images/ticktick-android-app/calendar/3.4.4.png)
 

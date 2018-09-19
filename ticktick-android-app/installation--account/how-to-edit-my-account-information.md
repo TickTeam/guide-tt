@@ -6,5 +6,5 @@
 
 3. You can change your avatar, name, email address, and password here.
 
-![](../../../images/ticktick-android-app/installation--account/3.1.6.png)
+![](../../images/ticktick-android-app/installation--account/3.1.6.png)
 

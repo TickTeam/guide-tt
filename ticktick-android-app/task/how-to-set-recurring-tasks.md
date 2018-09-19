@@ -14,15 +14,15 @@ _**1.Default repeat mode: the next recurring date is Jun 19.**_
 
 In Default repeat mode, if you check the task off on June 15 (the first due date), the next recurring date should be Jun 17 (two days from June 15), and then June 19, June 21, etc. in two-day intervals. But if you check it off on Jun 18 which is after its next recurring date Jun 17, the next scheduled task will be in the future. In this case: Jun 19.
 
-![](../../../images/ticktick-android-app/task/3.3.6.1.png)
+![](../../images/ticktick-android-app/task/3.3.6.1.png)
 
 _**2.Custom repeat mode:**_
 
-![](../../../images/ticktick-android-app/task/3.3.6.2.png)
+![](../../images/ticktick-android-app/task/3.3.6.2.png)
 
 _1. Repeat from Due Date: the next recurring date is Jun 17._
 
-No matter when you check off this task, it will roll to the next recurring date, even though the next recurring date is in the past. ![](../../../images/ticktick-android-app/task/3.3.6.3.png)
+No matter when you check off this task, it will roll to the next recurring date, even though the next recurring date is in the past. ![](../../images/ticktick-android-app/task/3.3.6.3.png)
 
 _2. Repeat from Completion Date: the next recurring date is Jun 20._
 

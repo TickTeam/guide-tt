@@ -8,5 +8,5 @@
 
 By clicking "Import Backup", you can import backups generated from TickTick.
 
-![](../../../images/ticktick-web-version/backup-files/Screen%20Shot%202018-05-25%20at%202.42.44%20PM.png)
+![](../../images/ticktick-web-version/backup-files/Screen%20Shot%202018-05-25%20at%202.42.44%20PM.png)
 

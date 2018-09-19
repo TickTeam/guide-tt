@@ -4,7 +4,7 @@ To add the widget for pomo timer, you need to go to the Widgets settings on your
 
 It allows you to start a pomo from the home screen without entering the app.
 
-![](../../../images/ticktick-android-app/pomo-timer/DXMW5FGUQAAJLkd.png)
+![](../../images/ticktick-android-app/pomo-timer/DXMW5FGUQAAJLkd.png)
 
 **P.S.** This is a premium function.
 

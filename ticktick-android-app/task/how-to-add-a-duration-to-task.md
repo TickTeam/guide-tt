@@ -10,5 +10,5 @@ Normal mode: set time duration within one day
 
 Advanced mode: custom both start time and end time (no limitation)
 
-![](../../../images/ticktick-android-app/task/3.3.18.png)
+![](../../images/ticktick-android-app/task/3.3.18.png)
 

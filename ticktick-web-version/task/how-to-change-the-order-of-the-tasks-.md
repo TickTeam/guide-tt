@@ -8,5 +8,5 @@
 
 Tasks in "Today" and "Next 7 Days" can't be sorted automatically. Instead you can drag and drop tasks to change their order.
 
-![](../../../images/ticktick-web-version/task/Screen%20Shot%202018-05-25%20at%202.51.40%20PM.png)
+![](../../images/ticktick-web-version/task/Screen%20Shot%202018-05-25%20at%202.51.40%20PM.png)
 

@@ -8,5 +8,5 @@
 
 4. Tap "Add Smart Lists"
 
-![](../../../images/ticktick-android-app/list/Slice%202.png)
+![](../../images/ticktick-android-app/list/Slice%202.png)
 

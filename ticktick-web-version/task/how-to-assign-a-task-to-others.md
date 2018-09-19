@@ -8,5 +8,5 @@ In TickTick you can assign tasks in a shared list. The person you assign tasks t
 
 3. Click the assignment icon in the upper-right corner of the page to choose an assignee.
 
-![](../../../images/ticktick-web-version/task/2.6.11.png)
+![](../../images/ticktick-web-version/task/2.6.11.png)
 

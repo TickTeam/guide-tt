@@ -1,8 +1,8 @@
 ### How to change font size in TickTick?
 
-1. Go to Settings page from the tab bar.
+1. Go to Settings from the tab bar.
 
-2. Tap "Preferences", then tap "Font Size" to select standard or large
+2. Tap "Preferences", then tap "Font Size" and make your selection.
 
-![ioschangefont](../../../images/ticktick-ios-app/installation--account/4.1.10.png)
+![iosfontsize](../../images/ticktick-ios-app/installation & account/fontsize.jpg)
 

@@ -40,7 +40,7 @@ This command supports the x-callback-url protocol, in which it allows you to go 
 
 <br/>
 
-The following parameters are included in this command: ![urlscheme1](../../images/ticktick-ios-app/tumblr_inline_pby6exerSn1s0t9ry_640.png)
+The following parameters are included in this command: ![urlscheme1](../images/ticktick-ios-app/tumblr_inline_pby6exerSn1s0t9ry_640.png)
 
 Examples:
 
@@ -54,7 +54,7 @@ Create a task named "Buy some eggs" at "6pm" in "shopping" list.
 
 <br/>
 
-When using x-success, the following parameters will be returned to the previous app after successfully adding tasks in TickTick: ![urlscheme2](../../images/ticktick-ios-app/tumblr_inline_pby6l1FIc41s0t9ry_640.png)
+When using x-success, the following parameters will be returned to the previous app after successfully adding tasks in TickTick: ![urlscheme2](../images/ticktick-ios-app/tumblr_inline_pby6l1FIc41s0t9ry_640.png)
 
 2."show" command
 
@@ -66,7 +66,7 @@ When using x-success, the following parameters will be returned to the previous 
 
 The following parameters are included in this command:
 
-![urlscheme3](../../images/ticktick-ios-app/tumblr_inline_pby6m7ofNi1s0t9ry_640.png)
+![urlscheme3](../images/ticktick-ios-app/tumblr_inline_pby6m7ofNi1s0t9ry_640.png)
 
 Example:
 
@@ -84,7 +84,7 @@ Example:
 
 The following parameters are included in this command:
 
-![urlscheme4](../../images/ticktick-ios-app/tumblr_inline_pby6orZCG01s0t9ry_640.png)
+![urlscheme4](../images/ticktick-ios-app/tumblr_inline_pby6orZCG01s0t9ry_640.png)
 
 Example:
 

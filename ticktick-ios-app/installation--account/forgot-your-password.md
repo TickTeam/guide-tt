@@ -1,12 +1,12 @@
 ### Forgot your password?
 
-1. Tap "Forgot Password" in the TickTick sign-in page.
+1. Tap "Forgot Password" at the sign-in page.
 
-2. When the Forgot Password page opens, enter your email address.
+2. Enter your email address.
 
-3. Tap "Reset Password" and TickTick will send an email to you with instructions.
+3. Tap "Reset Password" and TickTick will send an email with instructions.
 
-4. Check your email and follow the instructions to retrieve your new password.
+4. Check your email and follow the instructions to set a new password.
 
-![](../../../images/ticktick-ios-app/installation--account/4.1.4.png)
+![iosforgotpassword](../../images/ticktick-ios-app/installation & account/forgotpassword.jpg)
 

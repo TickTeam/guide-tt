@@ -4,25 +4,25 @@ TickTick is a simple and effective to-do list & task management app that helps y
 
 #### Add tasks anytime, anywhere!
 
-![](../../images/introduction/tidy.png)
+![](../images/introduction/tidy.png)
 
 #### Check tasks one by one!
 
-![](../../images/introduction/itemize.png)
+![](../images/introduction/itemize.png)
 
 #### View and manage your agenda with calendar!
 
-![](../../images/introduction/simple.png)
+![](../images/introduction/simple.png)
 
 #### Get reminded based on time & location!
 
-![](../../images/introduction/reminded.png)
+![](../images/introduction/reminded.png)
 
 #### Multiple themes for individual taste!
 
-![](../../images/introduction/themes.png)
+![](../images/introduction/themes.png)
 
 #### Discover more powerful features with TickTick!
 
-![](../../images/introduction/integration.png)
+![](../images/introduction/integration.png)
 

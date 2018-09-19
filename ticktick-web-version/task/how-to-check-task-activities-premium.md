@@ -8,5 +8,5 @@
 
 4. Click "done" to return to your TickTick homepage, then click on any task, and click the "···" icon on the bottom of the right panel.
 
-5. Choose "Task Activities" to check all modification records. ![](../../../images/ticktick-web-version/task/2.6.13.png)
+5. Choose "Task Activities" to check all modification records. ![](../../images/ticktick-web-version/task/2.6.13.png)
 

@@ -8,5 +8,5 @@
 
 Supported file types include Word, Excel, and various image files.
 
-![](../../../images/ticktick-web-version/task/2.6.9.png)
+![](../../images/ticktick-web-version/task/2.6.9.png)
 

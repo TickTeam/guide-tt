@@ -1,6 +1,8 @@
 ### How to set a snooze time?
 
-When getting a reminder on your iOS device, you can set snooze time to let it ring again later. Tap the task in the pull-down screen to select an existing snooze time. You can also tap "Custom" to set snooze time by yourself, or even choose another date.
+When a reminder notification pops up, you can choose to snooze it and let it ring again later. 
 
-![](../../../images/ticktick-ios-app/reminder/4.4.5.png)
+You can also select "Custom" to set a snooze time/date by yourself.
+
+![iossnooze](../../images/ticktick-ios-app/reminder/snooze.jpg)
 

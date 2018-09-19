@@ -8,5 +8,5 @@ If you want to set a specific due date, priority level, and/or reminder every ti
 
 3. Set the default options such as priority, due date, reminder,etc for new tasks.
 
-![](../../../images/ticktick-android-app/task/Slice%206.png)
+![](../../images/ticktick-android-app/task/Slice%206.png)
 

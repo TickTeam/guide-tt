@@ -4,7 +4,7 @@
 
 2. A dialog box will appear with the URL for the webpage displayed in the task description. You can edit this content, set a due date and time, and save it as a task in TickTick.
 
-![](../../../images/chrome-extension/task/5.2.6.png) <br />
+![](../../images/chrome-extension/task/5.2.6.png) <br />
 
 **Why "Add to TickTick" doesn't work?**
 

@@ -1,10 +1,8 @@
-### How to edit lists and folders?
+### How to edit lists/folders?
 
-1. Open TickTick on your iOS device and slide the screen to the right at the Task tab.
+1. Go to the left sidebar and swipe left on the list/folder that you'd like to edit/delete.
 
-2. Swipe a list or folder to the left.
+2. Tap the "Edit" button or the "Delete" button.
 
-3. Tap "Edit"to edit the list or folder.
-
-![](../../../images/ticktick-ios-app/list/ios425.png)
+![ioseditlists](../../images/ticktick-ios-app/List/editlist.jpg)
 

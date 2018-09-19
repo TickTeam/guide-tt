@@ -8,5 +8,5 @@
 
 4. Click the avatar to upload a profile image.
 
-![](../../../images/ticktick-web-version/personal-profile/2.2.1.png)
+![](../../images/ticktick-web-version/personal-profile/2.2.1.png)
 

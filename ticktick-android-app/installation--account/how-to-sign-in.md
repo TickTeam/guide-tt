@@ -4,5 +4,5 @@ You can sign in with your gmail, Google+, Facebook, or Twitter account directly,
 
 If you would like to try the TickTick Android app before registering an account, tap "Try" and familiarize yourself with the app. But be aware that your tasks cannot be synced until you use a registered account.
 
-![](../../../images/ticktick-android-app/installation--account/3.1.2.png)
+![](../../images/ticktick-android-app/installation--account/3.1.2.png)
 

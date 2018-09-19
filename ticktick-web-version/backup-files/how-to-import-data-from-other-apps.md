@@ -8,5 +8,5 @@
 
 TickTick allows you to import tasks from other to-do apps, including Todoist, Wunderlist, Omnifocus, Toodledo and iCal.
 
-![](../../../images/ticktick-web-version/backup-files/Screen%20Shot%202018-05-25%20at%202.43.54%20PM.png)
+![](../../images/ticktick-web-version/backup-files/Screen%20Shot%202018-05-25%20at%202.43.54%20PM.png)
 

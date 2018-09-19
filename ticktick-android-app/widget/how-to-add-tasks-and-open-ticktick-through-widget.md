@@ -4,5 +4,5 @@ You can directly add tasks through all sizes of widgets without opening the Tick
 
 Tap a specific task on the widget to enter its detail page, or click on any of the tasks to open a list view in TickTick.
 
-![](../../../images/ticktick-android-app/widget/3.6.4.png)
+![](../../images/ticktick-android-app/widget/3.6.4.png)
 

@@ -2,19 +2,17 @@
 
 ##### Option 1:
 
-1. Open TickTick on your iOS device and select a task to enter task detail screen.
+1. In a task detail view, tap the top area that shows the task's current list.
 
-2. Tap the current list name in middle of top bar, then a "Move to" screen will appear.
+2. Select a new list for this task.
 
-3. Tap a list you want the task to be moved into.
+![iosmovelist1](../../images/ticktick-ios-app/task/movelist1.jpg)
 
-![](../../../images/ticktick-ios-app/task/4.3.16.1.png)
+##### Option 2:
 
-##### Option 2(Quick action swipe):
+1. In a list view, swipe a task to the left, then tap the first "Move to" icon.
 
-1. Swipe a task to the left, and then three icons with different background color will appear. Then tap the first icon with the yellow background color.
+2. Select a new list for this task.
 
-2. Tap on a list you want to move the task into.
-
-Note that the red and blue quick action swipe features are discussed in section 4.3.9.! ![](../../../images/ticktick-ios-app/task/4.3.16.2.png)
+![iosmovelist2](../../images/ticktick-ios-app/task/movelist2.jpg)
 

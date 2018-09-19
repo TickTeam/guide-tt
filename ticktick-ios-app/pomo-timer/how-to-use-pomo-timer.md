@@ -1,35 +1,34 @@
 #### Three ways to start a pomo
 
-##### From the pomo tab page:
+##### In the pomo timer:
 
-1. Open TickTick and go to the pomo tab page.
-2. Tab "Select a task" area at the top and select a task you would like to work on with a pomo.
-3. Tap "Start" once you are ready to begin focusing.
+1. Go to the pomo timer from the tab bar.
+2. Tab the button at the top right corner and select a task that you want to focus on.
+3. Pomo timer will be auto started once you select a task.
 
-![](../../../images/ticktick-ios-app/pomo-timer/4.6.2.1.png)
+![iospomo1](../../images/ticktick-ios-app/pomo timer/usepomo1.jpg)
 
-##### From a task view:
+##### In a task detail view:
 
-Click the "..."icon at the top right->Tap "Start" the pomo icon.
+Tap the "..."icon at the top right corner - Select to "Start  Pomo".
 
-![](../../../images/ticktick-ios-app/pomo-timer/4.6.2.2.png)
+![iospomo2](../../images/ticktick-ios-app/pomo timer/usepomo2.jpg)
+##### Via a task notification:
 
-##### From a task notification:
+When a notificaiton pops up in TickTick,  tap the "Start" button and begin to focus rightaway.
 
-When a notificaiton pops up in TickTick, you can tap "Start" the pomo icon and begin to focus rightaway.
-
-![](../../../images/ticktick-ios-app/pomo-timer/4.6.2.3.png)
+![iospomo3](../../images/ticktick-ios-app/pomo timer/usepomo3.jpg)
 
 <br />
 
 #### How to custom my Pomo settings?
 
-1. Tap the mini pomo icon at the top right of the pomo page, or go to "Pomo Timer" from the Settings page.
+1. Go to "Pomo Timer" from the Settings page.
 2. Customize the settings such as Short break Duration, Long Break Duration,etc.
 
-**Tips** :"Lights on" is a function that will allow the screen to remain bright during a Pomo once you turn it on.
 
-![](../../../images/ticktick-ios-app/pomo-timer/4.6.2.4.png) <br />
+
+![iospomo4](../../images/ticktick-ios-app/pomo timer/usepomo4.jpg)
 
 #### Can I skip to break or pause a pomo?
 

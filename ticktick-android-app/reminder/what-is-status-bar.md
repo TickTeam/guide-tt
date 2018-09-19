@@ -10,7 +10,7 @@ The TickTick Status Bar appears in the standard pull-down screen of your Android
 
 You can also change the font color for your Status Bar entries. There is an option directly below the "Status Bar" menu item.
 
-![](../../../images/ticktick-android-app/reminder/3.5.6.1.png)
+![](../../images/ticktick-android-app/reminder/3.5.6.1.png)
 
 #### How to make notifications stay on your Status Bar?
 
@@ -20,5 +20,5 @@ If you enable the "Stick on Status Bar" feature, notifications will stay on the 
 
 2.Tap "Reminder", then tap "Stick on Status Bar".
 
-![](../../../images/ticktick-android-app/reminder/3.5.6.2.png)
+![](../../images/ticktick-android-app/reminder/3.5.6.2.png)
 

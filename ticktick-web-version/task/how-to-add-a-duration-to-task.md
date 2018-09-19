@@ -4,5 +4,5 @@ With "Time Duration" function, you can set both start time and end time to a tas
 
 Go to a task's details view -> Click the time info at the top -> Select Duration
 
-![](../../../images/ticktick-web-version/task/Screen%20Shot%202018-05-25%20at%202.53.33%20PM.png)
+![](../../images/ticktick-web-version/task/Screen%20Shot%202018-05-25%20at%202.53.33%20PM.png)
 

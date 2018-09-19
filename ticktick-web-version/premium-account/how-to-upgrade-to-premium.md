@@ -10,7 +10,7 @@
 
 5. Choose a monthly or annual subscription to complete your payment via Paypal.
 
-You can also subscribe to TickTick Premium on your mobile app via "Google Wallet" or "iTunes", according to your device. ![](../../../images/ticktick-web-version/premium-account/2.4.1.png) <br />
+You can also subscribe to TickTick Premium on your mobile app via "Google Wallet" or "iTunes", according to your device. ![](../../images/ticktick-web-version/premium-account/2.4.1.png) <br />
 
 **Can I cancel the subscription anytime?**
 

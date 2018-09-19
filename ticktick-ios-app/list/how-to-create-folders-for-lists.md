@@ -1,14 +1,10 @@
-# How to create list folders?
+# How to create folders?
 
-With Folders, organizing your lists is as simple as drag-and-drop.
+1. On the left sidebar, drag a list onto another list and release to create a folder that includes the two lists. 
 
-1. Open TickTick and go to the Task tab.
+3. Name the folder and select whether you want an "All tasks" list under this folder.
 
-2. Drag a list on top of another that you’d like to include in the same folder.
+4. After a folder's created, drag other lists onto it to put them under this folder too.
 
-3. Hover your selected list until a blue box appears around the second list.
-
-4. Drop the selected list, and then you can enter a name for the folder.
-
-![](../../../images/ticktick-ios-app/list/4.2.4.png)
+![ioscreatefolder](../../images/ticktick-ios-app/List/createfolder.png)
 

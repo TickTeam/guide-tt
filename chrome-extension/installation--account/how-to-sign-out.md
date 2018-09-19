@@ -4,5 +4,5 @@
 
 2. Click your avatar and select Sign Out from the dropdown menu.
 
-![](../../../images/chrome-extension/installation--account/5.1.3.png)
+![](../../images/chrome-extension/installation--account/5.1.3.png)
 

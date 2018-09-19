@@ -6,5 +6,5 @@
 
 3. Tap the list you want to sort, then drag & drop it to reorder it.
 
-![](../../../images/ticktick-android-app/list/3.2.8.png)
+![](../../images/ticktick-android-app/list/3.2.8.png)
 

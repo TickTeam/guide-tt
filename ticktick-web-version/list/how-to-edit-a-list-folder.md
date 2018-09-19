@@ -8,5 +8,5 @@
 
 4. Change list/folder name, etc.
 
-![](../../../images/ticktick-web-version/list/2.5.4.png)
+![](../../images/ticktick-web-version/list/2.5.4.png)
 

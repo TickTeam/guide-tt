@@ -10,5 +10,5 @@ With Folders, organizing your lists is as simple as drag-and-drop.
 
 4. Drop the chosen list by releasing the mouse button, and then name the folder.
 
-![](../../../images/ticktick-web-version/list/web2-listfolder.png)
+![](../../images/ticktick-web-version/list/web2-listfolder.png)
 

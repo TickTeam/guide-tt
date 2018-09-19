@@ -6,5 +6,5 @@
 
 3. Make changes, then tap the TickTick icon at the top left to save and go back.
 
-![](../../../images/ticktick-android-app/list/Screenshot_20180524-144519.png)
+![](../../images/ticktick-android-app/list/Screenshot_20180524-144519.png)
 

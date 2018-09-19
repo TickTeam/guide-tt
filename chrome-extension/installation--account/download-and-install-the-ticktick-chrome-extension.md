@@ -6,5 +6,5 @@ Visit the Chrome Web Store using Chrome browser and follow the instructions belo
 
 2. Click "Add to Chrome".
 
-![](../../../images/chrome-extension/installation--account/5.1.1.png)
+![](../../images/chrome-extension/installation--account/5.1.1.png)
 

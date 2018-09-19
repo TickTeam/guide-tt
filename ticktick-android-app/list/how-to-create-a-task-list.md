@@ -6,5 +6,5 @@
 
 3. Enter a name for your list, then choose a color. This menu also lets you assign the new list to an existing folder or create a new folder in which to store it.
 
-![](../../../images/ticktick-android-app/list/Slice%203.png)
+![](../../images/ticktick-android-app/list/Slice%203.png)
 

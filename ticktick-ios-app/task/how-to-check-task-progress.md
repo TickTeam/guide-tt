@@ -1,10 +1,10 @@
-# How to record task progress?
+### How to check task progress?
 
-### To record progress for a task:
 
-1.Tap a task title to enter its detail page.
+-Enter a task detail view and check from the top indicator. You may hold&drag to change the progress as well.
 
-2.Tap the date section (hold and drag) to record progress for the task.
+-In the list view, a small indicator will appear when at least one subtask's completed.
 
-![](../../../images/ticktick-ios-app/task/4.3.3.png)
+
+![iostaskprogress](../../images/ticktick-ios-app/task/taskprogress.jpg)
 

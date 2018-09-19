@@ -8,7 +8,7 @@ If your email inbox is full of to-dos, you can turn them into tasks using Mail S
 
 3. Click "Calendar & Mail" in the left panel.
 
-![](../../../images/ticktick-web-version/task/2.6.5.png)
+![](../../images/ticktick-web-version/task/2.6.5.png)
 
 Two separate email address appear at the bottom of the right panel.
 

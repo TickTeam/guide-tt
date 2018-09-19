@@ -1,14 +1,10 @@
 ### How to upload attachments?
 
-Uploading attachment is free for all users. You can add photos and even voice memos to a task.
 
-Note that free accounts have a more restrictive limitation on the number of attachments permitted per day compared with the Premium version of TickTick.
+1. Tap the "..." button at the top right corner in a task detail view.
 
-1. Select a task.
+2. Select "Attachment".
 
-2. Tap the option menu in the upper-right hand corner.
 
-3. Select "Photo", "Camera", or "Record" to upload the relevant attachment to the task in TickTick.
-
-![](../../../images/ticktick-ios-app/task/4.3.10.png)
+![iosattachment](../../images/ticktick-ios-app/task/uploadattachment.jpg)
 
